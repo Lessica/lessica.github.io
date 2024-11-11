@@ -6,20 +6,16 @@ import pathlib
 from datetime import datetime, timezone
 from colorama import init, Fore
 
-
 # 初始化 colorama
 init(autoreset=True)
 
 
-def get_file_hashes(file_path):
-    hashes = {}
+def calculate_hash(file_path, hash_type):
+    hash_func = getattr(hashlib, hash_type)()
     with open(file_path, 'rb') as f:
-        contents = f.read()
-        hashes['MD5sum'] = hashlib.md5(contents).hexdigest()
-        hashes['SHA1'] = hashlib.sha1(contents).hexdigest()
-        hashes['SHA256'] = hashlib.sha256(contents).hexdigest()
-        hashes['SHA512'] = hashlib.sha512(contents).hexdigest()
-    return hashes
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_func.update(chunk)
+    return hash_func.hexdigest()
 
 
 def generate_release_file(packages_files, output_file):
@@ -38,35 +34,31 @@ def generate_release_file(packages_files, output_file):
 
         release_file.write("MD5Sum:\n")
         for file_path in packages_files:
-            hashes = get_file_hashes(file_path)
             file_size = os.path.getsize(file_path)
             relative_path = pathlib.Path(file_path).name
-            release_file.write(f" {hashes['MD5sum']} {
-                               file_size} {relative_path}\n")
+            md5sum = calculate_hash(file_path, 'md5')
+            release_file.write(f" {md5sum} {file_size} {relative_path}\n")
 
         release_file.write("SHA1:\n")
         for file_path in packages_files:
-            hashes = get_file_hashes(file_path)
             file_size = os.path.getsize(file_path)
             relative_path = pathlib.Path(file_path).name
-            release_file.write(f" {hashes['SHA1']} {
-                               file_size} {relative_path}\n")
+            sha1sum = calculate_hash(file_path, 'sha1')
+            release_file.write(f" {sha1sum} {file_size} {relative_path}\n")
 
         release_file.write("SHA256:\n")
         for file_path in packages_files:
-            hashes = get_file_hashes(file_path)
             file_size = os.path.getsize(file_path)
             relative_path = pathlib.Path(file_path).name
-            release_file.write(f" {hashes['SHA256']} {
-                               file_size} {relative_path}\n")
+            sha256sum = calculate_hash(file_path, 'sha256')
+            release_file.write(f" {sha256sum} {file_size} {relative_path}\n")
 
         release_file.write("SHA512:\n")
         for file_path in packages_files:
-            hashes = get_file_hashes(file_path)
             file_size = os.path.getsize(file_path)
             relative_path = pathlib.Path(file_path).name
-            release_file.write(f" {hashes['SHA512']} {
-                               file_size} {relative_path}\n")
+            sha512sum = calculate_hash(file_path, 'sha512')
+            release_file.write(f" {sha512sum} {file_size} {relative_path}\n")
 
 
 def main():
