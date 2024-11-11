@@ -1,0 +1,27 @@
+base-url: "https://apt.82flex.com"
+
+repos:
+  - "https://github.com/Lessica/TrollRecorder"
+  - "https://github.com/Lessica/TrollSpeed"
+  - "https://github.com/OwnGoalStudio/WriteNow"
+  - "https://github.com/OwnGoalStudio/Kayoko"
+  - "https://github.com/OwnGoalStudio/NoRedirect"
+  - "https://github.com/OwnGoalStudio/RemoveWidgetBackground"
+  - "https://github.com/OwnGoalStudio/IconRestore"
+  - "https://github.com/OwnGoalStudio/ColorfulWallpaperX"
+  - "https://github.com/OwnGoalStudio/Touch-Viz"
+  - "https://github.com/OwnGoalStudio/WTVRBGLauncher"
+  - "https://github.com/OwnGoalStudio/SingleVPN"
+  - "https://github.com/OwnGoalStudio/SingleMute"
+
+havoc-mappings:
+  wiki.qaq.trapp.jb: trollrecorderjb
+  ch.xxtou.hudapp.jb: trollspeedjb
+  com.82flex.iconrestore: iconrestore
+  com.82flex.noredirect: noredirect
+  com.82flex.removewidgetbg: removewidgetbg
+  com.82flex.singlemute: singlemute
+  com.82flex.singlevpn: singlevpn
+  com.82flex.touchvis: touchvis
+  wiki.qaq.colorfulwallpaperx: colorfulx
+  wiki.qaq.writenow: writenow
