@@ -18,10 +18,14 @@ init(autoreset=True)
 # 从 index.yaml 文件中读取 Havoc ID 映射
 BASE_URL = None
 havoc_ids = {}
+hidden_packages = []
+package_title_mappings = {}
 with open('index.yaml', 'r', encoding='utf-8') as file:
     data = yaml.safe_load(file)
     BASE_URL = data['base-url']
     havoc_ids = data['havoc-mappings']
+    hidden_packages = data['hidden-packages']
+    package_title_mappings = data['package-title-mappings']
 
 
 # 从 icons/index.yaml 文件中读取图标文件名映射
@@ -46,7 +50,7 @@ def get_file_hashes(file_path):
 
 def generate_packages_file(deb_directory, output_file):
     with open(output_file, 'w', encoding='utf-8') as packages_file:
-        for deb_file in os.listdir(deb_directory):
+        for deb_file in sorted(os.listdir(deb_directory)):
             if not deb_file.endswith('.deb'):
                 continue
 
@@ -56,28 +60,46 @@ def generate_packages_file(deb_directory, output_file):
             # 获取 dpkg-deb 输出
             result = subprocess.run(
                 ['dpkg-deb', '-f', deb_path], capture_output=True, text=True, check=True)
-            packages_file.write(result.stdout)
+            control_content = result.stdout
 
             # 添加 Havoc 展示字段
-            control_content = result.stdout
             package_name = re.search(
                 r"^Package: (.+)$", control_content, re.MULTILINE)
-            if package_name:
-                package_name = package_name.group(1)
-                havoc_id = havoc_ids.get(package_name, None)
-                if havoc_id:
-                    print(
-                        Style.DIM + f"Package name: {package_name}, Havoc ID: {havoc_id}")
+            if not package_name:
+                print(
+                    Fore.RED + f"Package name not found in control file of {deb_path}")
+                continue
+
+            # 预处理名称
+            package_name = package_name.group(1)
+            if package_name in package_title_mappings:
+                control_content = re.sub(
+                    r"^Name: .+$", f"Name: {
+                        package_title_mappings[package_name]}",
+                    control_content, flags=re.MULTILINE)
+            if package_name in hidden_packages:
+                print(Style.DIM + Fore.YELLOW +
+                      f"Package {package_name} is hidden")
+                continue
+
+            # 写入 control 文件内容
+            packages_file.write(control_content)
+
+            # 添加 Havoc ID 和图标字段
+            havoc_id = havoc_ids.get(package_name, None)
+            if havoc_id:
+                print(
+                    Style.DIM + f"Package name: {package_name}, Havoc ID: {havoc_id}")
+                packages_file.write(
+                    f"Depiction: https://havoc.app/depiction/{havoc_id}\n")
+                packages_file.write(
+                    f"SileoDepiction: https://havoc.app/package/{havoc_id}/depiction.json\n")
+                icon_name = icon_mappings.get(package_name, None)
+                if BASE_URL and icon_name:
                     packages_file.write(
-                        f"Depiction: https://havoc.app/depiction/{havoc_id}\n")
-                    packages_file.write(
-                        f"SileoDepiction: https://havoc.app/package/{havoc_id}/depiction.json\n")
-                    icon_name = icon_mappings.get(package_name, None)
-                    if BASE_URL and icon_name:
-                        packages_file.write(
-                            f"Icon: {BASE_URL}/icons/{icon_name}\n")
-                else:
-                    print(Style.DIM + f"Package name: {package_name}")
+                        f"Icon: {BASE_URL}/icons/{icon_name}\n")
+            else:
+                print(Style.DIM + f"Package name: {package_name}")
 
             # 添加 Filename 和 Size 字段
             packages_file.write(f"Filename: {deb_path}\n")

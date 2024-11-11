@@ -25,3 +25,9 @@ havoc-mappings:
   com.82flex.touchvis: touchvis
   wiki.qaq.colorfulwallpaperx: colorfulx
   wiki.qaq.writenow: writenow
+
+package-title-mappings:
+  wiki.qaq.colorfulwallpaperx: Colorful Wallpaper X
+
+hidden-packages:
+  - ch.xxtou.hudapp
