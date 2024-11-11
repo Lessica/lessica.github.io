@@ -1,0 +1,68 @@
+name: Syncronize with upstream
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.12
+
+    - name: Install dependencies
+      run: |
+        python -m venv .venv
+        source .venv/bin/activate
+        pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Collect distributions
+      run: |
+        source .venv/bin/activate
+        python devkit/collect_dists.py
+
+    - name: Collect icons
+      run: |
+        source .venv/bin/activate
+        python devkit/collect_icons.py
+
+    - name: Build packages
+      run: |
+        source .venv/bin/activate
+        python devkit/build_packages.py
+
+    - name: Build release
+      run: |
+        source .venv/bin/activate
+        python devkit/build_release.py
+
+    - name: Import GPG key
+      run: |
+        echo "$GPG_PRIVATE_KEY" | gpg --import
+      env:
+        GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+
+    - name: Configure Git for signed commits
+      run: |
+        git config --global user.name "Build Service"
+        git config --global user.email "service@qaq.wiki"
+        git config --global commit.gpgSign true
+        git config --global user.signingkey $(gpg --list-secret-keys --keyid-format LONG | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+
+    - name: Push changes
+      if: success()
+      run: |
+        if git diff --quiet Packages; then
+          echo "No changes in Packages file."
+        else
+          git add .
+          git commit -sS -am "update dists"
+          git push
+        fi
