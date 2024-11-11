@@ -1,0 +1,27 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{263, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://media.havoc.app/65e848b8c03f8cb71ba42b49",
+			"title": "TrollRecorder JB",
+			"package": "wiki.qaq.trapp.jb"
+		},
+		{
+			"url": "https://media.havoc.app/66bce535debd6e7267e31ae9",
+			"title": "Colorful Wallpaper X",
+			"package": "wiki.qaq.colorfulwallpaperx"
+		},
+		{
+			"url": "https://media.havoc.app/66c44f3f39fa8cac936da033",
+			"title": "Write Now",
+			"package": "wiki.qaq.writenow"
+		},
+		{
+			"url": "https://media.havoc.app/66a489f8066c63e2b4e6e879",
+			"title": "Touch-Viz",
+			"package": "com.82flex.touchvis"
+		}
+	]
+}
