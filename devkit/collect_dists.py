@@ -85,7 +85,7 @@ def download_repo_manifests(repo_url):
 
 def download_deb_files_from_repo(repo_url):
     repo_name = '/'.join(repo_url.split('/')[-2:])
-    releases_url = f'https://api.github.com/repos/{repo_name}/releases'
+    releases_url = f'https://api.github.com/repos/{repo_name}/releases?per_page=100'
     response = requests.get(releases_url, headers={
         'Authorization': f'token {GITHUB_TOKEN}',
         'Accept': 'application/vnd.github.v3+json'
