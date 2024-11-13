@@ -228,11 +228,11 @@ Architecture: iphoneos-arm
 Version: 2.7
 Installed-Size: 936
 Filename: downloads/codes.aurora.kayoko_2.7_iphoneos-arm.deb
-Size: 123992
-MD5sum: 1fc275c7eb4aadcc10dedb2f1c31d82f
-SHA1: 9ef51ae8c320f8fd7f9e0376b28cfc6782f3eb00
-SHA256: 08406f4353953ce41bba0419be4b7723a807d969b92e5a927b4811e948a42b90
-SHA512: 394e09255794b7ea51f79332ae17d03144250e3e5887c3caadd0a83ea86bab8800025671b5cf21ad31c4963f2aa120d9581fff40607be5c80fe41a70d2a72413
+Size: 126706
+MD5sum: eb87e244bef6e69475514a26aad2c447
+SHA1: 2e976fa538ce6d939fd425473a559636de9538fb
+SHA256: 2e11748443914afde88adb77ada08bc30c1b778cec98dbd792ffac417f0d051a
+SHA512: 10232d116af7aee19e24305a1bfdd7e7caf65918f3759fce64b251794b263a4182022d958a23aa542fac555faf54c9d6cf1d835f4621479cf48a2b0ee2bc2af0
 
 Package: codes.aurora.kayoko
 Name: Kayoko
@@ -245,11 +245,11 @@ Architecture: iphoneos-arm64
 Version: 2.7
 Installed-Size: 936
 Filename: downloads/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
-Size: 123740
-MD5sum: 4d6390b845b7492ae31cc8b3e0dd05ed
-SHA1: 776d1e1e9e4d1eb3ed8cdae0cfe85cf8320966c0
-SHA256: a1e6f5ad57be9e0d7242ea6ccdfd805b5941f9d680edbd25d33fb0836dfde249
-SHA512: f4047ef0246cb1d515b1c7d19908ddda2b2d6294ba9fbfc91db90a423fc532e341b7c340353eb238d5bcc5e6a477fcf524a8fcfa0db011ef78a53d1c9be4864b
+Size: 126294
+MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
+SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
+SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
+SHA512: fd584fc546b73c341fc0027fe88e5f58280ab41af89fb309d201b7a64ad7ccf4988880494dcae21e6ae7e2c621a53f949f31333dcab3569cadf0fa18abc30953
 
 Package: codes.aurora.kayoko
 Name: Kayoko
@@ -262,11 +262,11 @@ Architecture: iphoneos-arm64e
 Version: 2.7
 Installed-Size: 936
 Filename: downloads/codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
-Size: 124116
-MD5sum: 2cd848a42cfaea1bc98c68a8da6860b3
-SHA1: c2306a279b47079966fffd311d8fb9ddedf01a6e
-SHA256: 8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff
-SHA512: 86f179d28be944469fd2a79fe657c1ffe1c22ffdf878f6e2fdd4bb570d2a34f35b47222c6227a45ad62a7f4b8ebf308fddfb0b5878f1e57a723f17771d4f6b5c
+Size: 126552
+MD5sum: 62209d49c8e3d9ca031d6bbab1ecfed5
+SHA1: 0394ef427a5938054adced6d873c6de0050f3c0d
+SHA256: 449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b
+SHA512: ff52f3ce6cf9ef8adcc77c7c7b3d96bcde5a9564c6ac5367aae00608c4791b6039f4c4f687284a1b884db7b97b64fcde2d7d4789e540f9d098a9a6e476adfe58
 
 Package: com.82flex.iconrestore
 Name: Icon Restore
@@ -282,11 +282,11 @@ Depiction: https://havoc.app/depiction/iconrestore
 SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
 Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
 Filename: downloads/com.82flex.iconrestore_1.7_iphoneos-arm.deb
-Size: 29654
-MD5sum: e440c120dc45a046b19fa61a02ab751d
-SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
-SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
-SHA512: e6ebe065087bbc25b26a53ffbabaf2ca735ac2dac0e765f5c6b165534b83b643d7c69d831c77a64946c92e8980a28af1e048bad2f94da31b655e5b0d027b78a4
+Size: 30374
+MD5sum: 2ef92de545c4fc665799f763e9a57a74
+SHA1: 09964c08f569a8b8a1b8f4d0d80b13a0a1b4a151
+SHA256: 421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031
+SHA512: 239a3ad5a44e0718141847094b84c5eab661cf9ff0af36ef633c1b39067ebf97144010ec9c18080da5c738af292f69fc7f67066ce05408398f560d00decc15cb
 
 Package: com.82flex.iconrestore
 Name: Icon Restore
@@ -302,11 +302,11 @@ Depiction: https://havoc.app/depiction/iconrestore
 SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
 Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
 Filename: downloads/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
-Size: 29712
-MD5sum: 0f3a9a50a14aee76115dccb654741f93
-SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
-SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
-SHA512: 653e69a6b3ab9f0f65967374baa6aaec259736b5625243d2bd9c932582ebe44dfd3edd337c2f08e049553b2ec410b4d683747b6daf5a942dd66063b93d598e79
+Size: 30460
+MD5sum: fd6409554b1bdbb3f7cc707147b1356f
+SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
+SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+SHA512: c2b77a35ca01811e7ad2aba3fb43bcf1c7060262a285e72bb2db24dd635da796ccc43198b331cc44562168703996513d43ab49941b87166cfdc5cf6960ba4abf
 
 Package: com.82flex.iconrestore
 Name: Icon Restore
@@ -322,11 +322,11 @@ Depiction: https://havoc.app/depiction/iconrestore
 SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
 Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
 Filename: downloads/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
-Size: 29624
-MD5sum: b020c6bf42bd2a6849aa65bf872eed25
-SHA1: 9137b331bae4d1ad18ae88ebe5d65aa18b1f10b2
-SHA256: f279ae6e40472a450d072f8fa1687e588cd861a25e52e163923c93fafdf07ff6
-SHA512: e81c0e1f3e18a56b06dcd1d9859d4f198d741b9005be5ad56359e4cf0bb9e7798826533b84ba1bccc3474bb74fa31e5ed87f8a378b85bcd761a94522cadf9e71
+Size: 30404
+MD5sum: 0aa2b5ce8fc9e254a9b0429393e88769
+SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
+SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
+SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543ceaf5936253fa5f65a95b818c8fd0fefbc4e1219d73021c734d9f8ce0
 
 Package: com.82flex.noredirect
 Name: No Redirect
@@ -342,11 +342,11 @@ Depiction: https://havoc.app/depiction/noredirect
 SileoDepiction: https://havoc.app/package/noredirect/depiction.json
 Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
 Filename: downloads/com.82flex.noredirect_1.10_iphoneos-arm.deb
-Size: 55634
-MD5sum: d8de08061563e50c5e63b770809595da
-SHA1: 2e330bccfed2073c9be527968119f22b82418a4a
-SHA256: a0c6f476afad8275dca0942f89f0c891f85fa556f3ea0a03568a9c03d226d032
-SHA512: a0bff692e7a5d132cee8c8bdcd2494e7aacba0cafab326a0e402b45100cf5d97b5592e55a869abb5e21f071adf49e64ce96a3b11223bc85cc1f73c66d26cc64f
+Size: 56938
+MD5sum: 8be2eaa41fd42010accac3bfe977ccaa
+SHA1: 381d814c6414712307ebae3894028db298b3c80e
+SHA256: 265ee9725d86fa956ba5fe643ab5d3fc9df3250bcbb8d97794101e5beca0b32a
+SHA512: fb0c2b55fae1a61838b9a23c4cf25fcd55c54b1fea493f90a3c94ee82427cadc8df64d83879c6cefe9978dd4b3cdb80cd018689b7581efa7e4783faa0dc20ce4
 
 Package: com.82flex.noredirect
 Name: No Redirect
@@ -362,11 +362,11 @@ Depiction: https://havoc.app/depiction/noredirect
 SileoDepiction: https://havoc.app/package/noredirect/depiction.json
 Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
 Filename: downloads/com.82flex.noredirect_1.10_iphoneos-arm64.deb
-Size: 55496
-MD5sum: 994a41b57906968fb1d01c7c943c8636
-SHA1: c125c0578bdc27a93caeb0259efbb50c2acb35e8
-SHA256: 9480f6d0159ed69569eed6246c4286fde4272a5d03bef2ac86bb0f402bf705a2
-SHA512: 49815ac90e702b9838094369ccad7d955d56152fcec8eeb3ee7be65105c8cab5febbe3b7dc59f1c56bf49cf06278a036152ed30a123e988ef49a73d66422b593
+Size: 56726
+MD5sum: 2a9bdbfe121c5d7dd5225a7cb4be2505
+SHA1: 19f20a066cbdbfbcbccc6a224224767689978068
+SHA256: 11a76de59eb83aff8121815c1b9da824f20d84df4080cb0718946016e73c6585
+SHA512: 77b6b715579de4c0413be8274d03328fc39c9839992675ac8a93260f89ff5d5fcea157afa215f2c2e8b51db2b7cc8ca9c1cb58f8e4343bf89167ccb8507946a1
 
 Package: com.82flex.noredirect
 Name: No Redirect
@@ -382,11 +382,11 @@ Depiction: https://havoc.app/depiction/noredirect
 SileoDepiction: https://havoc.app/package/noredirect/depiction.json
 Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
 Filename: downloads/com.82flex.noredirect_1.10_iphoneos-arm64e.deb
-Size: 55688
-MD5sum: 6871725cf5996ada0300a3a079e93b1b
-SHA1: 0c5f32a71e38d73ec14c135e74cbe987f921ca43
-SHA256: 60d93c9c46a942e802499591f64708c5226535408611377e6f8854662826017c
-SHA512: c5b6c4d1dd04bbb5f98b91783b41cf2dcf55f2b0110078d972663316e6a1c9958e87c0622065d93ea3b1b9716d04ac612b5d80c7481b922d793d1e13fda05b21
+Size: 56842
+MD5sum: 5c64965c8745769fc80657e4eb89b939
+SHA1: 9af5c055d04a174ce3c2d927bee1d200fff00dad
+SHA256: 30b65266d790d88f1b7083518ce32e1bf7c38082315c8c82d583e2c0a1fb7494
+SHA512: b2c546ef52aa03705317036a84bfb9cbc2747032de64a213791842858694b593228b99783f0dd20b5b121a37ad5fe632e46b702ac2be55d448f2c2ee70eb2e5d
 
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
@@ -397,16 +397,16 @@ Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Architecture: iphoneos-arm
 Version: 1.7
-Installed-Size: 384
+Installed-Size: 388
 Depiction: https://havoc.app/depiction/removewidgetbg
 SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
 Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
 Filename: downloads/com.82flex.removewidgetbg_1.7_iphoneos-arm.deb
-Size: 29566
-MD5sum: 83fe6bf9374c693647019a2a5998b3ae
-SHA1: 8d954f1343db8a3d4eda32e96b423242a006df21
-SHA256: 1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df
-SHA512: 7c383483c72dca49f832100ffd490d748b82581daf3bb91dc99aa9de0eed48e2e5291062a5b2916e5058892743b3e516baff2ded6cc252a3dbd3da2a4ceb0dab
+Size: 30280
+MD5sum: 3443d957528d96700d0e56c1a0b12c75
+SHA1: a1afe30e496e548e56ea5f4e7abc9b3b0eb2b84d
+SHA256: 1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767
+SHA512: c24f4aeb9add89c9331d0bec562390fbcd5dd5db888d983c95c50d1e1b0b829e3d996b6e008230acb07e57811b8062a35f505c9b2a8446773fd4e225c0312b1b
 
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
@@ -417,16 +417,16 @@ Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Architecture: iphoneos-arm64
 Version: 1.7
-Installed-Size: 384
+Installed-Size: 388
 Depiction: https://havoc.app/depiction/removewidgetbg
 SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
 Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
 Filename: downloads/com.82flex.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 29668
-MD5sum: 86913564dbea4c747c015712ac9dbc16
-SHA1: ca4c185c18f9298d1739b0c36228f15fbb2632b8
-SHA256: 7e062f8c965e9eb6eeae3feef04455cbe7ea4618ca9120512ed7334024a9c210
-SHA512: 2174f9f444d42b34c242728cab9ac71e589e51c4a5e6bc162aef9284d9dc229ae39027c72d08d0b1c34896b05bf1b142cdb8205fc39161e02c439e15174b4258
+Size: 30360
+MD5sum: c25085f731df479be9dfb37f9251e47a
+SHA1: 99bad699a70efef360d281570a2cd766f23fe609
+SHA256: a7bd501a36b7d939e6b0c0b18a6f705b818493eb065377e51c61c810d6672b06
+SHA512: 008e4f11c8ef3d95cd254d05fe598077973ee9f634e492bb1f931c5fc18ec1611a70309d420b02d9d3acdda74906562f865ebdcfdd3b302f9fd3aeaf8de4c10b
 
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
@@ -437,16 +437,16 @@ Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.7
-Installed-Size: 384
+Installed-Size: 388
 Depiction: https://havoc.app/depiction/removewidgetbg
 SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
 Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
 Filename: downloads/com.82flex.removewidgetbg_1.7_iphoneos-arm64e.deb
-Size: 29586
-MD5sum: b73e462b544347eb337b5fd7584bb3ff
-SHA1: d0ccc56d0f54de2a305744e89f96e0ca231fc637
-SHA256: 0ea4865f7f741cc9e22f99b8b6680e0e62fb673c72628a0a54d6a8d112b261f0
-SHA512: 13fc07183f52548df78e158000c1d5f830c010e931e0ea6692cac442d8d49147624b03ce1bfcbb400bd659ee570b4023cc9700e7af5c645d466c82d140e05d7f
+Size: 30274
+MD5sum: e29ad7eb9d89364a68fcbdb747531f32
+SHA1: 3e0d6153bed2d4abf5cd021995f0596811d457ab
+SHA256: 6e66a9aa8dd21bbb6a7790dc9fe55be519e8b898b76c015e57b54b57b22474b7
+SHA512: 04e2ac5f65955689770464693b5d01df1a396bdd41192286f1ef2ef4ef67f7bbc44d01b459e4b4222c3b5a9ab93a475dca8c1e8a662f13133db57a3e89826362
 
 Package: com.82flex.singlemute
 Name: Single Mute
@@ -457,16 +457,16 @@ Section: Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm
 Version: 1.5
-Installed-Size: 380
+Installed-Size: 384
 Depiction: https://havoc.app/depiction/singlemute
 SileoDepiction: https://havoc.app/package/singlemute/depiction.json
 Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
 Filename: downloads/com.82flex.singlemute_1.5_iphoneos-arm.deb
-Size: 23996
-MD5sum: 0640393916d5031982f02b214afe53d5
-SHA1: 69a32205db69ff66ef1ea6860a829877f8e05887
-SHA256: a812ae59b45ea34da9a131fd75e1970ad392c11eb479e6bb0cd741eac7c5e5b6
-SHA512: 040c133a6a0087f200074fbe75ea927d5aa6fc2d733d9e8586422537e46cef970226eb3f0ebe86dfcbd5cdee506a2b9636691d4ed52704f41185ea1394567560
+Size: 24580
+MD5sum: afb6589a4a44dd1571457f7721d2f752
+SHA1: f562add09c0631208e1ac16f84ae2c19adebfac2
+SHA256: fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0
+SHA512: 8f93badcfee82174b30e19a928b19b387a7acec3c1aef609e249b10f5cf83a64499c5ce416e26ce07ba121d59ddd8b28ad7be04f2e74c122433a53fa2b8eac20
 
 Package: com.82flex.singlemute
 Name: Single Mute
@@ -477,16 +477,16 @@ Section: Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.5
-Installed-Size: 380
+Installed-Size: 384
 Depiction: https://havoc.app/depiction/singlemute
 SileoDepiction: https://havoc.app/package/singlemute/depiction.json
 Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
 Filename: downloads/com.82flex.singlemute_1.5_iphoneos-arm64.deb
-Size: 24082
-MD5sum: 5356652a55abab7158081ca825fd22f0
-SHA1: 317a22bcb768e79338e85b85083a7adf7eddd753
-SHA256: 45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a
-SHA512: 234fc3d56fc830ecae10fae5604c2ef12453c32b6b6b30493f53e717d7895a36c60937dfa379ae4ab71713f63ec046521aa275540d25c817632b8055853c618a
+Size: 24664
+MD5sum: e8b039f92193b4d93c480b7267b35ab9
+SHA1: 3632614f544037b06ac2a40915402590a5a33b01
+SHA256: 0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a
+SHA512: f43674760d95dfbbdcf63f19e042c1cd6983fae8b0f8324ce08bbceaa50966346616ed2965ee24c2254fe3457b743385cf7dc9fc6f54b3ebabbd0c45046ca92e
 
 Package: com.82flex.singlemute
 Name: Single Mute
@@ -497,16 +497,16 @@ Section: Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate
 Architecture: iphoneos-arm64e
 Version: 1.5
-Installed-Size: 380
+Installed-Size: 384
 Depiction: https://havoc.app/depiction/singlemute
 SileoDepiction: https://havoc.app/package/singlemute/depiction.json
 Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
 Filename: downloads/com.82flex.singlemute_1.5_iphoneos-arm64e.deb
-Size: 23990
-MD5sum: ac49f43269d4887db49fb81bac6b867f
-SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
-SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
-SHA512: b5301a5ef9b04b7161d75a01820dde6eba3c1a3aa2bb9c146af64eedf58203bd5d7a809095ca2961a4c3f38380d754509067608e4f1579b2e6d05c3ac5c873e4
+Size: 24606
+MD5sum: 253c3aabcf18e2c4ef0ad46a08c1aecd
+SHA1: 72b2ff995113cfea61641a4aeabe7b98223086f8
+SHA256: f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5
+SHA512: c37db657603e3d137793860881c3c1347b273212cf89599384e6fdfab00fa7d9a49e38c2ae199763a4111cd153d15d8263c30b7e71f5aa3048bd92d664361045
 
 Package: com.82flex.singlevpn
 Name: Single VPN
@@ -642,11 +642,11 @@ Depiction: https://havoc.app/depiction/singlevpn
 SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
 Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
 Filename: downloads/com.82flex.singlevpn_1.4_iphoneos-arm.deb
-Size: 28594
-MD5sum: 497e4c3a29afcb3a3e52d99e37db41da
-SHA1: 266e39121f32be5436dcf63b7d7bd146739d4c6a
-SHA256: 31db4cb145db77bb310e09d00a23fc1c0eb12311aee72e610eb096b4110c9d76
-SHA512: d801959c9d239d0d1df9c3eafc23ef0ce69750bf210ff793a1a44c08a74df8399a038d20a10a418583ff56a5cb00eea9c7f68e782d5a19bcc40bd66de9cea61c
+Size: 29250
+MD5sum: 66752749c9fcb389f3ad47a7852e12c3
+SHA1: b149511c72f9a0991ed3a18ffc8745c8fd09e4a5
+SHA256: 719054aa6e181acdbecfc2fb6946effc41057f9a26ddd64bab8f8e77359defa0
+SHA512: a2cf5274daa6a63c83c2ec7e75c88bba2f5b86229092ec79107b85936a4d998277cda94709a6b4870a442a093a1431f9a71c5c545ca70b56730708c1e2d54f85
 
 Package: com.82flex.singlevpn
 Name: Single VPN
@@ -662,11 +662,11 @@ Depiction: https://havoc.app/depiction/singlevpn
 SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
 Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
 Filename: downloads/com.82flex.singlevpn_1.4_iphoneos-arm64.deb
-Size: 28680
-MD5sum: 22a2841ef596d06dd9373b4ab1a4ec15
-SHA1: 5d21b4da10c46624b5499b1fd4d80c6b6fcd8a8d
-SHA256: f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614
-SHA512: 763215529da26c5e2a600ecb8cac95011c5c37f0044ec57d887cc3b7b6d9425d88c4ef6d840d988a4c2eecdf5e42a25d10a9cdaecc50787960a385b48d43027c
+Size: 29346
+MD5sum: a9e916ff4f971abe84c6a30783f9d0e9
+SHA1: 95126e875742ae27921b441a9c5c46f3ce899d00
+SHA256: f7cb42de7473cb9098381d827b9f59fd8e0867506cf1d4d55d4249ac9e3d7a93
+SHA512: 114b6da7c89f7d4160aa5ecd766870b7cb1b548bed1411fdc28c5ccc2d130f433b1d4031d87658ecc292b91608bbee8af087a0f7eee1d70548d36672f7020363
 
 Package: com.82flex.singlevpn
 Name: Single VPN
@@ -682,11 +682,11 @@ Depiction: https://havoc.app/depiction/singlevpn
 SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
 Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
 Filename: downloads/com.82flex.singlevpn_1.4_iphoneos-arm64e.deb
-Size: 28618
-MD5sum: c2482454e2573958fda41790d06c0753
-SHA1: a8465232582076718430ec27fc59153e02be0275
-SHA256: ef7d5b59f4271f341d5d44d54c2055526df4a777a9d190b08142e7bd4026a065
-SHA512: aafc7cf9e2c932c5e3039710a099b7af7bea45c07af133058fb88131e3bcef17ecb90c38d89298cd66b5470cf5be9f9bd92c9972962af0ad37add7806268e422
+Size: 29278
+MD5sum: e252f17e3b95de4fc18009f193baf468
+SHA1: 3e7626eec609b6cf6d42066feb7eb12647d58b5e
+SHA256: 5e77b6c16c2817471465a3df2d597b123e74de8c3c8a2b5d5ad1b3363cc9abdc
+SHA512: ddd6f7271468ba793765bd0d5814648847eaf1def9c6ca5abcd73e3cc98411a3e82327a0d5104941f5dd11dcf8964312bcfebae4a659b8a8a9d8d2019edac324
 
 Package: com.82flex.touchvis
 Name: Touch-Viz
@@ -895,11 +895,11 @@ Architecture: iphoneos-arm
 Version: 1.1
 Installed-Size: 372
 Filename: downloads/com.82flex.wtvrbglauncher_1.1_iphoneos-arm.deb
-Size: 22288
-MD5sum: 313a298a9b20cd00c58bd02276b69c7b
-SHA1: 43b8fc98abfc3d8ace80e31154066ba5aff3c84d
-SHA256: a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64
-SHA512: 4f9b2f50f5ff8896b7c62cbf69df201e53b26426c39d65510bad3f2c891906fd51acf2524262209b58d7f008c3dc857995cdd9532d74c64a1d976365cc46e15a
+Size: 22928
+MD5sum: bfcdce23f19e6b989efd1f73b49093aa
+SHA1: 636e6ddf9f1db1dde63cb9d3ab4e65b568998284
+SHA256: d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e
+SHA512: ef8863d18e82c3e715aef7829ccff62249b4bffc1f5db39c9b3b2e7171c3fe7b995421bce6eacc5c21551b545caa81c184f2fa795c380b6a7d8970b618c97adb
 
 Package: com.82flex.wtvrbglauncher
 Name: 语音转文字免跳转
@@ -912,11 +912,11 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Installed-Size: 372
 Filename: downloads/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
-Size: 22374
-MD5sum: 9a85d78c83de2c18bcee26e2e10078ac
-SHA1: e8bd63aa8a5db87d4551e8367a7da61e40e572f2
-SHA256: bbe7f7f49416b2560f6157bba9c1401baa8a3ae7658bd37f45b84b98368f5826
-SHA512: 0a3cfd013b3c9db2501ead17189fa2f3fa5ebfcafe3d2357b523af5849f80602d55c08b8c68dc82fee63d4e48471ffec71c9b6f804fe668634a5d82b6906b814
+Size: 22988
+MD5sum: c46edad471229dc36a2a33bfcf2534cc
+SHA1: de63152ae9e99c958e17d4c550974791d2ff7d40
+SHA256: 67dca4ec95e6a0e25a9b2f726ce8ef5db53599e28c05592ae5e30899ba6cef11
+SHA512: af09bfc823731cb9ba803f7768068fa58e48c4a98138737a7cce76474c2305e500dd016f8917f490315ff74474c65bd8c82aa6c5af9c3e602274e2d2a2d1dce6
 
 Package: com.82flex.wtvrbglauncher
 Name: 语音转文字免跳转
@@ -929,11 +929,11 @@ Architecture: iphoneos-arm64e
 Version: 1.1
 Installed-Size: 372
 Filename: downloads/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64e.deb
-Size: 22314
-MD5sum: 403d33d6c9f753bce285a9f88c7b4702
-SHA1: 5c88b3ed6f220b807330e500ec347f8d9563cf49
-SHA256: b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038
-SHA512: 6c39ba2d12b7fdfc54997ac854bb5ac9171ff5123e32e19aec47d313e5923ea4e18e9f8375e49dbb306fdfe917e1eef4eebab2ceee28238a489faab377e2ffce
+Size: 22952
+MD5sum: 8ef0fd3611d4b26b4e9376e9617bffa3
+SHA1: bc5c2d3146e45780df111c757c000da072af7f33
+SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
+SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de35d3dd94cd8c1f3ed29d62c0b36b1d6a7e335d0a1fabc5bcaaa7bcdb
 
 Package: dev.traurige.kayoko
 Name: Kayoko
