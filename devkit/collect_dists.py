@@ -22,11 +22,11 @@ with open('index.yaml', 'r', encoding='utf-8') as file:
 
 
 def format_size(size):
-    """格式化文件大小为 KB 或 MB"""
     for unit in ['B', 'KB', 'MB', 'GB']:
         if size < 1024:
             return f"{size:.2f} {unit}"
         size /= 1024
+    return f"{size:.2f} TB"
 
 
 def download_file(url, dest_folder, asset_size=0):
@@ -34,10 +34,9 @@ def download_file(url, dest_folder, asset_size=0):
         os.makedirs(dest_folder)
     local_filename = os.path.join(dest_folder, url.split('/')[-1])
 
-    headers = {}
     if asset_size == 0:
         # 使用 HEAD 请求检查文件大小
-        head_response = requests.head(url, headers=headers, timeout=30)
+        head_response = requests.head(url, timeout=30)
         head_response.raise_for_status()
         asset_size = int(head_response.headers.get('Content-Length', 0))
 
@@ -47,20 +46,18 @@ def download_file(url, dest_folder, asset_size=0):
             print(Style.DIM + Fore.YELLOW +
                   f"{local_filename} already exists, skipping download.", file=sys.stderr)
             return local_filename
-        headers['Range'] = f'bytes={file_size}-'
-        print(Fore.YELLOW + f"Resuming download of {
-              local_filename} from byte {file_size}", file=sys.stderr)
+        # 如果文件大小不一致，删除文件
+        os.remove(local_filename)
+        print(Fore.YELLOW +
+              f"File {local_filename} already exists, but size mismatch, redownloading.",
+              file=sys.stderr)
+        file_size = 0
     else:
         file_size = 0
 
-    with requests.get(url, headers=headers, stream=True, timeout=120) as r:
+    with requests.get(url, stream=True, timeout=120) as r:
         r.raise_for_status()
         total_size = int(r.headers.get('Content-Length', 0)) + file_size
-        if file_size >= total_size:
-            print(Style.DIM + Fore.YELLOW +
-                  f"File {local_filename} already fully downloaded, skipping.", file=sys.stderr)
-            return local_filename
-
         mode = 'ab' if file_size > 0 else 'wb'
         with open(local_filename, mode) as f:
             downloaded = file_size
@@ -72,6 +69,7 @@ def download_file(url, dest_folder, asset_size=0):
                     f"\r[{'=' * done}{' ' * (80-done)}] {format_size(downloaded)} / {format_size(total_size)}")
                 sys.stdout.flush()
         print()  # 换行
+
     return local_filename
 
 
@@ -96,8 +94,8 @@ def download_deb_files_from_repo(repo_url):
     for release in releases:
         for asset in release['assets']:
             if asset['name'].endswith('.deb'):
-                print(
-                    Fore.CYAN + f"[{repo_name}] Downloading {asset['name']}...", file=sys.stderr)
+                print(Fore.CYAN +
+                      f"[{repo_name}] Downloading {asset['name']}...", file=sys.stderr)
                 download_file(asset['browser_download_url'],
                               'downloads', asset_size=asset['size'])
 
