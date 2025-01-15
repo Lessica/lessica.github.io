@@ -748,6 +748,66 @@ SHA1: 40dd8aa2782a7f01aa7f2f6b8774b73e954224f7
 SHA256: 9fcca594b5d2ec3f217b34da05319f8a38eafff3844d2688fbaf5cc76f9846e7
 SHA512: 373be0d7ddea446ac194b09d24ae53842f8b5487bc9c9cea3d5318d42ff1ec164d1927cc09ce385bdc33726d27d3f0a7d5e7b253e4bf1fda4828563e7e188502
 
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 3.11
+Installed-Size: 3112
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_3.11_iphoneos-arm.deb
+Size: 701032
+MD5sum: f335d014a04b789e0b2b62d6c225bbc7
+SHA1: a05ac3f92f77b5a03aa6b20699197d1ec08a6456
+SHA256: 982c5c769281bdda7cd8cc3fe1c78d1405649e8c305965dc1ec007e6e8a2b06c
+SHA512: 1d363016e86bd89981fae8c9e8799afb8ac22d50c74c0194e72d35126814c40b142e12b85870c490569893280d0c9f125757394e112220a237ac6b7c21a68c51
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 3.11
+Installed-Size: 3112
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_3.11_iphoneos-arm64.deb
+Size: 699842
+MD5sum: dbd7b728843a67619bf12ad348bfe73e
+SHA1: 60b7c07feb23c9018595df650a6a2c60e3e6eeab
+SHA256: b2267edd4e5830c5d045e8332698a6bd217c92acdd7ceaf9bf5fab6e5cfb9894
+SHA512: 82f86c2532d1ed146c3b0da566fc0769e509da7e07df10fa84cab4cdf86b86c36cf2aa2259a9eccee562f1c7613761f88caf2b3618338a2d63a8578c40c61a26
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 3.11
+Installed-Size: 3112
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_3.11_iphoneos-arm64e.deb
+Size: 698876
+MD5sum: a5a446dd582a3f3af3995624f80c99fc
+SHA1: 4b2fde7662ce5cbabe46366335788bda4e2f7165
+SHA256: 48f5367ad63f010a73f18f5d085153d4a9a5c02356ed2c0d690ba5d658a85e2c
+SHA512: b08f4df6051c6c45794a6745a42249cf0f717203739c1c1f8b8b445559cb169d71bc4d52db5b58d855c6fad56110496cba499521d94281c7b9bcb417ba8b94b2
+
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
 Description: An awesome MobileSubstrate tweak!
@@ -1951,6 +2011,126 @@ MD5sum: bf8a26811d1ca92904f87e8fffb91c34
 SHA1: 6a4207fd32884173ece69ebddead5ea8e9233574
 SHA256: 10f6e2f5bc651b33c45ee993dd80cb634eb325ca107c12df01874f9ffc42d66e
 SHA512: 961ec6b88119d198beee99d8800e94d4ee99ae589fd6511e2e44b1d95afdc95c61701c24e5c6cd802f2e8af135623b6c657906e499da26ae5856c7cb5e1c634e
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 2.14-542
+Installed-Size: 19920
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm.deb
+Size: 4911032
+MD5sum: 4b96e7c7c344e5b3b575131c5ec23d86
+SHA1: 9a6a7c318e17afbe5f1dc60954974858185332f3
+SHA256: 344ea42ac7f5f56817fe320e6cbb199b40da3e60e6ab055642e19150e5a842b0
+SHA512: c44b1336299759f27f741e8577c0a2933bc29dba49877b3f23409177af350ea9988a1449b85240a476b87f5d5ca7c558cd7f0fdf9a5208216ae94f1b871cd35b
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 2.14-542
+Installed-Size: 19920
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm64.deb
+Size: 4909324
+MD5sum: 2d533ff76176b04d83fbd18c2f6fd178
+SHA1: 6dd75a0932dd36803155e874a52bef959b608df3
+SHA256: d6ec94cea9345b33d1e691068638d1f8484f0350941f422424f58a2ca9d4f8a5
+SHA512: 9b06ff7737b17a4400f2003d5a63baa4eb08da1922b82fbab2cc17f513b13e2b4bcdf60a7e56b7ddca30e9ee0a26db482fc7ca69f81bdf8dfb7f7520c5a3b687
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 2.14-542
+Installed-Size: 19936
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm64e.deb
+Size: 4907828
+MD5sum: 04d633c457392f3af6a025ead00f43a5
+SHA1: 0b858ba4103fc670deb5c78fb3ace540569c2de0
+SHA256: d7c4c9cdd9d519578cde8448ad1646f280aa73ae2007799e4eda2e83ff2dbf04
+SHA512: 2f6e9d64663033ed9f70d42971488a8b584d54f23018c655a491a02ae8c604bdbf8d4c00be16847e19bc11ee8b4b2f6026ee7b4e632e80c87417500ffef731ef
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 2.15-557
+Installed-Size: 20088
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.15-557_iphoneos-arm.deb
+Size: 4965520
+MD5sum: 0862f21f047c8064fa38aec3b31a9856
+SHA1: c54afeab83fbf530cd437b2682595fd7c1ea51f7
+SHA256: c63c8bcf24e1ee9cb42e0761ac5cfe7884acba9bcaffb10653f7d0931dfe478d
+SHA512: c764c104ef16bbf7946580ec22c450d0d894d3401809a7457c2cb0c636024873d6b0afb7632b2686c519805a0e54848c63590f55fddca8227301c99d09278945
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 2.15-557
+Installed-Size: 20088
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.15-557_iphoneos-arm64.deb
+Size: 4955762
+MD5sum: 918a88a843fd7d21ce688bcd2d528909
+SHA1: 4f75bddfa5e1ce25f41605f0478614f72af3ad73
+SHA256: 4022aca157153764445f04f30f011e0115656c48fcff023dd6992e2d90acec43
+SHA512: 0ddac12e1797fb310a000f2ae6da295467b0d6768a979fc8effc535f75b9398a37858ca02f5fe10fb8754a3277fdacfe213dd4624477bb21c094e02a0a055b4b
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 2.15-557
+Installed-Size: 20088
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_2.15-557_iphoneos-arm64e.deb
+Size: 4961024
+MD5sum: 5cd6cdc1a2ee461f2a5afe23efb60f25
+SHA1: f53a96dc4861741572b365bf0f2281403f6c2b2f
+SHA256: 8e41684ff30bafbcc0a538262edb3fba5dd351f3a5202f882afc70ccb3ace729
+SHA512: 978f767944038ff3d5f50e83a4d3dfd5962998a31e8e305f8ad3b7fdd3e0dea03cc6921ee70821abf7a6bb75a319d62a9ae4929f8abe55147d4ab8132871a207
 
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
