@@ -688,6 +688,66 @@ SHA1: 3e7626eec609b6cf6d42066feb7eb12647d58b5e
 SHA256: 5e77b6c16c2817471465a3df2d597b123e74de8c3c8a2b5d5ad1b3363cc9abdc
 SHA512: ddd6f7271468ba793765bd0d5814648847eaf1def9c6ca5abcd73e3cc98411a3e82327a0d5104941f5dd11dcf8964312bcfebae4a659b8a8a9d8d2019edac324
 
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.5_iphoneos-arm.deb
+Size: 28746
+MD5sum: 2d2ba524e226fad713710d3204ee58af
+SHA1: 283e8e4ecddf1d766c9ca20b67dd47cca5daa3fd
+SHA256: 0b3867f213fed0ec2426edfa55127976757127a4feb05d1660c8a58ce8a572ce
+SHA512: 79a9ac4a69fd617f14c1fa9f24d3d2eeb8f3a8b474c1bd34f9dcfd898e9c2f9cd1d98eff29db6236f27b13962f4b9b3304129c323b4d54f9435bfd08a78d0d4a
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.5_iphoneos-arm64.deb
+Size: 28822
+MD5sum: 58a39fa12c1296354902ad7b726f7056
+SHA1: 305d0484d3ba24010ff4cab22cdbeae7a841fb1c
+SHA256: f90fb8fa4c7bbd5b8ec414a4e9b4adde3365fe4244f2ca402808a05a7a9de2c3
+SHA512: 3d2035babb4221468989c49f4c8e1687d456f5e72b12fa72c8a45a7918befd8e2f85027eb7723df6b7561ff876d94f16ec05ff3397fec31916dd0cdec31e5872
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.5_iphoneos-arm64e.deb
+Size: 28752
+MD5sum: 6ea3baa7ec28c0a3781c18aae060c9a3
+SHA1: d946b64e0ab1890095aae1950864e960d76073a6
+SHA256: 245ebd979bc0287459be1c6a059df18eb6d494d43296b435a1a95f2f8aa8938a
+SHA512: 9d544ac9c9bb516ac1199b18c85310fbeee56ca755e668a3ab206d939ad392b92b885777ce606d50cef052851e4ac265cd170056f8cbe52726afda2cb3a73393
+
 Package: com.82flex.touchvis
 Name: Touch-Viz
 Description: Display your touch interactions!
