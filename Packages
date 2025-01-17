@@ -1132,6 +1132,66 @@ SHA1: 5a8604528a429a494a5a89f249228d05dfe0a1ce
 SHA256: dd5bf33eafe3d48f56bd3a93b211fee39380d7f6b07b6b0b585e1d7ea3e78d8b
 SHA512: 74bfa2e345e3e237312ecdb4ec1a4c986dcb21f624fdc0e69c7b709250dce2d057596586853f4c71fc9f3d9f7ee07f2cd39b9b83b07577c7a626d2fd22773efb
 
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 4.9
+Installed-Size: 5696
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm.deb
+Size: 1399850
+MD5sum: 33960693a7f58e64d17f5fc569bc0407
+SHA1: 0ae88ca29697263f6e153b2ae06c564b3c2c76c4
+SHA256: 60b35077e965d1c7cca4aaf5c3d4ad02ff16c342efd76aa17218103312d199db
+SHA512: 9a30584dd507cc1ab31318c1ae0805e462420578266a76d4869c3f85e09d774b5290a22b36d9a404cecd49171affd49143e75d5588a5b6d0030e1f3966cd81d5
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.9
+Installed-Size: 5696
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm64.deb
+Size: 1402078
+MD5sum: 5c8d6621688c400aec55a6823e55e743
+SHA1: 8cb6e8f8566472b9c12b5a668136b0533745aa63
+SHA256: 8a7ed46050455c6893c5ecc09de086b15d4721579605ac4500db3d6c333d081f
+SHA512: 379f2a3faf1ca3ab32dd9b6d399da363eba2c94c47ed17be48013f1c319e1d280ff83d8f4b28114bb519b88ec33ed26f42a12bb5ea7620234729e284db2877ed
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.9
+Installed-Size: 5696
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm64e.deb
+Size: 1402808
+MD5sum: ff26ceaa87d1706dfc2121b9c7c51c6b
+SHA1: bb189485bb7ba4f682d3d088b287e980dc07c1e6
+SHA256: a3f4d2d8b1c4f1299a2f9c2273a6f340596b15da9ace3757adec09e772d08ac1
+SHA512: 4f1aef800fd010a33e114dadc696407392ee982d6f630e21e1789970ebfd61e642f2f239a636309c89e7c25266067f8137b92e2b1046fd2e1949e1cc357d6e24
+
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
 Section: Applications
