@@ -2972,6 +2972,66 @@ SHA1: c9f1085d4a2124259480462f898d90c768c3c779
 SHA256: 0bf5b8eae490e29420e48422304a4b19e007e8dc594f48e37eed4eac03e51f0d
 SHA512: fa55b1556387951fe4e374cc883a848f7b9176096a9e672b55d19dc14acfd148e403f1cbf8b7284e1d62b18b6137f8639699319c2f6f5852f660134fdb47a74f
 
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 3.2-608
+Installed-Size: 58432
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm.deb
+Size: 14499646
+MD5sum: 330b3d2fd3be31f73337296a194f12f8
+SHA1: 031fb7793a72d766903589bd93429e84d040e108
+SHA256: 4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25
+SHA512: 3ab192c2675b420ddb3e7bed70aa9d9658f8bc3c178a8d0861b3904911615461e870ad438e0a6447021c679930f2d572a9dbda16a3f0032f49b9eafce309655d
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 3.2-608
+Installed-Size: 58432
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm64.deb
+Size: 14502532
+MD5sum: 90362797ebcb1838c070584f7dbae6c0
+SHA1: 94c025a4aadae206bde61d630928613a88c1dd02
+SHA256: 9be10beabaa7b74740911ad6e14a72c6855fd469386a64128ce74a9ee4bc130b
+SHA512: 0c09c6c7c0633ba4be5fdcc2c58bc7e22a29e1c779e5509946583011977c2733e72e5b6369c1010b46bee5374100ca55dbca1a6ad7f634448392ecf2cb43a2da
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 3.2-608
+Installed-Size: 58432
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm64e.deb
+Size: 14497106
+MD5sum: 095718d01161410fac9d0aaf52d27f3c
+SHA1: 99c149fa651afa94c0de0a5e6af36f0f89733d02
+SHA256: 9ccf0b262fb1d9f134c1bdfd5c0bdbbd6ce50fa144ae06d386a5b08e048465b5
+SHA512: 010be0647f1993652de4bb5d5519fb211cb67bdda4ba9b6e6a7a7d8068ea0cf0aea9253468779d7e8f3c26f6d8743e0cc14b02027ec669f13e7372a7bb45d2d8
+
 Package: wiki.qaq.writenow
 Name: Write Now
 Description: AI tool within your hands.
@@ -3031,4 +3091,64 @@ MD5sum: 4626a07efcb7222bb5ad95851777da9d
 SHA1: 62e90dafb102e68f5e509e417c9316ea14dc401b
 SHA256: b32e8e2bdf91025fbc2d5f74f09f361af7a0fe4d735239859116795f95affcae
 SHA512: eecd9e7b7187bfb7ecefb7d889c64d33240ace6dcad56e66bcb8ac1bcfc6a8814e75bf38172f8223f008e8c0896db7a929e04d30ad9fd2ab574ca2e7880f5077
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 15168
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/66c5b207000eafa58a451f7b.png
+Filename: downloads/wiki.qaq.writenow_2.1_iphoneos-arm.deb
+Size: 3292000
+MD5sum: 896bb175b7c766cff4599cadfc0814e9
+SHA1: 18b32e9fbff852172d422202a9c4e2f8b6f1754b
+SHA256: 1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463
+SHA512: 2b276e9583223aea43555f3edfe63bf00a375875014743d0ebe75c7acd1e408c6901f463e4442fabc67816f5e056c83dd992661a98821598648b9ccc8d66e421
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 15168
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/66c5b207000eafa58a451f7b.png
+Filename: downloads/wiki.qaq.writenow_2.1_iphoneos-arm64.deb
+Size: 3292968
+MD5sum: ef61a53cd0849eeb3d15a7837e609f3a
+SHA1: c5acbd1586e8702f93248fbc3647701d054d4b24
+SHA256: e01e2799b2a5055d634811907f255ff426c41890f791f626607258318dde598b
+SHA512: 5c07cdca67b930186c92048770c3e54e1150f2ac96aceb51ff8d6345575c77c13d490dff0239480fa50d106ef6e87a1a196d7cef633fbf2eb5272633d6e27123
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 15168
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/66c5b207000eafa58a451f7b.png
+Filename: downloads/wiki.qaq.writenow_2.1_iphoneos-arm64e.deb
+Size: 3290562
+MD5sum: 7c7da2f75aae4081bb67746a67ad415c
+SHA1: 741b8925d3ec8d2ff8f21071dce05fbdd1e48f6c
+SHA256: dd36162a0ff41a8e0a6eabf9c86b4686eeb03015b6fb9e3b175f19be5c27ed1e
+SHA512: 1ad8ca9ff06b3397affc66a8692e152c16a64780702c182c9e91fe4a4c27ed57583f7ebf780326bea1e1d27a5d64c0edd4b2c74581fb5c5dfe4d92889b34dda6
 
