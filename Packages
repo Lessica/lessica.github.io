@@ -1191,11 +1191,11 @@ Architecture: iphoneos-arm64
 Version: 0.0.2
 Installed-Size: 368
 Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64.deb
-Size: 27170
-MD5sum: fbcb248b7b21b1038244da2ab0eca125
-SHA1: 09a93d0c61dc15f9a2ecabc7b9ce2a0e42f2edb3
-SHA256: f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227
-SHA512: 666f03c747ab9bac46781af52b50de4e3f603177280926889e05dde1d80c10fdd02e545f56f49f35aec202190318bb9c480d376e93a8a53dffdbd4840af77617
+Size: 28440
+MD5sum: bd3fad061566342dd6764df322b7755f
+SHA1: 641ed37cb5e6380a2ba84a9f1995b519469edd02
+SHA256: f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e
+SHA512: a9004c2ec9d6fdbe0a2a07d33597ddbb45fef4bce82deb7ba8b5c98325c476763fb0e227c3d60c660018c145fd0574b9e29c7a2693fefa077bac7cb403db5bbb
 
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
