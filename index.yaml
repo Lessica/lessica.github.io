@@ -15,6 +15,7 @@ repos:
   - "https://github.com/OwnGoalStudio/SingleMute"
   - "https://github.com/Lessica/XcodeRootDebug"
   - "https://github.com/Lessica/socpowerbud"
+  - "https://github.com/Lessica/memory_pressure"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
