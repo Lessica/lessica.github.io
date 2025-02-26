@@ -1115,6 +1115,57 @@ SHA1: bc5c2d3146e45780df111c757c000da072af7f33
 SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
 SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de35d3dd94cd8c1f3ed29d62c0b36b1d6a7e335d0a1fabc5bcaaa7bcdb
 
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n
+Author: h4ck1n
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 336
+Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm.deb
+Size: 28348
+MD5sum: 64b2719f08c1eb214c93ebc0eb842646
+SHA1: 637366e7b9b280efcdf4a4658cca9ad887bcbbe8
+SHA256: e9f89beaf465d67f744678973dc84d9ad1c6c995d8aa56f1a5770074c8c9ab86
+SHA512: 22bda664693be0dd1eb4e42dc4d0f4db11bab83e46b4f8315101ff8edc6d50eea54afc56c702845007ea7243dae3de6620a8855700d92a2e9242184b7a766259
+
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n
+Author: h4ck1n
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 336
+Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64.deb
+Size: 28448
+MD5sum: 3d8232e1f25bd7ce9b09c17b32a787d6
+SHA1: 5ac9849268fb9299cb296509e49786dc5ef3b9b7
+SHA256: 1a65d32b1deebe8b4f20934a68ce86db637b113f2565a90c0fb6ee62bab2834a
+SHA512: f24de6e2507c636b93cc33935860c4ddea1db90a7597321aa57d7f5cae93280575b0bf59c892426d3bbf3cae5dc1e32bee93be9f1217de2899bdff046a88bfd9
+
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n
+Author: h4ck1n
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 336
+Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e.deb
+Size: 28372
+MD5sum: 737f243907ca819c910e75051e75f078
+SHA1: c0b45a4943821327abaa1ea3f17b8836dd0405ff
+SHA256: 7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72
+SHA512: da9992995089ccd9e369dabf87ac0ed2f96a2038c4cb76b497fdb4ceba76b8013a011e8de75f851db892083767627b78bebad18fae3561ea8f47c74a58c9aabc
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
