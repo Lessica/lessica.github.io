@@ -748,6 +748,54 @@ SHA1: d946b64e0ab1890095aae1950864e960d76073a6
 SHA256: 245ebd979bc0287459be1c6a059df18eb6d494d43296b435a1a95f2f8aa8938a
 SHA512: 9d544ac9c9bb516ac1199b18c85310fbeee56ca755e668a3ab206d939ad392b92b885777ce606d50cef052851e4ac265cd170056f8cbe52726afda2cb3a73393
 
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tools
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 76
+Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm.deb
+Size: 9624
+MD5sum: 07ecde8e5b099239308debf51b0821be
+SHA1: 2a5f363921e397dc42f35c391cc3dbd761de49c7
+SHA256: a8d5c26a2ede749653e57fc9e593f5941335a1fd54c334ec54626145feb8aa3b
+SHA512: 1df3339eb7599eb0799af1f58b4e500418ea7f24767e2ea1b6ff470bd0513c975de20fb7b1e7f002866c9c1a71979a6c5a3d4ecb395e9204b2f514b3bea84333
+
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tools
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 76
+Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm64.deb
+Size: 9688
+MD5sum: dc7bd6e1a4cee1430bdeea8418792192
+SHA1: 04d8f5f22829a4b1a3debf6d1c263a9899f0f144
+SHA256: 2b73d194636112664fcc060229cf80c8fb5c75885a392fb651dce2b95538cda8
+SHA512: 0462be0b17994b1b7ed8832d28fed6cb55a2599283c34c4d4307095c304dd9b2d44e42164c7b2d66272f9207b7992e59e7a85f5ac3edd42936f9244159923794
+
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tools
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 76
+Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm64e.deb
+Size: 9632
+MD5sum: 8191842b7f2788fb9e64c4db605431be
+SHA1: ffe0e1e6081ecd847f380c1a19e246b1247f0b4a
+SHA256: 0ffc99d7db1dc9e0fb5fbc904658e3aad1601f4d47c1180f850ff1d263f027c2
+SHA512: 3b07f1ea62a1ff8a800de368c37b709fe7a77642e96565a7ac8e40a9eac89c4fede9c9a43738324bbf6c9d8216ec1ccd523ee6706120c3a7f04dfc5d00172dd6
+
 Package: com.82flex.touchvis
 Name: Touch-Viz
 Description: Display your touch interactions!
@@ -1118,53 +1166,53 @@ SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
-Maintainer: h4ck1n
-Author: h4ck1n
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Architecture: iphoneos-arm
 Version: 0.0.2
-Installed-Size: 336
+Installed-Size: 368
 Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm.deb
-Size: 28348
-MD5sum: 64b2719f08c1eb214c93ebc0eb842646
-SHA1: 637366e7b9b280efcdf4a4658cca9ad887bcbbe8
-SHA256: e9f89beaf465d67f744678973dc84d9ad1c6c995d8aa56f1a5770074c8c9ab86
-SHA512: 22bda664693be0dd1eb4e42dc4d0f4db11bab83e46b4f8315101ff8edc6d50eea54afc56c702845007ea7243dae3de6620a8855700d92a2e9242184b7a766259
+Size: 27092
+MD5sum: 763252e09fcdcb066e7c5728e9034e26
+SHA1: 1132edc177d9824320a2c1bb5a819c930b99ccac
+SHA256: 82531c61768c76f25bc288c9ab582e61980f15c25a1bcfe5506cc7eadee32ef4
+SHA512: f2cc7bfd24ac7a6f4c469784b82d0d13edc4acd397159dedbfea7f48c78e2e13752fd22d1bae91a66c421031774c6f96aa2223882ebf0cfa6a7835757372088a
 
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
-Maintainer: h4ck1n
-Author: h4ck1n
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Architecture: iphoneos-arm64
 Version: 0.0.2
-Installed-Size: 336
+Installed-Size: 368
 Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64.deb
-Size: 28448
-MD5sum: 3d8232e1f25bd7ce9b09c17b32a787d6
-SHA1: 5ac9849268fb9299cb296509e49786dc5ef3b9b7
-SHA256: 1a65d32b1deebe8b4f20934a68ce86db637b113f2565a90c0fb6ee62bab2834a
-SHA512: f24de6e2507c636b93cc33935860c4ddea1db90a7597321aa57d7f5cae93280575b0bf59c892426d3bbf3cae5dc1e32bee93be9f1217de2899bdff046a88bfd9
+Size: 27170
+MD5sum: fbcb248b7b21b1038244da2ab0eca125
+SHA1: 09a93d0c61dc15f9a2ecabc7b9ce2a0e42f2edb3
+SHA256: f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227
+SHA512: 666f03c747ab9bac46781af52b50de4e3f603177280926889e05dde1d80c10fdd02e545f56f49f35aec202190318bb9c480d376e93a8a53dffdbd4840af77617
 
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
-Maintainer: h4ck1n
-Author: h4ck1n
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Architecture: iphoneos-arm64e
 Version: 0.0.2
-Installed-Size: 336
+Installed-Size: 368
 Filename: downloads/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e.deb
-Size: 28372
-MD5sum: 737f243907ca819c910e75051e75f078
-SHA1: c0b45a4943821327abaa1ea3f17b8836dd0405ff
-SHA256: 7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72
-SHA512: da9992995089ccd9e369dabf87ac0ed2f96a2038c4cb76b497fdb4ceba76b8013a011e8de75f851db892083767627b78bebad18fae3561ea8f47c74a58c9aabc
+Size: 27148
+MD5sum: f01f05ded5397ca0e0d060c4d000d706
+SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
+SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
+SHA512: 4ddcc6a22758a5837c440fbe4fca2243443d273f90e5686b8d5a7c06a9017067b755eb38a1925714cdccdec7f62442e0d8100c8b9d5b467a9f46635d6b94c8b2
 
 Package: dev.traurige.kayoko
 Name: Kayoko
