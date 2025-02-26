@@ -753,48 +753,48 @@ Name: SoC Power Buddy
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tools
+Section: Utilities
 Architecture: iphoneos-arm
 Version: 1.0
 Installed-Size: 76
 Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm.deb
-Size: 9624
-MD5sum: 07ecde8e5b099239308debf51b0821be
-SHA1: 2a5f363921e397dc42f35c391cc3dbd761de49c7
-SHA256: a8d5c26a2ede749653e57fc9e593f5941335a1fd54c334ec54626145feb8aa3b
-SHA512: 1df3339eb7599eb0799af1f58b4e500418ea7f24767e2ea1b6ff470bd0513c975de20fb7b1e7f002866c9c1a71979a6c5a3d4ecb395e9204b2f514b3bea84333
+Size: 9614
+MD5sum: 9ebba1546d9691d88d758a9018097217
+SHA1: 0b6876e992db95a14cf57964d02b187f620e822d
+SHA256: d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34
+SHA512: 09256c6cab2935aecfeabb191600f7f21f2402602abad1a1e5b5a229cfb92b2fca1a93e8eb99177176214fa8471b15121b7276a6029b03f0a06be4a0bb9eb332
 
 Package: com.82flex.socpwrbud
 Name: SoC Power Buddy
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tools
+Section: Utilities
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 76
 Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm64.deb
-Size: 9688
-MD5sum: dc7bd6e1a4cee1430bdeea8418792192
-SHA1: 04d8f5f22829a4b1a3debf6d1c263a9899f0f144
-SHA256: 2b73d194636112664fcc060229cf80c8fb5c75885a392fb651dce2b95538cda8
-SHA512: 0462be0b17994b1b7ed8832d28fed6cb55a2599283c34c4d4307095c304dd9b2d44e42164c7b2d66272f9207b7992e59e7a85f5ac3edd42936f9244159923794
+Size: 9710
+MD5sum: f97b329deb6fc1915ebd2cc596789533
+SHA1: 11e6ce86745a4d17a09719ba38622acdbb861e0b
+SHA256: 82edd03a43cc978baf3fb16c60a5a401592737982e67cfec7aba5f3c94502bf2
+SHA512: 1e42c18523432b5b46afcf47fd5a74c6acf756f2114fde22ae5720e01601fa7aa94fdfb13b749bd4964cbb4ef56a25256a7ac7cac16597179325383585a8f395
 
 Package: com.82flex.socpwrbud
 Name: SoC Power Buddy
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tools
+Section: Utilities
 Architecture: iphoneos-arm64e
 Version: 1.0
 Installed-Size: 76
 Filename: downloads/com.82flex.socpwrbud_1.0_iphoneos-arm64e.deb
-Size: 9632
-MD5sum: 8191842b7f2788fb9e64c4db605431be
-SHA1: ffe0e1e6081ecd847f380c1a19e246b1247f0b4a
-SHA256: 0ffc99d7db1dc9e0fb5fbc904658e3aad1601f4d47c1180f850ff1d263f027c2
-SHA512: 3b07f1ea62a1ff8a800de368c37b709fe7a77642e96565a7ac8e40a9eac89c4fede9c9a43738324bbf6c9d8216ec1ccd523ee6706120c3a7f04dfc5d00172dd6
+Size: 9630
+MD5sum: 472c48a941d2446beaec0efd6d0d560e
+SHA1: bee7c381b86650cfaa713f38013ccedf7ea26559
+SHA256: 5287b2ed8939c227c539a267198bef24002bd36591665c03a57c9041a1673f9b
+SHA512: 73af498cf367a2c7d51fe106ea51d5cf608173d88e6817e22bf12373c8d9b5b3baaab87e7a8b29eabc2edc708d91aa4302da1ae60817f5f48ad88c39a0ba2815
 
 Package: com.82flex.touchvis
 Name: Touch-Viz
