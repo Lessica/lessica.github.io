@@ -1231,6 +1231,57 @@ SHA1: eb14c6b45a103fa8742750bfa68ae68535d88ffe
 SHA256: 12d037e0764c68dd5437428bc4510577022d3fa86207f0d0cc43c615a418e440
 SHA512: f72e465936a2b5e58dbdccb4084f61feac32696e11c12c64c1cba052c3a54990fc4abdfd766d94111873e3da351788cb052088714818b0b9b1168820dfda7284
 
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm
+Version: 880.120.1
+Installed-Size: 72
+Filename: downloads/system-cmds-memory-pressure_880.120.1_iphoneos-arm.deb
+Size: 8266
+MD5sum: 991b32f2ca9fec8810adf863a00964fd
+SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
+SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
+SHA512: 7b207d08de83b379605a8804acc6373c019b338cd8c8010d04d4dd97fd692df6c6bd11c8ccdc456670599abfc340670afd6b886578c7aec96685115537eff096
+
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm64
+Version: 880.120.1
+Installed-Size: 72
+Filename: downloads/system-cmds-memory-pressure_880.120.1_iphoneos-arm64.deb
+Size: 8346
+MD5sum: ccb630169a8ac36c5919ce89416b0185
+SHA1: 552666702f1406579f6decef460d799539190c55
+SHA256: 735a94b99902125702fa082d8f73a2cab26e5c801b54e494cf9ab2df5e17fe99
+SHA512: 2a9eb8c54ae94e25647b47b887e52d180c3a5b50b88df6255db22ac3e2f31b97b5ffb4217fb9f4c8b2ae14cc1c6e01f9b240dad848118609e1a6f46d9a860e48
+
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm64e
+Version: 880.120.1
+Installed-Size: 72
+Filename: downloads/system-cmds-memory-pressure_880.120.1_iphoneos-arm64e.deb
+Size: 8274
+MD5sum: 9e96e3db6589d827b35eb93c82096c28
+SHA1: aa26803626d44c8853ac719a998b3a0063ef26c7
+SHA256: 9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549
+SHA512: 193546bff5efc04e72bc579cd3fbd911c52ac68d919b6cc2629d3c52e3120d6b8ccdec417fdd1f20b03732c7ca4ad7aaea298ec8b9a3b9ff19dcc27ca19ddd53
+
 Package: wiki.qaq.colorfulwallpaperx
 Name: Colorful Wallpaper X
 Description: Dynamic wallpaper with colorful effects.
