@@ -3242,6 +3242,46 @@ SHA1: 6ed27b8d20afde1a711911758a553283112dbe0b
 SHA256: 6d77a4591c84925f151be711b0dfba163156c6c4746a5657e400ec09919a72de
 SHA512: c4adbae61e67b7384243956540b9211cc620c9d698cef324081e9b5c3aaa6945eabbaa2162c129071820dfa6543964d21330df6b875df61129d1297e5245ec84
 
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 3.3-613
+Installed-Size: 58540
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.3-613_iphoneos-arm64.deb
+Size: 14132570
+MD5sum: 58e3d57b6e508d7f013c86626cc218a8
+SHA1: 61934489bdbde6939777a17771086a104b9bfa1c
+SHA256: d2fda0c42bf3c638daecab0d85348353f7e8fc205d50ccf66c4a5f309d8474e9
+SHA512: c9acb7b195b1aa8e8695ffcd020c0328469afe9875ef67d93e63264160aed2f6aaa3cc1655c1c085c600374c6587da175b09f14ede569751618727206fe3860e
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 3.3-613
+Installed-Size: 58544
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.3-613_iphoneos-arm64e.deb
+Size: 14126448
+MD5sum: 8f298df22fe7102f254bccff0abe5ce5
+SHA1: 32622832e9b0e4c202374eb856e5cfb907bc285d
+SHA256: 539295ba307fa3c2f245227c26c513f58b3da525e908e88d7267b7b2b058fbe4
+SHA512: b9fa355aaccd807ce25751eb6f1657301c8a72de2fd95cff13a4a62091d7b18a5cb4c701e9263cc21842876ff651484a26d793985f758a8e08108a08dbbdd5bf
+
 Package: wiki.qaq.writenow
 Name: Write Now
 Description: AI tool within your hands.
