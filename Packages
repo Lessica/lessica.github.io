@@ -268,6 +268,57 @@ SHA1: 0394ef427a5938054adced6d873c6de0050f3c0d
 SHA256: 449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b
 SHA512: ff52f3ce6cf9ef8adcc77c7c7b3d96bcde5a9564c6ac5367aae00608c4791b6039f4c4f687284a1b884db7b97b64fcde2d7d4789e540f9d098a9a6e476adfe58
 
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 2.8
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_2.8_iphoneos-arm.deb
+Size: 126772
+MD5sum: dcb533640beca0f50ecd04111d2abe19
+SHA1: 05e29fce18db7df5309c3317579668ec7f8ba9af
+SHA256: 72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae
+SHA512: 2420941c9e8f57d3748c5decaf3a146c6524505a033989aefdf6a00388aba8baabf5db622eeba85891b662b4d1c5e42d02fef7ee700d2323d7c6a10524788519
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 2.8
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_2.8_iphoneos-arm64.deb
+Size: 127108
+MD5sum: ac36b630c29534eec36cb32ffd2d44f7
+SHA1: 4abaf11ef4b0d6b29f6e21f8cc0c7cd35937d4a5
+SHA256: e21dc04c6e1325b142d6ae3da1d32031ef71aed94b5cc95c5d618c7adf1239fd
+SHA512: fde0158a2f46141630ac78a5229ec8e2dd95b174af53997c46f43c52a1f8e1696a53779945a69e7eb9649720aabc99daa26435ba76c2f2582cb4012baeada3b4
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.8
+Installed-Size: 968
+Filename: downloads/codes.aurora.kayoko_2.8_iphoneos-arm64e.deb
+Size: 127570
+MD5sum: 43d9f394bf5cdf6f27b0cf24ef589656
+SHA1: e1846c572a13910013f2cd42fd0ef38dfec8564c
+SHA256: 98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b
+SHA512: 815a0d136fc2bbccdaabd1fd2fd13813a7ef50f303a4de879f1fdfbd88d13f31c01afb3e594493f09013404d09d28cdf04e958890faa60005a8a0a087c8aba80
+
 Package: com.82flex.iconrestore
 Name: Icon Restore
 Description: Save and restore the layout of your icons.
