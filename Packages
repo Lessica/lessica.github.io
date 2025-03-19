@@ -1265,6 +1265,40 @@ SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
 SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
 SHA512: 4ddcc6a22758a5837c440fbe4fca2243443d273f90e5686b8d5a7c06a9017067b755eb38a1925714cdccdec7f62442e0d8100c8b9d5b467a9f46635d6b94c8b2
 
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 4196
+Filename: downloads/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm.deb
+Size: 595040
+MD5sum: e9a2b68e697a034e2bab4b969897f0f4
+SHA1: be1a9827e80bfde39535e3062ad78c8979765ba5
+SHA256: 98760b6aefec1206aedbe389daa168bf075475667b79a8e6d9b94dcaf3f23658
+SHA512: e41b4ecf8055b9a22985f60260f583058ba819ceef983f9b190f2df0139facbd00e39f9fb58a00a4dc609413120143b5779185a1c3fa6055ae3d8dbaa94d0aae
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 4196
+Filename: downloads/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm64.deb
+Size: 594332
+MD5sum: 5ae1e008039ac96e9642b839fc39042f
+SHA1: c7e84a3be7039bb1671f6606f78fe2b86e2b80c7
+SHA256: 1192e4e5be8c1421d37fd76a4ece8df2a5b57fa70d4df32ec8c38959ed12f18e
+SHA512: 4f7a843f697cfc16fdda7a9e63c7b5cd67fe5e53aaf368f90af2869514d2fa9265a74b3497e51c557dacc2344663d0b59690c56d10f5e908fccc290c717b3ad8
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
