@@ -16,6 +16,7 @@ repos:
   - "https://github.com/Lessica/XcodeRootDebug"
   - "https://github.com/Lessica/socpowerbud"
   - "https://github.com/Lessica/memory_pressure"
+  - "https://github.com/Lessica/objsee-ios"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
