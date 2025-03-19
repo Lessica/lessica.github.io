@@ -1319,6 +1319,60 @@ SHA1: 3f5788037167d37e0d16ad6f189fcfc57f349c86
 SHA256: 7f801f25dbfd5d3c412f0b62ea16c661265d605e08bb0f6cf2985cbdeda17d5d
 SHA512: 2ddcc51a957d617e192254bdf7def9a65fe7d703dcb5b11f08f2f20e8864461fc004d7196c095213ae3b3b4ed084fd2597a8147016fba7a96f1a0e46806cb44f
 
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 4196
+Filename: downloads/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm.deb
+Size: 594784
+MD5sum: f8bf400348d2fa79a02efc3ff85f4856
+SHA1: 9bedc34d8a5515e4c6aa349a3b4aaf78b20f154c
+SHA256: 7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec
+SHA512: 731ad6a051cd77307b93b13329c56dacc5d92e929478bcc44d981a396d84754648784a08d5959c5eb17847cf0188800d92b29e734853114e49c729d804553124
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 4196
+Filename: downloads/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm64.deb
+Size: 595062
+MD5sum: ef8c25af32961ad908f079540faa1c6a
+SHA1: 312cd869eca8e180b0db1e36b732c2f05f606d68
+SHA256: 080bda30980c4bf932fa375eff047d9f689bcd30f7aa547302f22412bd501dfc
+SHA512: fe13828e1f3ad6f270e884fe5e1825cbf0d9ff20973edd70746c5b91431a43d81fceecdd1589fae6a5e4299d1f80e0ed14d217f838c50874432fc2f6fc33f3eb
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 4196
+Filename: downloads/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm64e.deb
+Size: 596148
+MD5sum: 2aa4fbf7c1ab3e5b7750bd53be2b1aba
+SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
+SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
+SHA512: 0aaa646b46e5799cdde3272981cdf8c4e5cbeffd948a0267656188f2b3694e328bc43c678283b15fc55fd1ed652f4233c6403b20bee0cde7bdf504a740076e7b
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
