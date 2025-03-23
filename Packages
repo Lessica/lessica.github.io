@@ -1373,6 +1373,50 @@ SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
 SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
 SHA512: 0aaa646b46e5799cdde3272981cdf8c4e5cbeffd948a0267656188f2b3694e328bc43c678283b15fc55fd1ed652f4233c6403b20bee0cde7bdf504a740076e7b
 
+Package: com.rpetrich.rocketbootstrap
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Name: RocketBootstrap
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Architecture: iphoneos-arm
+Version: 1.0.10~beta5
+Installed-Size: 552
+Filename: downloads/com.rpetrich.rocketbootstrap_1.0.10.beta5_iphoneos-arm.deb
+Size: 22300
+MD5sum: e6379929c7417946b7ffff68c3e26e4c
+SHA1: f5810a936a50aa6c3721570ddb92a789f9520984
+SHA256: e2ff5a71fab5eb5ee3387d5bbdd18931a4a7657f536f37dbb4660a9055b889f4
+SHA512: 4c6f8ed3d7156a8919453acef0e06a0bc31e52c73d197be92ed080e25e2b13bcbe007751a74268f3f31b3da748a035469104a5dbb5e60f0a6606643c0bdf25d3
+
+Package: com.rpetrich.rocketbootstrap
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Name: RocketBootstrap
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Architecture: iphoneos-arm64
+Version: 1.0.10~beta5
+Installed-Size: 532
+Filename: downloads/com.rpetrich.rocketbootstrap_1.0.10.beta5_iphoneos-arm64.deb
+Size: 19156
+MD5sum: ba72e0bd298d5e5a785f026a01030191
+SHA1: 54389cef0dacd2f1794330ce6a3f4e815f440933
+SHA256: 75d134cfdb0e7e74d7f7b19f4aadc5f81baeb453724e774c0d6ec8308c669b08
+SHA512: 3a5dc165c75dcb7cebfd6051f2c9ce91919765c2a0adea603fe330f212976c758a0d7cb96426dba569740e8b3bbe7d48b7a633c8761989b7a307f5b2b9d42634
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
