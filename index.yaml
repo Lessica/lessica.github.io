@@ -18,6 +18,7 @@ repos:
   - "https://github.com/Lessica/memory_pressure"
   - "https://github.com/Lessica/objsee-ios"
   - "https://github.com/Lessica/RocketBootstrap"
+  - "https://github.com/Lessica/SandyXpc"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
