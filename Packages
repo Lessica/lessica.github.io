@@ -415,6 +415,42 @@ SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
 SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
 SHA512: 8a29761357cc3d450dd002c742e18c908266f853fc55abe56ad298ec59482b6d12ddedbebb3ea5993438ac1bcc140d4bbcad11962c8d5c3b87dc3726958c0de3
 
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 200
+Filename: downloads/com.82flex.libsandyxpc_1.1_iphoneos-arm64.deb
+Size: 18800
+MD5sum: 89d7ded810109fb0c6354f8c77e5a343
+SHA1: 898a917a89c9f5e13fe56d7587ae1cc66d6d0a44
+SHA256: 471bbd9438ecea2ae4b192d64d71f7b01c96ddf24e8881ded31c4d0f997469cc
+SHA512: 41de98016afe70a31cc774cf9a4c52955eeaab42349bcab30a06da1f94be4a362b1de5bd2c3e828a57644dc9dfb5d8dc15137ed42905a0880d12488f34b0a3a0
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 200
+Filename: downloads/com.82flex.libsandyxpc_1.1_iphoneos-arm64e.deb
+Size: 18710
+MD5sum: ace27b92a95e1f97152f796adf684c8a
+SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
+SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+SHA512: 7911b6a14dc2a9af092b5000f1f49757c0c0c86d968c45f2f4f64c9c08f4ecba35d175da7a8487a66c2fc7673cf9884edc85738d7c8ed826dfaea43313743dfe
+
 Package: com.82flex.noredirect
 Name: No Redirect
 Description: Stop specified apps from redirecting to App Store, Safari or other apps.
