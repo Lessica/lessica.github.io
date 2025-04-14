@@ -19,6 +19,7 @@ repos:
   - "https://github.com/Lessica/objsee-ios"
   - "https://github.com/Lessica/RocketBootstrap"
   - "https://github.com/Lessica/SandyXpc"
+  - "https://github.com/OwnGoalStudio/XXTouchElite"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
