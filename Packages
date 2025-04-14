@@ -98,6 +98,57 @@ SHA1: 77546e0bab1e4eb263502554855548787d8d71f5
 SHA256: ace79d71eb227ad90feeb5fe854fca85ae78ee06a2ec6509e50fda8f09756cb1
 SHA512: f74d40a2180d158f74fb47d0f857a95ba80c37d397fcc9b0038a1e21936972fed5a61f53181dd2376f30dbd396518baac3ca733aa4ea503c902b9d88a1802a31
 
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.0
+Installed-Size: 39184
+Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm.deb
+Size: 9589722
+MD5sum: c959bb39d731fc0c16eae8a5ea3fd3a4
+SHA1: 9df60081e954a16a1597a034a822d5ff1f219796
+SHA256: a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f
+SHA512: 842afda6e55b975e47532cf5a939b71f069d13125f28d895afe0e5cff78b835eb3af701d3f1664130ec30637d5c39a77d2b2c2315820c6f61e8c26642b5037e8
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.0
+Installed-Size: 39252
+Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm64.deb
+Size: 9587370
+MD5sum: 25ff0b64f4d9bc76b92c48b4b0d11940
+SHA1: 08206685f4771c422bb56c633b3f0b95d86baae8
+SHA256: 13f0dc44aabfb69fdfe10f2514ecf9f6ff1d0ab5304f5996a6e01abb86d0a1f9
+SHA512: d2b61a7561a1153a05cb808f142e688b15a263d9f924cc80473693a97d03589583262b3a03243c95f362c2debaae72fdcf8a5f0e0c9ee0ff17c1dcf563915509
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.0
+Installed-Size: 39236
+Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm64e.deb
+Size: 9585010
+MD5sum: f1df03b537ddcb85c97b021dfa087f5f
+SHA1: 1909d592208ac04ff6cd8f84eef181a2b0e9157f
+SHA256: 634b74f0d57d1544a79394d1c2bdedbc90da999632e5050a0cd5d00c584066a5
+SHA512: bc1910828e5afcb111e129ad691016ef2f92ce2d80555a3736ae0db725be21d6c4a5baf75d7754181b9412b28621f6309d175c84a5bb9a35f32d96e6e56406e6
+
 Package: codes.aurora.kayoko
 Name: Kayoko
 Description: Clipboard manager for iOS.
@@ -414,6 +465,24 @@ MD5sum: 456682d92e7bc10f692094828e83f1ba
 SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
 SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
 SHA512: 8a29761357cc3d450dd002c742e18c908266f853fc55abe56ad298ec59482b6d12ddedbebb3ea5993438ac1bcc140d4bbcad11962c8d5c3b87dc3726958c0de3
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 256
+Filename: downloads/com.82flex.libsandyxpc_1.1_iphoneos-arm.deb
+Size: 28690
+MD5sum: 2d8078a772703c23fb8154b78819911b
+SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
+SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
+SHA512: 2ea161623fb89d2bf1ef4e8fe76217bacd60ac0a79d969c1ca92d8b9ad812251a83f2f628261071b42b1a85ecb6c50a361da11933930ff8f8b09e0b4d2df69fc
 
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
