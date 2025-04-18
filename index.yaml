@@ -20,6 +20,7 @@ repos:
   - "https://github.com/Lessica/RocketBootstrap"
   - "https://github.com/Lessica/SandyXpc"
   - "https://github.com/OwnGoalStudio/XXTouchElite"
+  - "https://github.com/OwnGoalStudio/Rose"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
@@ -32,6 +33,7 @@ havoc-mappings:
   com.82flex.touchvis: touchvis
   wiki.qaq.colorfulwallpaperx: colorfulx
   wiki.qaq.writenow: writenow
+  ch.xxtou.xxtouch: xxtouchelite
 
 package-title-mappings:
   wiki.qaq.colorfulwallpaperx: Colorful Wallpaper X

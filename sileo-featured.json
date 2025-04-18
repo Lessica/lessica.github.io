@@ -22,6 +22,11 @@
 			"url": "https://media.havoc.app/66a489f8066c63e2b4e6e879",
 			"title": "Touch-Viz",
 			"package": "com.82flex.touchvis"
+		},
+		{
+			"url": "https://media.havoc.app/67fbfa30dcf4386646dd9e92",
+			"title": "XXTouch Elite",
+			"package": "ch.xxtou.xxtouch"
 		}
 	]
 }
