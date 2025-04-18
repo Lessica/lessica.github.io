@@ -108,6 +108,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm
 Version: 5.0
 Installed-Size: 39184
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm.deb
 Size: 9589722
 MD5sum: c959bb39d731fc0c16eae8a5ea3fd3a4
@@ -125,6 +128,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm64
 Version: 5.0
 Installed-Size: 39252
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm64.deb
 Size: 9587370
 MD5sum: 25ff0b64f4d9bc76b92c48b4b0d11940
@@ -142,6 +148,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm64e
 Version: 5.0
 Installed-Size: 39236
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.0_iphoneos-arm64e.deb
 Size: 9585010
 MD5sum: f1df03b537ddcb85c97b021dfa087f5f
@@ -159,6 +168,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm
 Version: 5.1
 Installed-Size: 39184
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.1_iphoneos-arm.deb
 Size: 9590216
 MD5sum: 7adcc3e859819b3f115862e5b16f7431
@@ -176,6 +188,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm64
 Version: 5.1
 Installed-Size: 39268
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.1_iphoneos-arm64.deb
 Size: 9587966
 MD5sum: 5a4fe9e55db34dd45d79049b485466f4
@@ -193,6 +208,9 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm64e
 Version: 5.1
 Installed-Size: 39252
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.1_iphoneos-arm64e.deb
 Size: 9587448
 MD5sum: d41fc08d78ae0c8c1214fd944e6cfdea
@@ -1625,6 +1643,57 @@ MD5sum: e3ef780aca4222837acfefb89ad44c6e
 SHA1: eb14c6b45a103fa8742750bfa68ae68535d88ffe
 SHA256: 12d037e0764c68dd5437428bc4510577022d3fa86207f0d0cc43c615a418e440
 SHA512: f72e465936a2b5e58dbdccb4084f61feac32696e11c12c64c1cba052c3a54990fc4abdfd766d94111873e3da351788cb052088714818b0b9b1168820dfda7284
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 2868
+Filename: downloads/love.litten.rose_1.1.0_iphoneos-arm.deb
+Size: 432460
+MD5sum: b3a2760273480eadf7d455d941e2f929
+SHA1: c5f89be7cea8dc32eb604e9b9888aba6efe8b235
+SHA256: 1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7
+SHA512: aa1ab64aa7c4cfc30713b4f0e338bce836d41b9a33fc61591a8c9cd7d100e330aac71b3856f852a01d8f2db08df0ec5da1424bc158a7f48ca4c3e735ca5a523a
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 2832
+Filename: downloads/love.litten.rose_1.1.0_iphoneos-arm64.deb
+Size: 430810
+MD5sum: db63f7cc63e870de158058d9605a6eea
+SHA1: f27d7c003417f92ef369c06589c523d45a25bb4a
+SHA256: 3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f
+SHA512: 731a15e29d0dc8b8d53994813dcdd5ffc61a9e76dd058a54fae293557c26856c374b23427633b9303283bfeba3179c807d9b4869e4ed4c9d3e2147fb74924d74
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 2816
+Filename: downloads/love.litten.rose_1.1.0_iphoneos-arm64e.deb
+Size: 429488
+MD5sum: 1408f43be7171677a9c27c6e9c46c5f9
+SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
+SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
+SHA512: e55a2249d056778446a94b48728f360e0d9343e0c63d07db16c17ab12d219213e72115dd0f1bf02d518af9a8769840cfde41f9cb9b727afb08a5b4ae6a5a5e73
 
 Package: system-cmds-memory-pressure
 Name: memory_pressure
