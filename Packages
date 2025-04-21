@@ -649,6 +649,57 @@ SHA1: 9af5c055d04a174ce3c2d927bee1d200fff00dad
 SHA256: 30b65266d790d88f1b7083518ce32e1bf7c38082315c8c82d583e2c0a1fb7494
 SHA512: b2c546ef52aa03705317036a84bfb9cbc2747032de64a213791842858694b593228b99783f0dd20b5b121a37ad5fe632e46b702ac2be55d448f2c2ee70eb2e5d
 
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 1600
+Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210282
+MD5sum: 04992a0a6c0e45456b31bac174e93043
+SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
+SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
+SHA512: 9c7b6e5093470ad2b468fb1987d5a3d6fa0e7fe9b151e4a8e5d5516d45204f9d6b0683a3f96cc7982e7d1ac5dd6954c4d176448c8bf44913a7fb381fc8a7250b
+
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 1600
+Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209802
+MD5sum: 1d595efd012858682ead366c90a95a45
+SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
+SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
+SHA512: 63c5287a6306bada71a6f90427dc3d15691dfeca5aba715a44abfd44d15cdef97d00ee03608213decc953686a9d7a677596119f4e104fc17068702de23c3b474
+
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 1600
+Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
+Size: 208986
+MD5sum: d1eb48d7603ba987b6a234054a3ce520
+SHA1: 11afed170b0012e26b34b00c8612decb441b8543
+SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
+SHA512: 9747fe86276e2fb51d435154b159ab724120879d03bd22caba89799e13d486eabd7d5d0e71af5db8c63dffba175fa9d140ee825f3d1de16c3f17fc2157857b00
+
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
 Description: Remove the background of the widgets on the home screen.
