@@ -439,6 +439,108 @@ SHA1: e1846c572a13910013f2cd42fd0ef38dfec8564c
 SHA256: 98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b
 SHA512: 815a0d136fc2bbccdaabd1fd2fd13813a7ef50f303a4de879f1fdfbd88d13f31c01afb3e594493f09013404d09d28cdf04e958890faa60005a8a0a087c8aba80
 
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.2_iphoneos-arm.deb
+Size: 27808
+MD5sum: e53fba5aa689d901574477e73e1509ba
+SHA1: 106daea08880e8789c220250c290a388853d2ebf
+SHA256: ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375
+SHA512: 8caa94d4833e41ea5d780696383c8a964dc7794e9d44fdae39cb9836efa8f40bcc0a6a2c35ac40a850136c7687ad082601a894689f600bdc84756d980889d072
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.2_iphoneos-arm64.deb
+Size: 27874
+MD5sum: b73ccc9c2869df26777152698bc5719d
+SHA1: e043eaa58ac817141fe502d2063ed5daa5c20e35
+SHA256: 4731647b8d1b93f602696ad03a85bc95247d8032a96008dea42f7bec1c58caf9
+SHA512: 0af62e7b079ddf8a089de585fc6de96e09272d02786bf7da4c549d2d6e98e8afe47f06aadf35f706c723344848ff4251be11ebeadfc02fea33c1d32defa729b3
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.2_iphoneos-arm64e.deb
+Size: 27832
+MD5sum: ca4ad37653b3916cc86aac22c165fb74
+SHA1: 6dbbf4f7e1c2fe170ef6a119bcef0ea286c893a7
+SHA256: b8c88fd05a4ab0ee31e75e4249997527ff74abd5e297181d504a454e1751f143
+SHA512: 9a1ead409373da36c73e188471c2d68edba08a2e10bd5c0502a6715d40c5e4b4cf25ca3696dcbfc78a088557cae9de0915133e75c50debea86e3a45fac88816c
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.3
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.3_iphoneos-arm.deb
+Size: 28758
+MD5sum: 510a435150b9b48655613ffd4516ed39
+SHA1: e0e8894cbd2e27ea91de6fe6766acd90767cab40
+SHA256: 3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98
+SHA512: ab0b9c92204068fb699a42600b19a30c627f21507478a6075985e6a4f4e45b9cb8bb20692632b04c378ebd53880c1b1310126d1b5eb95bae5fd643c6c605bbcd
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.3
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.3_iphoneos-arm64.deb
+Size: 28822
+MD5sum: 7bd9443960110ed6eb24fa52ced7c8c6
+SHA1: 6f59974034881998e5428f08c023db10c5832c11
+SHA256: a480d83e7175f6561a3130377996948a7b05838e9d161cbe06f74420a9144525
+SHA512: eb25deafda3705d11f7a663230862efe075bfb020bca835e071e2b474fc562d253e513e43bde2d0ef237e694c526b746659d0d6605a9d59d78b3335948a53e29
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.3
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.3_iphoneos-arm64e.deb
+Size: 28752
+MD5sum: 5c7ebf376de050dee93d354e42b1d462
+SHA1: 657492b6e274e25d10871c6895314d4c69bea2f5
+SHA256: b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68
+SHA512: 5f5bb1774a90178dd7970a8af2cf426b8c9b4d3245a9c58e70e8b8ae12c1c4f0d75f731d36b4e3d0e4570706a299e8f7750e2c3fce124e14e197c4374f8fa494
+
 Package: com.82flex.iconrestore
 Name: Icon Restore
 Description: Save and restore the layout of your icons.
