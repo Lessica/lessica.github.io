@@ -541,6 +541,57 @@ SHA1: 657492b6e274e25d10871c6895314d4c69bea2f5
 SHA256: b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68
 SHA512: 5f5bb1774a90178dd7970a8af2cf426b8c9b4d3245a9c58e70e8b8ae12c1c4f0d75f731d36b4e3d0e4570706a299e8f7750e2c3fce124e14e197c4374f8fa494
 
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.4
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.4_iphoneos-arm.deb
+Size: 29544
+MD5sum: 7f9c66f814f9491af16856d047fd3998
+SHA1: dfb55f50a392eda9536c69f0340caa605f857fb4
+SHA256: 93e5eba1a190a03d1f2cd2b7ebc4ec68a729b80edabbe2e131cf81d3279e183a
+SHA512: 1b4db83d812042c09f45d6c737ea3d3d3d4ae1b9022e8dc4d904f08f09f277ea3453662bfe65343f05157e0e455630aee4ebd3c1b7b57da014d1c696721866a5
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.4
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.4_iphoneos-arm64.deb
+Size: 29608
+MD5sum: 8b67c5015a052d0dc306dd44a373705d
+SHA1: fc50339784e66c6988b7bee643a619743212ab56
+SHA256: c3645c01cde0e25b814b9df4b70ed4a27aa1e8ec7ef0a3cec99ba5f0e6d95755
+SHA512: d1263308a7ffd4303cb42231b8882313fc4c71716b550fd8f0b51bbeb07d643c95bc9f4c5c176522708b798d1bb43a56f5ec66c480d8cd0762054e28aa96b006
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.4
+Installed-Size: 384
+Filename: downloads/com.82flex.artworkspinner_1.4_iphoneos-arm64e.deb
+Size: 29558
+MD5sum: fb07ba82855652d66c3f661954894a82
+SHA1: 3e7787295d91aad15170d5c1221c3ac1cdc590c8
+SHA256: 8a46f9563a31cb328f1fcbea2f55416cb6edc48ce296190b8697c6241f58eb13
+SHA512: a6d2b18952a0089a0e8f902258a443a5c145f2fd2e8319f680fbb04582c488404753e163d2c2d40a4326224ac5bca4f983f017caa4b3c28b28f3905deb2aaa89
+
 Package: com.82flex.iconrestore
 Name: Icon Restore
 Description: Save and restore the layout of your icons.
