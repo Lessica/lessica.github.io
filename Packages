@@ -232,11 +232,11 @@ Depiction: https://havoc.app/depiction/xxtouchelite
 SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
 Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.2_iphoneos-arm.deb
-Size: 19160274
-MD5sum: c87ccc161816aa5a63b4d7f9978379c4
-SHA1: 902b035a482e039bb2ae43b843cffe3a55d9ff4e
-SHA256: 819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7
-SHA512: 1bc5b3a82ecceefff4d835c8bc8809d040b5212d9e264fdd9756b31bcd0e0429f65453b28d545a6d1f6d9f318885ed2c58fa040febf767db59aa025695ea2a60
+Size: 19162504
+MD5sum: 404ba567ebd7d91a411c096178af17ab
+SHA1: 8f375125733cee8e40efd3745adf5d2d01ebdd18
+SHA256: a25db3ae7ecc52c58b190f99045d889f346f86a9808d88739e9d0153f0689878
+SHA512: d2d9d482ff2fd256ec2a996e32b74d0d873571e994e75ed86847b6039258d431b666a2b7970ee2d45ae2c2c032a571e65f9457d1b60b04b8da9e442ebbb2c7fa
 
 Package: ch.xxtou.xxtouch
 Name: XXTouch Elite
@@ -252,11 +252,11 @@ Depiction: https://havoc.app/depiction/xxtouchelite
 SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
 Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.2_iphoneos-arm64.deb
-Size: 19157962
-MD5sum: 6b22cee7baa6dbf2f41381092b8777ec
-SHA1: b23c33b63cbf568cbfd4ab745ab83f2a05718817
-SHA256: 086603415b05c976c034a01bc778b2c4bb69bccd06aaa55e4204220827cae48b
-SHA512: 559d5b9b9751c8c72d2aabe9c0c8a75ec889d71a00f9fa8787a3f3c0b5fa798353d331668e3a189730c484c94cae844153417b3d9d2ef93515110b5f0b891cd4
+Size: 19163714
+MD5sum: 1d9a0cf1c9f55df58236a1cafe36cf94
+SHA1: 6eb75fa6d851b79c273fe8179536782bb335f52e
+SHA256: 864dee3cbee123d64a372285780a78df2e8ad06f5d4e0ee6f4b83d9f261e9820
+SHA512: ba67ab42370fe88d6e361b6a270611d734cfcac92a43802f47ea2597ebc693fcd709b5427d53873e0f7068700051e4fafa3dc96e31a9f71d7c51d54fc1b0d500
 
 Package: ch.xxtou.xxtouch
 Name: XXTouch Elite
@@ -272,11 +272,11 @@ Depiction: https://havoc.app/depiction/xxtouchelite
 SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
 Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
 Filename: downloads/ch.xxtou.xxtouch_5.2_iphoneos-arm64e.deb
-Size: 19163866
-MD5sum: 108e7cbe9c234874e72c970caf02cf4d
-SHA1: 8e2bd3c9ea3965b1a1795f0d1e8e8747b0e8b5e6
-SHA256: 64b8d6ad62bcf5a2ec54ccaf0fe88ef914dc3f348b96f07a2f7dcca6b87f6b05
-SHA512: 0ea89d76f9b81df19d73b5ac30dccbc372d7731082ad6f1448e1099412eb3b646d5fc6958fa81f11e9e9a313f5287731b61960a301a0bb0492379fb01ebf4873
+Size: 19160532
+MD5sum: f5debac846ca581133a4125dcf8268f4
+SHA1: 7a8b72935405150ed5014674284f3dace048f056
+SHA256: 9a3edf6e72007e8c4e5e9f18eff32e8b17ace16ae69a1f9d9f7df0f757935aa3
+SHA512: daa7f9fc04ad4e2bd4e20980ff727615fe759dcb13fb05e3b840f98c1108cfdc50ca0b3f711944ce8088ccd966c1b7ddc1b91a9e3d7322c834ffe17f74ad3c3c
 
 Package: codes.aurora.kayoko
 Name: Kayoko
