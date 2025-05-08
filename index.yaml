@@ -22,7 +22,8 @@ repos:
   - "https://github.com/OwnGoalStudio/XXTouchElite"
   - "https://github.com/OwnGoalStudio/Rose"
   - "https://github.com/OwnGoalStudio/OhMyInsets"
-  - "https://github.com/Lessica/ArtworkSpinner"
+  - "https://github.com/OwnGoalStudio/ArtworkSpinner"
+  - "https://github.com/OwnGoalStudio/DayNightSwitch"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
