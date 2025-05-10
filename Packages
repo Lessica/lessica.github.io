@@ -559,6 +559,57 @@ SHA1: e1846c572a13910013f2cd42fd0ef38dfec8564c
 SHA256: 98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b
 SHA512: 815a0d136fc2bbccdaabd1fd2fd13813a7ef50f303a4de879f1fdfbd88d13f31c01afb3e594493f09013404d09d28cdf04e958890faa60005a8a0a087c8aba80
 
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 2.9
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_2.9_iphoneos-arm.deb
+Size: 128738
+MD5sum: 417118e7fafc97bc88c418345a28b6d9
+SHA1: fe50bf6073058b8dc2a0e08b70eae904b3de0620
+SHA256: 45fd7beb6685b255783d02c045df244639c6c8682fcc84fbd7a09d3ba96d029c
+SHA512: 357ad9f97cc4944248e91eb92d66499fe08b7ad4c7e7804656c52ee5168a9ed7e2d0d25977737dd405a043458ae6527f6f1a785a98553a10c306f91d0a030c07
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 2.9
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_2.9_iphoneos-arm64.deb
+Size: 128282
+MD5sum: f2209db7aaaf107179db38f6a7461700
+SHA1: dfd4b9da8aa9d4d25ab997c7ee9eff10e1867e8a
+SHA256: 01985791af62d384fa075129768d1d4e90274267e33408c6bc6cd3b7eacb2ab9
+SHA512: 9e6fabbadad35db04bae40993a5e4b01e115f86ec9a1504f37d8d2f8e3471c6d00d2506c13f87263e19300c7e5c46fa37240f67529370b6f73462d07bb9da2a6
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.9
+Installed-Size: 968
+Filename: downloads/codes.aurora.kayoko_2.9_iphoneos-arm64e.deb
+Size: 129138
+MD5sum: 978ea4390e6ec60dfa416c4d48588d27
+SHA1: 27b73390cb2d53549bbaa3d73a1925262549bcdf
+SHA256: 7b63f37902b5fb7f973ba4e5b741e31b10c8b7962f72afb11e3aebf216672a04
+SHA512: 3f8a28975f9f85a6acd39a57969bb4cdbc4da0af46e8fd615cfba227f2a8125781924abca1e0b195a01cd76cdc03b44775cc1fb7c8b945ba9a7a5d6dae084c74
+
 Package: com.82flex.artworkspinner
 Name: ArtworkSpinner
 Description: Rotate the album artwork!
