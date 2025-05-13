@@ -286,6 +286,66 @@ Author: 82Flex <82flex@gmail.com>
 Maintainer: 82Flex <82flex@gmail.com>
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm
+Version: 5.2.2
+Installed-Size: 55428
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.2_iphoneos-arm.deb
+Size: 19176174
+MD5sum: df39baad25d348a0d68f57ce0eba125a
+SHA1: 67f348eabeac00cec036442e0e3dcee24af9180b
+SHA256: e7fc351a0b43441ce4fcee87982093d04b3a04f4c3c896dc6f508ed3d86df631
+SHA512: 8fce435e0a2f0109d090044203aa594a88988160ab91e61ca3cfff6e84a0db434d3ac2dc0b9cbfe6c56a208379af696be338f03e03d45457a33d924ca582d27a
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.2.2
+Installed-Size: 55512
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.2_iphoneos-arm64.deb
+Size: 19174980
+MD5sum: a4334f6c991f372b8e0e01ee8bfdabc1
+SHA1: 63be959f9c54a14e748c8b814103e5d864f74876
+SHA256: 3813cd5618cb90a93ed3b400b1caaac5b21afd5d20cbf877ecd25ac40a760744
+SHA512: d25a6c1e771ffe0d467ab61e16e20268f56578cabdb3fe4c621acbad6bde351125515e204dbca42a1f358f4d68977921acc1c69d68bbef05d61e595df618c391
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.2.2
+Installed-Size: 55496
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.2_iphoneos-arm64e.deb
+Size: 19174892
+MD5sum: e091a14797e78227cb0097a351f2832f
+SHA1: ec6ded47044ba3d0253d4428976080f3f1e0afce
+SHA256: 3b961d8477ca3e3e22e6c65943c5cbcae242ca0df6427905fd936555f6be269f
+SHA512: 5b59d1e6fa8678aeced51227c0240dd9a9bf2b80094768fc24f9bc653da8a209657da7546a26d650b4e2f6fc036ad2c1e2dd9508c1b3a8f7126ea1ca098752ca
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
 Version: 5.2
 Installed-Size: 55372
 Depiction: https://havoc.app/depiction/xxtouchelite
@@ -2346,6 +2406,66 @@ SHA1: bb189485bb7ba4f682d3d088b287e980dc07c1e6
 SHA256: a3f4d2d8b1c4f1299a2f9c2273a6f340596b15da9ace3757adec09e772d08ac1
 SHA512: 4f1aef800fd010a33e114dadc696407392ee982d6f630e21e1789970ebfd61e642f2f239a636309c89e7c25266067f8137b92e2b1046fd2e1949e1cc357d6e24
 
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.0
+Installed-Size: 5960
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm.deb
+Size: 1433290
+MD5sum: df5b6c839b50412d550fc9ab80a976c0
+SHA1: 75c73b94c680e1f613fd7cc4326ca8b0c9ca5b6d
+SHA256: 73447637dba7ed45dc520c9d401a18a344c3de1051ef6bcee49c2287e7a36e79
+SHA512: a9f576cfb02c3d1948cf58d13ab5ecd54d1c6ee7df77ae311921331c86fb34c25bc3ea904f790999233823e5070029684a140df6c50fb69c3b4f8d6df124f78e
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.0
+Installed-Size: 5944
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64.deb
+Size: 1431966
+MD5sum: 8566b349bb3ce76e27312c403b6c5bf7
+SHA1: 81708b10d4095e8df86420ce9a05349eb953e398
+SHA256: 2e274a38f4598400d7a59afcdba726196e40c635dcaf0a367af22520a875c9fb
+SHA512: a64187e2f2e94934e5ed0dedea7c97aa3bd9f09998f0139f9523c9924377343367170955cea8e31f96316c8ba8447493834344c4658db012b4e8be9d6a4dc86b
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.0
+Installed-Size: 5960
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64e.deb
+Size: 1432752
+MD5sum: 092e8f5e95ec645e1d7120399db76b75
+SHA1: f0e5633127be8c8d43c92a9795f186cfbb00dd57
+SHA256: fd3f482cfd050a06ed18c97255d78d607bf888fdef8c2cce3981e7078bea7775
+SHA512: ddaa04fe229c967bc990225421c51d9b6e7b87ed2cf6647649196cdb629301fc8ffd595b7e373455a2af0ee9f7b025cbcec227f06b3d534087a02c9be055e99a
+
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
 Section: Applications
@@ -4365,6 +4485,66 @@ MD5sum: 0efc9fbbcb3f1001479433c0da040ddd
 SHA1: 0cf875e1da033704b7bcb4aebb2ef18ebd04e38e
 SHA256: 9b2b4466406a626ba551a7114a3777b90d2b740a73a0a5eaa613ca7071597580
 SHA512: e6b29b8d402796af01b5bec416146cf3fc1ec4a23a530b064069a544cdd692db859d1f75d37cebf33302798915482e45bf8953b5916a425f3bca1b92acb82b57
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 3.5.1-3208
+Installed-Size: 58668
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm.deb
+Size: 14159318
+MD5sum: 7c57765d7cb0a74332e2577ce354f5be
+SHA1: 8183f00cb739ce56e75418447afd7475fdeb803e
+SHA256: 228bd7fff8b65433f21a97596c98b655c7796e354269fe605922c5998a103b0a
+SHA512: 72f14d725f5ce6e60e40dab09498fca549c148f0a0f8ea05d481bbca2ad821edb3f4bc2fb7a6578e342dc188e3035a92f5e9b80966a4c7199716b57daa3a43a3
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 3.5.1-3208
+Installed-Size: 58676
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm64.deb
+Size: 14147416
+MD5sum: 6e31c9977be50ab812ce9cc22b5bdbe4
+SHA1: ad8132a140870e43bd63f7b17a727978134e423a
+SHA256: 27338b49a298aa91f1c9d2aa54a17ae52e751dd1ce196668189dcee4ad0199b4
+SHA512: 88223277079e174c185425f028ddf41db09a7a6dc448d2c8d246077425056ad3da76003c38b392b5b35df168c66aa253c7d258ab70f2f37d3ebfb1f573b5eb11
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 3.5.1-3208
+Installed-Size: 58664
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm64e.deb
+Size: 14158066
+MD5sum: cd05de08d67769fda129f9c636088b0c
+SHA1: 03336fdbc3ce50973a196b5a714e5574f1cd0d1a
+SHA256: f3358876cab26a2acd1fd1045d74275ea2c9ffad6f4886390786541f8b8a4e4b
+SHA512: 8b9c351d33abf14aab46f80738e94bbd7145527af0551742372f9462ecb4f278ee7b7db89bc966322d6e563289da9e45cd1fd7b53c51b19585b528e634b86b07
 
 Package: wiki.qaq.writenow
 Name: Write Now
