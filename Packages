@@ -1731,6 +1731,66 @@ Author: Lessica <82flex@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
+Version: 4.0.1
+Installed-Size: 4360
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.0.1_iphoneos-arm.deb
+Size: 915618
+MD5sum: 462bada324d6ba13483a715650c069f1
+SHA1: c41a71ce566fe5b7d097aa69611c141f473dab71
+SHA256: 619400082259f49c9ef738ba191af53ca61188d1395f9b3bef93aaddadb48064
+SHA512: 34eb32bd3bfd199274ebee60735911557ae88c825754f916aa051606ef6de8c2debfa238c10237f0725c0d561d8c66d98c65d1d86bb291920d9e3c40d4e76d1f
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.0.1
+Installed-Size: 4360
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.0.1_iphoneos-arm64.deb
+Size: 917398
+MD5sum: 054ea273ec5ad4e3f6289c8facfb1d4d
+SHA1: a496057fba12ea7163cc38819af85ec9dbc74e9e
+SHA256: c376fc998c719025a6b5082c92f75667261cabe38392e188b258962df7cecb97
+SHA512: fc75c9b7cd367d7fddc27e8b5a9f28bb1b9f1fa8c06aa74e807dd732d35d0adf8a236c94904adbb6c289a035748dfa49365196280e9f30d5787957d0639c55df
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.0.1
+Installed-Size: 4360
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.0.1_iphoneos-arm64e.deb
+Size: 915584
+MD5sum: a869131485d9436ba65ee9585801f05f
+SHA1: a3c5daec5bc4c85d1e0f61ab05aba24f42c8b7e3
+SHA256: 305b25a5f2b36fa37cec143bb641720e8f8462489b17f97e5204bd320f217753
+SHA512: 33ec18553f0197d0d97ee55ae2a9e96d7fdadb14a6ab0bfae3153b83290cd848f0e5392461e63690b2b64a0edb59393538a7c17721c955e6979c85e2f741b101
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
 Version: 4.0
 Installed-Size: 4360
 Depiction: https://havoc.app/depiction/touchvis
