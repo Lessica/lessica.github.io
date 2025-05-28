@@ -979,6 +979,60 @@ Author: 82Flex <82flex@gmail.com>
 Section: System
 Tag: role::developer
 Architecture: iphoneos-arm
+Version: 1.1.2
+Installed-Size: 256
+Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm.deb
+Size: 28692
+MD5sum: b7f505cd77cd945f9d293a258d7a0e21
+SHA1: fb75ee18af8c8cd6764074c6e51cfe798c1a6ced
+SHA256: 32ba1cf7417f0632f33216f35d9b9c43e749130a91e7ba38db5e39a035867f5d
+SHA512: ec9187de66510b58989f9416d7d330099bdcf6d2cbf7eb1eb444984c9e388cc3b2f6084f487a86285545326f16cf50f6fe7fb1bfee58fbe7595b037c20fc2afc
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Installed-Size: 200
+Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64.deb
+Size: 18986
+MD5sum: e1bc67f2e3c56f6de5b1c7ae917b46b4
+SHA1: 3540008a454231671f805c2332a57adb1084262f
+SHA256: 9c74db1b60d3e27840d7ee20823b280002f4dd621404f094b28edd4829d5ee95
+SHA512: 2340c35f5c1fbfc196a7e0305fdfa90e0534f4c949672019efe3f45ce3c7b7d9a1ac9ffa7ee18d9a4e3e8f065362d6968e633274ac2317f360f859f67d28efd5
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Installed-Size: 200
+Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64e.deb
+Size: 18888
+MD5sum: 9550118dbb2099d68ff09df45fc45b23
+SHA1: bd8fba3d5c7db3b277442880bd7b4af7777904bc
+SHA256: e68f9d262972f44cea80719447595764b3d150f73a3005ab8712de547873ffdb
+SHA512: d4a8cace3f2933df1cd9922e746e9eea1032c62f949d72ee3bb85871a38aaa500e6522437ad785de8bb0e0bc316a6ab40686a9520bf45983cea87e6db8d183f3
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
 Version: 1.1
 Installed-Size: 256
 Filename: downloads/com.82flex.libsandyxpc_1.1_iphoneos-arm.deb
@@ -2029,6 +2083,57 @@ MD5sum: 8ef0fd3611d4b26b4e9376e9617bffa3
 SHA1: bc5c2d3146e45780df111c757c000da072af7f33
 SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
 SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de35d3dd94cd8c1f3ed29d62c0b36b1d6a7e335d0a1fabc5bcaaa7bcdb
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm.deb
+Size: 59308
+MD5sum: 37c4ca9a3c40d4cd9b593e46ffe7433c
+SHA1: e6df921e84f964a40df3c75b8176a2b1adb506e1
+SHA256: d648e9346819a47aa73d0e0c2881736102009156597d214f3380708f5f1d201f
+SHA512: 8231a2ff75b3bc72eb73d8141f8ee4f8aafa8a6e6c11640a65513c9b3310d7312515ad22678db994282f87d8e86ace23aa9f4daaaadae6515882c18d579e9b80
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm64.deb
+Size: 59376
+MD5sum: a917e5235f05246c9139146cf13fd45e
+SHA1: dd60054e45cc22b902487276d01b73552160d44f
+SHA256: 5ad7bde92b4c0c2a816036b233b98b38d91bb24b8a79657bef7e95b5bfac23e2
+SHA512: a9b98544b7e13c356e1e9b9aa8357d95ce0b504701e6839a13faa7f5af43c69aec7b40315c42cb957416281ff524f01f92ee86498eb9417aba0c145bba41438a
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm64e.deb
+Size: 59284
+MD5sum: 595c42b0fe1267316136b86b2fc6887c
+SHA1: e199cf1e5b32674bf0a4831baa2e50b0786ef065
+SHA256: 0b78ff535b13a38b40b708863feac56a0cc7d1512ddc178466b7aa428b4503b2
+SHA512: 941a6aaf820cf6702ef769eb3763d08cc49d9da8b04c11dd556b81bcaa05af59ad199397b2b11e20f013c8fc57cfad64d23ee8ee85cd218acdd10a29d612e90f
 
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
@@ -4665,6 +4770,66 @@ MD5sum: cd05de08d67769fda129f9c636088b0c
 SHA1: 03336fdbc3ce50973a196b5a714e5574f1cd0d1a
 SHA256: f3358876cab26a2acd1fd1045d74275ea2c9ffad6f4886390786541f8b8a4e4b
 SHA512: 8b9c351d33abf14aab46f80738e94bbd7145527af0551742372f9462ecb4f278ee7b7db89bc966322d6e563289da9e45cd1fd7b53c51b19585b528e634b86b07
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 3.5.2-3219
+Installed-Size: 59136
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.2-3219_iphoneos-arm.deb
+Size: 14192412
+MD5sum: ab7c5c81ad86c1d42bc609c3fbedcda1
+SHA1: 3a105c93365f05d981b8e87a5661d3be517e97b9
+SHA256: ae0156f54daa4530a93488d75f74a5df961fd3287aeae648e3978d5d2953a2de
+SHA512: 40d1a529b81cb718519eb663dfe588414dcb524b706501c078b6112b6f7ff705654b9cc0aeca7c521c858fa9aabcd774270f98f180266fdef6e6bf5ed5cb5075
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 3.5.2-3219
+Installed-Size: 59132
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.2-3219_iphoneos-arm64.deb
+Size: 14179914
+MD5sum: dd19af8d42bde2e16f2d7f145db6bfd8
+SHA1: 8112542ac7c8457193b773e7217ea1d47b2ffad4
+SHA256: e7d900f8a8dc2d4edd7d46a0725fc2ab88fdeb0f055d24da0e2d7d249742054e
+SHA512: b5039c1afface46c3a09a43ae40b611d26ad2d479d46551947957679980cdfc84f394f58f33cf4fc2bb9c6cb050700ceb017d776d1932a70954527d19d6b33f5
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 3.5.2-3219
+Installed-Size: 59136
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.5.2-3219_iphoneos-arm64e.deb
+Size: 14183172
+MD5sum: 03dc80177143986c13a7d9fd37debcec
+SHA1: 42ab9e280fad3d0448130fecf564a103408701dc
+SHA256: d4610160fa1af572ae130faf4477248ad1f6a26cd5cd2ad9435dcb3c0ddf287f
+SHA512: a88cc01e8b4ca8d13db1536210a903c112cf8743bb7966e6560e2ad6ce1f51a07234b368d8369cc769d980afd1a1529a4fc6b2cf8222b0df8e1c9a2094f44fe0
 
 Package: wiki.qaq.writenow
 Name: Write Now
