@@ -2135,6 +2135,57 @@ SHA1: e199cf1e5b32674bf0a4831baa2e50b0786ef065
 SHA256: 0b78ff535b13a38b40b708863feac56a0cc7d1512ddc178466b7aa428b4503b2
 SHA512: 941a6aaf820cf6702ef769eb3763d08cc49d9da8b04c11dd556b81bcaa05af59ad199397b2b11e20f013c8fc57cfad64d23ee8ee85cd218acdd10a29d612e90f
 
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm
+Version: 1.1.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm.deb
+Size: 59574
+MD5sum: 42ddc7af3fe2ce27457c0926d66daf9d
+SHA1: 1e949f8efb641b5134e92e1c7aa84842c81c0219
+SHA256: cf47df229a705e3928cdec752f5587985b8064a43ad3e0a6b033de25c8a277d6
+SHA512: 7bc77a6fa6bd19d5fc1977844ff9a65d930357da45e4d7b85b6fe5813d7474b0d7120c70ca34d7859576617322b46a013fed76ca82a53939c51e01daf9f3627e
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm64.deb
+Size: 59522
+MD5sum: 896338ced44b7c8c104222d7be070f85
+SHA1: f9822c5b0b7289d13537919b784aa9fd582d56a7
+SHA256: e17ec612653f188c59eb558932e90ea54f77753bb42a69adab9d0511c2a1c8d0
+SHA512: 6d90ff9728c0f667730cd37ec0d76c3353ba0881c945c42d610ceb5d340f309903e3d3d937dc2052508e53e4e9e383ffeb484973a67223a76f39992409c3dca8
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Installed-Size: 436
+Filename: downloads/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm64e.deb
+Size: 59446
+MD5sum: 2d7cf2696ade09f46725c412171491f4
+SHA1: 7d1b1f75611a76a9867f81038cddc484a954003e
+SHA256: 7e461a9de5c19d946b29c33d09acdf25d1f735074b31ba19798e63083ed1f77b
+SHA512: 4a6a744aa37f09ff7b789446f7a6fbcfc1311e4c819d05aba70b1e8a2ecb052ffe1e367bbbce175e88b679cd2d6950c90d0ceeccdf35f6606519a127006e4d9b
+
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
@@ -4950,4 +5001,55 @@ MD5sum: 7c7da2f75aae4081bb67746a67ad415c
 SHA1: 741b8925d3ec8d2ff8f21071dce05fbdd1e48f6c
 SHA256: dd36162a0ff41a8e0a6eabf9c86b4686eeb03015b6fb9e3b175f19be5c27ed1e
 SHA512: 1ad8ca9ff06b3397affc66a8692e152c16a64780702c182c9e91fe4a4c27ed57583f7ebf780326bea1e1d27a5d64c0edd4b2c74581fb5c5dfe4d92889b34dda6
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.3
+Installed-Size: 172
+Filename: downloads/xcode-any-debug_0.0.3_iphoneos-arm.deb
+Size: 5918
+MD5sum: 3e6e1eb8fc35483f1f75c5f42240f948
+SHA1: 349ea73e840051202b9ba0bce6590e909eb22af6
+SHA256: 350cda042d45bad44f8293120f407688bdb2beb43598b48fbb230efd44ea46ad
+SHA512: 77a7f5ce9eda46121852995b5f33442ce4ec34083ec470433c3baecaf22dafcec6bd3644da0643942de16d7319c98e8bd4578c59e64d1b28f922fe538eb47f4c
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 172
+Filename: downloads/xcode-any-debug_0.0.3_iphoneos-arm64.deb
+Size: 5862
+MD5sum: dff7791ad007a5382221b2d483cb033e
+SHA1: 28fc0fab71759f5bdbab3af819f8c1f2d4bcf6cc
+SHA256: 8cb7555857470fee5dc52f43b4c587383b9901a31645ad80298a2345530d34cf
+SHA512: a029227961e82abac477c970218fd4f178db6d6446666637b6ff41a485ea13271afb7a5f9a24c6e42d16e0dab988fd797db49de841e8b76f9bb992ecbe557c93
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 172
+Filename: downloads/xcode-any-debug_0.0.3_iphoneos-arm64e.deb
+Size: 4468
+MD5sum: 0abeb305c95ccf3b44b716bcf7fe5500
+SHA1: e773745257b754e1f9e9e0ef3dba30cb5f55ac4b
+SHA256: 53cfc3c7270d126fb00cb959608ab37e6d6260754c94ed20ae15cc73fd0f79d1
+SHA512: 361fe62da4cd0dd5e3956a411dc3f8809957d31311748f3accdeb67f06e5db0fba2ea1f30fb1ff53e29317db985ea225faf74c2b176d905018c9fc1f5c6e558f
 
