@@ -26,6 +26,7 @@ repos:
   - "https://github.com/OwnGoalStudio/DayNightSwitch"
   - "https://github.com/Lessica/XcodeAnyTroll"
   - "https://github.com/Lessica/XcodeAnyDebug"
+  - "https://github.com/Lessica/AMLyrics"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
