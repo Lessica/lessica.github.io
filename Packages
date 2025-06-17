@@ -2528,6 +2528,60 @@ SHA1: bae11db4d55a7dfe7451a36b4af2983ba65a600b
 SHA256: daf49ca3d62a475c95ac3ae6c9997cd7ba0dfae4b5715ea7d73972634fbfd5b4
 SHA512: e769772a38e5cc520f21e63add34ca602fcf2bfdb5fd27a3bc1dfe72641f3812097a32933a91d43652761e7065af139933115de078a15558ea3e8d268a1e61c7
 
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 584
+Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm.deb
+Size: 69306
+MD5sum: 6e1ded7aa017b832004f445dcafa02fe
+SHA1: 6b8e9a1fb6cf03697bf280d686cc03bed631c01f
+SHA256: 19435f96e455d97576c3ae3782f1ac4711026e74e7ecf3776e3599eb4cf28801
+SHA512: 33515315be2f40be96b64570a962e08de466f8caa6616e75efff8819a083d5e3da7135c9c1f569ebe81b6ed2fb2178e4a1bbdb1bd57b28d494762fe767a42dd5
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 584
+Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm64.deb
+Size: 69050
+MD5sum: 9cdffbc94e56bd963c44859cc2343886
+SHA1: 4a9edb283323d15a25a9e9e41931e73fe136c4e4
+SHA256: 98024c3b28ae57d22928dfa0341ff0a22cc80d5103148ce2d54f63a6886b2c36
+SHA512: 08aa5094b43f2e6f0d578d43b503765382b7d5b79f9559b479014c6e51f7f93da6fe1094a13f7522900e53382f7ed3fc3b46c03e294be0e816e124e0181ec093
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 584
+Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm64e.deb
+Size: 67414
+MD5sum: 4ff0c70f8b900078860bb627c6b6344c
+SHA1: 3835f7e4fcae34d1efc3871df33217d346cc6c91
+SHA256: 0011246b2a4e36d46f5c6409f7c924cecdc49eb22191d4a0b1bd14c538e0b515
+SHA512: 7034131efe850dfdedb4457e92fdf2340b942eab20b5b2c12d3fd8f9d4a2dc2ace92540c3ca030bcd116bc89b6751d8aa0a50ab04c026e23152cae32dfe6ff6d
+
 Package: dev.traurige.kayoko
 Name: Kayoko
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
