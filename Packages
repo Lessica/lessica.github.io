@@ -2322,6 +2322,57 @@ SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
 SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
 SHA512: 4ddcc6a22758a5837c440fbe4fca2243443d273f90e5686b8d5a7c06a9017067b755eb38a1925714cdccdec7f62442e0d8100c8b9d5b467a9f46635d6b94c8b2
 
+Package: com.eevee.spotify
+Name: EeveeSpotify
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Maintainer: Eevee
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm
+Version: 5.9.9
+Installed-Size: 1660
+Filename: downloads/com.eevee.spotify_5.9.9_iphoneos-arm.deb
+Size: 423588
+MD5sum: 7311b97094d67bf54c09ddfa7ab44160
+SHA1: f219755deec6dad503c45c27f84122a26d73f102
+SHA256: 12ad548db080c810f3192ba92c9ca19910c735fdf965d2ccf3f43099a75488a7
+SHA512: b763434068ed952b2b14656133ef197e52144a542be74cddc214b03d71fb50e522d180ca0626a2665f928c484af606dcbe6a212998f8e81e543034e53b3b40d4
+
+Package: com.eevee.spotify
+Name: EeveeSpotify
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Maintainer: Eevee
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64
+Version: 5.9.9
+Installed-Size: 1660
+Filename: downloads/com.eevee.spotify_5.9.9_iphoneos-arm64.deb
+Size: 424198
+MD5sum: 7c92ef96851bdaa9eebd35c3858cec26
+SHA1: 5ef8c1587a260fb39196d310aa7e10be42cff9ae
+SHA256: 46e7e9d0367ba74f29a27f3087b31a637fff90df6b5d42c05ae96d18f7d281f8
+SHA512: 800b051041b2ce72614a65145376282fa1ed344830144b013da0e26abe05a4106bd7ffa3bd43c1f4c69ff65f3fa1cfd65d06ecbcbb3be0acca326d987f0eeef2
+
+Package: com.eevee.spotify
+Name: EeveeSpotify
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Maintainer: Eevee
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64e
+Version: 5.9.9
+Installed-Size: 1660
+Filename: downloads/com.eevee.spotify_5.9.9_iphoneos-arm64e.deb
+Size: 423522
+MD5sum: 73683ab8b1c7143febf442679483a05e
+SHA1: a0eb0609d11800a14f2b4f5ec5590e1d16268e08
+SHA256: 9bccc970d567e38f4f936488add24f2fdeaffd773eabde105b81af3ff3548ba4
+SHA512: 9cc85148beade2935fc3730519a100c5b0a79281799d31d21c7f912cf2d3b8ab5e5bd8a59cbfa0f08e2669e38a3341eafe279cef0fde07bc7dc5454f92af0c96
+
 Package: com.ethanarbuckle.objsee-framework
 Name: objsee
 Depends: firmware (>= 16.1)
@@ -2649,6 +2700,57 @@ MD5sum: 1408f43be7171677a9c27c6e9c46c5f9
 SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
 SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
 SHA512: e55a2249d056778446a94b48728f360e0d9343e0c63d07db16c17ab12d219213e72115dd0f1bf02d518af9a8769840cfde41f9cb9b727afb08a5b4ae6a5a5e73
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 1.29.0
+Installed-Size: 10116
+Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm.deb
+Size: 1445626
+MD5sum: 7e834a00e0d68568d39d9a142cc838ff
+SHA1: 0f9d7b2efcaa723e0d20ba4804fef02f46ca425c
+SHA256: 1e94534463a7066e25fb2a2a81c90b9e071c91a482677c5716d41dbe7c03c544
+SHA512: 6d9bc75d21e61eb8d37a4c370df4cc02051536d88da5ea0ce65c6bf3db77eff24feb43a47c17ff4159c38fc0067e473a306de12ba323e4bd715d289f006a3943
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.29.0
+Installed-Size: 10116
+Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Size: 1446130
+MD5sum: 78e5915754b1068b212890ffe907dfd0
+SHA1: 6d0a4904f961407b2fbc7153bd9fae3dda27b8db
+SHA256: 82370ccb97937f4d7b4408f0c918d9136bad5a2c40f11d1aeb3337dda9f06b6f
+SHA512: 2b02f8be9e3959671a7559b684b9463da025933d2bce33caebdf80bb88b6bb78fa285d268ce68a517de4e674d297bd0bf7a9208cf2f41533f19db6a64df0f2e2
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.29.0
+Installed-Size: 10100
+Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64e.deb
+Size: 1453816
+MD5sum: 8bc1a0ec789dd637ea15a5c3df6c0a77
+SHA1: 2b2b7ff53158e9c162ebd8365be5844401f20374
+SHA256: 422091d294ae1f9b84e0312d7a868a8d93d7542b7ced9d8b7e91ec9300a19274
+SHA512: 23b9ad187b3d62358a53b5d2d81e0ce66d99f2ba32af1c5a61e0e7d4c168c0a05746d9a8a754089dbcc5478e2197a60b8cdb551ff64013d446e1eb3b4d0ed8bb
 
 Package: system-cmds-memory-pressure
 Name: memory_pressure
