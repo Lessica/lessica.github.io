@@ -2373,6 +2373,57 @@ SHA1: a0eb0609d11800a14f2b4f5ec5590e1d16268e08
 SHA256: 9bccc970d567e38f4f936488add24f2fdeaffd773eabde105b81af3ff3548ba4
 SHA512: 9cc85148beade2935fc3730519a100c5b0a79281799d31d21c7f912cf2d3b8ab5e5bd8a59cbfa0f08e2669e38a3341eafe279cef0fde07bc7dc5454f92af0c96
 
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm
+Version: 6.0
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm.deb
+Size: 430488
+MD5sum: fc0fa58a5cfe86d62b50abda8704aaf5
+SHA1: 8531ac0a1c2951d617facfa6a93f3f61250f1628
+SHA256: 23355d1aca4069eaa43b21e39e0e6d3cd6b6b377e4e0331c02541598f4452dc0
+SHA512: d8a7a8df24617b6f70342b05aa9d7c520f35ecc5a27d3d337c33ab33d09e83620f9af0f0f8f47fda2972724f11108a2be9e67611037fb6cf87d27bd667e79ff5
+
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64
+Version: 6.0
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm64.deb
+Size: 431030
+MD5sum: bc9918432b5d417e0513d4e986723735
+SHA1: 86a3cfae1ae66dcd84109d3fe34b627c3e4df71a
+SHA256: f9acf70c6e253998f4e70bae97295319b666e86ee24ca3987475495636e9fb92
+SHA512: 128ef1e7bdcd099b8052ea34300bafe282cf1ce456966db4a5a5985cc2257f56706de495303a1ae131065ded22c2e68cb8f874f1e005bb4d3bba75cc1c244c8b
+
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64e
+Version: 6.0
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm64e.deb
+Size: 430986
+MD5sum: 50d47be20a560cbfaf0888ad2a1dc5a2
+SHA1: a9836d016e38112a772d81228dcb3fa43fa08f72
+SHA256: 75852a6a0e18424504f0d1024757127f7b34e140fa9f6b29223b208294d0a54f
+SHA512: 0d5da9e42fa5ab8f87c66b6f1e8302a848412dadc53b2d77d6a152b3c5a5fdad8e1de5ac3c2c633c89985ecd5f1c9837183decb242785478b9a03b29f899bd18
+
 Package: com.ethanarbuckle.objsee-framework
 Name: objsee
 Depends: firmware (>= 16.1)
@@ -2712,11 +2763,11 @@ Architecture: iphoneos-arm
 Version: 1.29.0
 Installed-Size: 10116
 Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm.deb
-Size: 1445626
-MD5sum: 7e834a00e0d68568d39d9a142cc838ff
-SHA1: 0f9d7b2efcaa723e0d20ba4804fef02f46ca425c
-SHA256: 1e94534463a7066e25fb2a2a81c90b9e071c91a482677c5716d41dbe7c03c544
-SHA512: 6d9bc75d21e61eb8d37a4c370df4cc02051536d88da5ea0ce65c6bf3db77eff24feb43a47c17ff4159c38fc0067e473a306de12ba323e4bd715d289f006a3943
+Size: 1445068
+MD5sum: 017bf268428d904822b61d93f7f85082
+SHA1: c5a1eef55c691c5334e8af7bb4051edeeb54309f
+SHA256: 27811a97942c0fbc9b9859e69ed81178c86ac0785f087aa69c06c8048538c024
+SHA512: 8d63032a081b36e27e023bc4308f0536fa8b4e223ab67784a91bf93bd090cc5bfafc51fbdf06025a5e3eab458d84808683ab30925f80a30cf150191d5d4db641
 
 Package: org.swift.protobuf.swiftprotobuf
 Name: SwiftProtobuf
@@ -2729,11 +2780,11 @@ Architecture: iphoneos-arm64
 Version: 1.29.0
 Installed-Size: 10116
 Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
-Size: 1446130
-MD5sum: 78e5915754b1068b212890ffe907dfd0
-SHA1: 6d0a4904f961407b2fbc7153bd9fae3dda27b8db
-SHA256: 82370ccb97937f4d7b4408f0c918d9136bad5a2c40f11d1aeb3337dda9f06b6f
-SHA512: 2b02f8be9e3959671a7559b684b9463da025933d2bce33caebdf80bb88b6bb78fa285d268ce68a517de4e674d297bd0bf7a9208cf2f41533f19db6a64df0f2e2
+Size: 1446522
+MD5sum: e37adaeb74bb428438d3f55862ebbbf7
+SHA1: 776528a70b3baab6e5b8bd4652ee8ed54f36e8ef
+SHA256: 01434a3786c9a7cc281cea72bcd8a91df4eccbbb860198fc5848fc152099fbfe
+SHA512: 1cba9c41e49e41f8f2fd94951c69860ab81268e447006e968f825714b5bc83aa1f8c995cfd691579a6d08106b6d154a3be19d89b1ee4e3d7079d3be71a52af89
 
 Package: org.swift.protobuf.swiftprotobuf
 Name: SwiftProtobuf
@@ -2744,13 +2795,13 @@ Section: System
 Tag: role::developer
 Architecture: iphoneos-arm64e
 Version: 1.29.0
-Installed-Size: 10100
+Installed-Size: 10116
 Filename: downloads/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64e.deb
-Size: 1453816
-MD5sum: 8bc1a0ec789dd637ea15a5c3df6c0a77
-SHA1: 2b2b7ff53158e9c162ebd8365be5844401f20374
-SHA256: 422091d294ae1f9b84e0312d7a868a8d93d7542b7ced9d8b7e91ec9300a19274
-SHA512: 23b9ad187b3d62358a53b5d2d81e0ce66d99f2ba32af1c5a61e0e7d4c168c0a05746d9a8a754089dbcc5478e2197a60b8cdb551ff64013d446e1eb3b4d0ed8bb
+Size: 1444468
+MD5sum: a01fe41190fd66b29a9c970bab3e17ff
+SHA1: 98dac9cdfd8e49c1a229f10b30a45f07448c25d2
+SHA256: b219b5e08fbfe83aa2c302f4e7669217f2a671531ade7e26f23ac8209a2eeae6
+SHA512: 5ddefe2d9e5b2db85e4eca7c8ec5c084c456f6f0a3eaf9118922e71d1265af31f228e877751abe66fe1375dc7e1d017e013d01b01690029df1983cd70198cd18
 
 Package: system-cmds-memory-pressure
 Name: memory_pressure
