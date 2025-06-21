@@ -2384,11 +2384,11 @@ Architecture: iphoneos-arm
 Version: 6.0
 Installed-Size: 1668
 Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm.deb
-Size: 430488
-MD5sum: fc0fa58a5cfe86d62b50abda8704aaf5
-SHA1: 8531ac0a1c2951d617facfa6a93f3f61250f1628
-SHA256: 23355d1aca4069eaa43b21e39e0e6d3cd6b6b377e4e0331c02541598f4452dc0
-SHA512: d8a7a8df24617b6f70342b05aa9d7c520f35ecc5a27d3d337c33ab33d09e83620f9af0f0f8f47fda2972724f11108a2be9e67611037fb6cf87d27bd667e79ff5
+Size: 431478
+MD5sum: f024bd1fefd45b8e0b51a5f83808b01e
+SHA1: 2848f3e0b7a08b2d20a876d95d969d3ebdf1696f
+SHA256: 7be3749c0b2143312cdaf4bc40e6ee6790a681dd4486c5a197c9a34462ce5f78
+SHA512: 1c0fc927d00ea434b9b608e7332baf8aa6ec121b82b8c5fcb7e367cae71a6536bf4d5961ebc3667c0e399c21a48b7bfa6d37737132ca76419c1083e07361f631
 
 Package: com.eevee.spotify
 Name: EeveeSpotify (Lessica Fork)
@@ -2401,11 +2401,11 @@ Architecture: iphoneos-arm64
 Version: 6.0
 Installed-Size: 1668
 Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm64.deb
-Size: 431030
-MD5sum: bc9918432b5d417e0513d4e986723735
-SHA1: 86a3cfae1ae66dcd84109d3fe34b627c3e4df71a
-SHA256: f9acf70c6e253998f4e70bae97295319b666e86ee24ca3987475495636e9fb92
-SHA512: 128ef1e7bdcd099b8052ea34300bafe282cf1ce456966db4a5a5985cc2257f56706de495303a1ae131065ded22c2e68cb8f874f1e005bb4d3bba75cc1c244c8b
+Size: 431500
+MD5sum: 3480ae53934222e04314de5fbe24df91
+SHA1: 2f3555194a9043f84640d07a2d63e5aadbae55f0
+SHA256: 7008cb6a523d1b113db8494d779f4a0effcb518df7a554436cf5d5c183864101
+SHA512: 529befa4a955696567de134c88f8f60c9e67567039de514dbdbcf86cea566f5bec7e868f59bf336e9e401963d0ec49146e98fc0363e5ba616a307447870b0c05
 
 Package: com.eevee.spotify
 Name: EeveeSpotify (Lessica Fork)
@@ -2418,11 +2418,11 @@ Architecture: iphoneos-arm64e
 Version: 6.0
 Installed-Size: 1668
 Filename: downloads/com.eevee.spotify_6.0_iphoneos-arm64e.deb
-Size: 430986
-MD5sum: 50d47be20a560cbfaf0888ad2a1dc5a2
-SHA1: a9836d016e38112a772d81228dcb3fa43fa08f72
-SHA256: 75852a6a0e18424504f0d1024757127f7b34e140fa9f6b29223b208294d0a54f
-SHA512: 0d5da9e42fa5ab8f87c66b6f1e8302a848412dadc53b2d77d6a152b3c5a5fdad8e1de5ac3c2c633c89985ecd5f1c9837183decb242785478b9a03b29f899bd18
+Size: 431160
+MD5sum: f96ea3f72aa59f19e9f4c3cc0d0442df
+SHA1: 98e931cf530d895e0173b5a469fb97a384bbb445
+SHA256: 8e0e6be9bd25d18291a00162dc13c95a34d900e01d5465403d98b716c4ed9259
+SHA512: 4715569141bc8563efcc1ea2bf2834d0a3fb11d576b171303fc84ac531093c9f8e73e80833cece72cab01d36dac06f9929ac0e44f30f02bcb561bfe28050ebfd
 
 Package: com.ethanarbuckle.objsee-framework
 Name: objsee
@@ -2531,6 +2531,63 @@ MD5sum: 2aa4fbf7c1ab3e5b7750bd53be2b1aba
 SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
 SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
 SHA512: 0aaa646b46e5799cdde3272981cdf8c4e5cbeffd948a0267656188f2b3694e328bc43c678283b15fc55fd1ed652f4233c6403b20bee0cde7bdf504a740076e7b
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm
+Version: 2.3.1
+Installed-Size: 17812
+Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm.deb
+Size: 6483832
+MD5sum: a2d4768f27997fd5f3f45d71398bae82
+SHA1: d6d99955233b729272beda366f5d28ee4c76dacb
+SHA256: effa45704c4991c342617ce9e36725a29172727e7c0f23a821c6212a88e23960
+SHA512: 85d90f631425f49c22305a6a45d5c0e061edd2a038def7ad61df4fbd23e6148699f09b9caba4b366dc01ae10ceeabad711c326afb977f2e361e6a766388fa12b
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm64
+Version: 2.3.1
+Installed-Size: 17812
+Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64.deb
+Size: 6483054
+MD5sum: e98cbfdfbeb9f0016e55623fa43debd3
+SHA1: 837ccd89c3a014b8cdd837f05954723471754f53
+SHA256: 4d049cd8d30607a4deea1051deaaf567fc2aad58895c4024bead1af0810a2ced
+SHA512: 0469f4b983746d25cf8e68d9b30e9239ebabe8d8b4a4d87192535d77af95bc0c23bdab31c59d627957cb0fb43a104e7652e2bd216f3e78765454378b391dd8b4
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Installed-Size: 17812
+Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e.deb
+Size: 6485240
+MD5sum: 0c3e3c4ac0d2fa6d79a66b9390684533
+SHA1: ac5170dbec032650ebf0d4b9506f7a8287d28068
+SHA256: 5eeb7dd1d2e4b276ffbfccee2d20202f90a4493feec8c2c69edac9c45977e720
+SHA512: dc4e4abe61b396af8518d0afdb3e17b443c6972e9b45b4a55333fcaeba40fede880ff067bf977520e34d6c3aaf6af54e3451a1c45e426f84715ee21d81c37142
 
 Package: com.rpetrich.rocketbootstrap
 Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
