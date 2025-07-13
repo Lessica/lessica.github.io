@@ -704,6 +704,57 @@ SHA1: 9b9b2981a49604db9d8471245d364caa584ebc8f
 SHA256: 9a5c7e40147202cd48745d8ec782a00794753eeb0b63c4b49918a550f60c2a5e
 SHA512: 1abfc0cb682eb7cdf0f4be8069c0f0ffed57fad876d3de6cdb69bf1a80d5f48ff66c8432c0a5815484337223eb675401b8685ce5be59ce7279545b59e1d8cc4d
 
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 188
+Filename: downloads/com.82flex.amlyrics_1.0_iphoneos-arm.deb
+Size: 11780
+MD5sum: 95cf3ea40de73a0cf0056c40e4e42afc
+SHA1: 27e4fe983e9120f639dfa6804fc6ff357e82b5fb
+SHA256: 5a59d49fba362ea7fd3cc4531fabf964469c3f0c5d754adba45991672ea6abef
+SHA512: e26effb7f47dd545572e546931cb074192a868c6ddde3562ada9f16702488e3f81d27bc3581686f48121d0a22aa4d907ebf124144c9af819b712369ccfbdd19d
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 188
+Filename: downloads/com.82flex.amlyrics_1.0_iphoneos-arm64.deb
+Size: 11828
+MD5sum: 58b49ce5180b82020f56aa7e8e34f32a
+SHA1: a48646bb69c91e771bb96b5c3b0e5d5c686eb651
+SHA256: b52a5b89e819c8977344709f4a50269ac960d3c7e0b537573bd85f0c696fb6f8
+SHA512: 49a29b8d6e6b320ef7e8865317b96921a98744425e4688edb0900e31788c538e3240b7f2c4c9ee3f94def6d8c15e91035b0d876fa4585ea976a16ecb273423de
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 188
+Filename: downloads/com.82flex.amlyrics_1.0_iphoneos-arm64e.deb
+Size: 11772
+MD5sum: 90d8842f9442890715b586201d3c217d
+SHA1: 6c14119f52a13d590388969b73275925d98c8b62
+SHA256: a630e643f67c55c0f6f4e696a43b449aa920000028aa141f500636738b6c3b93
+SHA512: 70b857f70806db07742a64e52909425485d2b3a0bcc7c4d3338b88fc595b51fff54ddf4506fa7841eaa716fc5f33f236405f42584932ba4beed7ce4dfca5dcbc
+
 Package: com.82flex.artworkspinner
 Name: ArtworkSpinner
 Description: Rotate the album artwork!
@@ -908,6 +959,57 @@ SHA1: aaeed537d40429d6888c77248a228e896414beac
 SHA256: 469a2c2c80b0c21c19337408c014ccd1c9650e1b07df584e3359bc6ac44684ec
 SHA512: 4afcdb9cc2229cee763903ee974b61dd13ca3b1edc80caf1ee15aefac2008ecfe498ebdb6369f9edaa56353298083f7d0bc105a0ed3aad75a7e0e234d13cc2bd
 
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.6
+Installed-Size: 424
+Filename: downloads/com.82flex.artworkspinner_1.6_iphoneos-arm.deb
+Size: 38878
+MD5sum: 77be5d5347dde49370468feb4da3dd65
+SHA1: 1c2d14b85d7b9256881febedb559bb302131ace5
+SHA256: 1b49051a88e6a89f148936659c6efd99f6c592583541d8f2c431eb5a08d4f501
+SHA512: ac9eb7baf3f2c44b2ae2d894a16deec3899a33202acf5c5322164c30dec9ff1ec6ad946f3c4fbb58f4dee7ef26db32ad3522e8a6ae3f55f592757d9d2f93f83e
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.6
+Installed-Size: 424
+Filename: downloads/com.82flex.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 38958
+MD5sum: 3029bc6b2b2828d2698a5a88852842e8
+SHA1: 6551e2dca41ac2ab827fe3b4505b3eade0cabed8
+SHA256: e4aced1d8a2e3066c13919d606af3e408ec03e6db15824b939f48e3b98353c66
+SHA512: f5a4a47f253a2a9d3f7449158cdcc33ad8e95415bf5ab715f25c7c17b44c1138b6996c0920cd1ba0379adda3b4965aa2c626677151d7dcb1482646e47f216334
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.6
+Installed-Size: 424
+Filename: downloads/com.82flex.artworkspinner_1.6_iphoneos-arm64e.deb
+Size: 38872
+MD5sum: 95bc24b7806587574b3928286f9878ec
+SHA1: d737d4dd3cda0982bf00d8ecc0579c394825707c
+SHA256: 912401fd75f84a83fa8a74fcbd6a2877016e56a5b533ee24269281a04cc38115
+SHA512: 3d2aad93a606ec33b84d382180dc60952617e5031cdceee2f7f6e8f9a007944337248cdd63a5da25823c531ae02a8b9da6c763933baa9ca7e87e940142d24d55
+
 Package: com.82flex.iconrestore
 Name: Icon Restore
 Description: Save and restore the layout of your icons.
@@ -1016,11 +1118,11 @@ Architecture: iphoneos-arm
 Version: 1.1.2
 Installed-Size: 256
 Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm.deb
-Size: 28692
-MD5sum: b7f505cd77cd945f9d293a258d7a0e21
-SHA1: fb75ee18af8c8cd6764074c6e51cfe798c1a6ced
-SHA256: 32ba1cf7417f0632f33216f35d9b9c43e749130a91e7ba38db5e39a035867f5d
-SHA512: ec9187de66510b58989f9416d7d330099bdcf6d2cbf7eb1eb444984c9e388cc3b2f6084f487a86285545326f16cf50f6fe7fb1bfee58fbe7595b037c20fc2afc
+Size: 28570
+MD5sum: 36f3f7f9e9297bbf4fae2160b611e255
+SHA1: 536fe5e35931582f01de9bfab49df35d11c7a2c3
+SHA256: 83fbdc415ed8f8d972d6ef184e6d467d9b389b056271247f1d7a6760689a3e22
+SHA512: 4fdd437236b71f2fd29f81119bae30bee046e792e2f362e14765333e8aa06ccda964fbf6f141b0ad410dffc4eeda7dd2022322e2442fd0f8c9a3d35aca8ba86c
 
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
@@ -1034,11 +1136,11 @@ Architecture: iphoneos-arm64
 Version: 1.1.2
 Installed-Size: 200
 Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64.deb
-Size: 18986
-MD5sum: e1bc67f2e3c56f6de5b1c7ae917b46b4
-SHA1: 3540008a454231671f805c2332a57adb1084262f
-SHA256: 9c74db1b60d3e27840d7ee20823b280002f4dd621404f094b28edd4829d5ee95
-SHA512: 2340c35f5c1fbfc196a7e0305fdfa90e0534f4c949672019efe3f45ce3c7b7d9a1ac9ffa7ee18d9a4e3e8f065362d6968e633274ac2317f360f859f67d28efd5
+Size: 18804
+MD5sum: 62ff3fc80d8ef4bc7a1e5bf519789367
+SHA1: 8163bab3f47989e48a1db6664c72ad6c51c73bd5
+SHA256: d26624704006bfa5b16a73dddd5fb92d2ac0625359d60ec2861dd65aad28e220
+SHA512: 86f90770d1532f3b573f704ac5f27f96209983c30ca6cb2e8c2cab457fd9534b31ab96548d965a8214b3d299ae657c0af197598dc73ce6ccd4db96415a23a14a
 
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
@@ -1052,11 +1154,11 @@ Architecture: iphoneos-arm64e
 Version: 1.1.2
 Installed-Size: 200
 Filename: downloads/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64e.deb
-Size: 18888
-MD5sum: 9550118dbb2099d68ff09df45fc45b23
-SHA1: bd8fba3d5c7db3b277442880bd7b4af7777904bc
-SHA256: e68f9d262972f44cea80719447595764b3d150f73a3005ab8712de547873ffdb
-SHA512: d4a8cace3f2933df1cd9922e746e9eea1032c62f949d72ee3bb85871a38aaa500e6522437ad785de8bb0e0bc316a6ab40686a9520bf45983cea87e6db8d183f3
+Size: 18724
+MD5sum: e194e2110113ee554e798856ed9b34a4
+SHA1: a4b8d412aea1a3a6afb12460643f1b5d1c96fd64
+SHA256: 8d8ef216d61e0ec9ff335f7298e42c71eedfc5144093a307a71a16a70d47ef09
+SHA512: a2220b87ff814424893b94cff5b9f8659bd7cfb850e6fae15835c4a558a36d51c5322943d2fed6ea02152eab29bc70b1aa0267a82f41c569c98c872fb8c45fbf
 
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
@@ -1174,7 +1276,7 @@ SHA512: b2c546ef52aa03705317036a84bfb9cbc2747032de64a213791842858694b593228b9978
 
 Package: com.82flex.ohmyinsets
 Name: Oh My Insets
-Description: An awesome MobileSubstrate tweak!
+Description: Customize columns of CC and paddings of the status bar.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
 Section: Tweaks
@@ -1183,15 +1285,15 @@ Architecture: iphoneos-arm
 Version: 1.2
 Installed-Size: 1600
 Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
-Size: 210282
-MD5sum: 04992a0a6c0e45456b31bac174e93043
-SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
-SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
-SHA512: 9c7b6e5093470ad2b468fb1987d5a3d6fa0e7fe9b151e4a8e5d5516d45204f9d6b0683a3f96cc7982e7d1ac5dd6954c4d176448c8bf44913a7fb381fc8a7250b
+Size: 210572
+MD5sum: 17087344628ffd8f770de97ef9a4620d
+SHA1: 25cf57842ea3145a32fc0a6253c5a1fed74d2df8
+SHA256: b9d053d53bb3b18ca905a4b303040c3712b584ff3a084e05349d13eb4277fb67
+SHA512: 50416ee25423c51fd5ea8567ea2c64bac99c60aee5bffe95198201208bd88725c9950d1e4f13fb58c5f6ded57e35a8702758e088043c9d32c8261b1b43268853
 
 Package: com.82flex.ohmyinsets
 Name: Oh My Insets
-Description: An awesome MobileSubstrate tweak!
+Description: Customize columns of CC and paddings of the status bar.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
 Section: Tweaks
@@ -1200,15 +1302,15 @@ Architecture: iphoneos-arm64
 Version: 1.2
 Installed-Size: 1600
 Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
-Size: 209802
-MD5sum: 1d595efd012858682ead366c90a95a45
-SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
-SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
-SHA512: 63c5287a6306bada71a6f90427dc3d15691dfeca5aba715a44abfd44d15cdef97d00ee03608213decc953686a9d7a677596119f4e104fc17068702de23c3b474
+Size: 209940
+MD5sum: a6d8f1cfb397bc13ddc4ce69f33b9745
+SHA1: fc5743b0fdc2443f95012b2fce8a9bcb58e495de
+SHA256: d85639618cac6f477f364fe0695416c20372b61bfdeb3d90ff86436c631807ce
+SHA512: 63a796aa29e3adba6858b9964822396dbd8469bccb89df089b372a31959c848dfaadaac548751f6f4bb5081e7e8e8c2536b26a3f4fb541263c58f4b183a4c14e
 
 Package: com.82flex.ohmyinsets
 Name: Oh My Insets
-Description: An awesome MobileSubstrate tweak!
+Description: Customize columns of CC and paddings of the status bar.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
 Section: Tweaks
@@ -1217,11 +1319,11 @@ Architecture: iphoneos-arm64e
 Version: 1.2
 Installed-Size: 1600
 Filename: downloads/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
-Size: 208986
-MD5sum: d1eb48d7603ba987b6a234054a3ce520
-SHA1: 11afed170b0012e26b34b00c8612decb441b8543
-SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
-SHA512: 9747fe86276e2fb51d435154b159ab724120879d03bd22caba89799e13d486eabd7d5d0e71af5db8c63dffba175fa9d140ee825f3d1de16c3f17fc2157857b00
+Size: 209230
+MD5sum: 44b7e386bcafbaa75e922c74b74bf370
+SHA1: f3679acaddd38a1775a48ade83603d4f39294c1b
+SHA256: e11225cd476e4bb03bfe6434fb3093bc5aa3b911b9a98bdc81c3c4f7e0d24ee0
+SHA512: 57e668ee995ed49bb4c8e9e63a2b279413ea9ba408239a97f2932f16be1c454c7db2077cdb4489b78051506c3f6d9d78f371c5650ddc3eaf8814c15d07d20686
 
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
@@ -2231,11 +2333,11 @@ Architecture: iphoneos-arm
 Version: 1.1.2
 Installed-Size: 468
 Filename: downloads/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm.deb
-Size: 60160
-MD5sum: b4f7e8b1c7efa2dbf9789bf07d146d56
-SHA1: 6fc9d91e1e6ecac30020bad4524bbec9fe7b324e
-SHA256: c535707c0a19b1078013aba2b49e9291ebb5910ccaffd44af49be2f221917ad5
-SHA512: 1bfdd0201a8d043a13febb836313979f65a10e5f7d509183be1e25e06970205cefba7aeac791a8c1ebe468afe61b4689790c380466f62e23d3e3c9fbc4ab8e89
+Size: 60198
+MD5sum: 11816fe59bb1739b52ef108757571259
+SHA1: 4e8cab4d4d7c0bf52c48edcd929897d756fd57d7
+SHA256: 5275e41d744cd5d6a6718f1892d5299e6ede53a673b9b5da57d724b9bd6b411a
+SHA512: 6a8469c86110e37d083919f76d7f6b3cca19f5d62332af3b161bfeff3f71ae038c82296341f25e9fbba3d5c48abb413d6c9b0e13f397242bd1df6510519af3af
 
 Package: com.82flex.xcodeanytroll
 Name: XcodeAnyTroll
@@ -2248,11 +2350,11 @@ Architecture: iphoneos-arm64
 Version: 1.1.2
 Installed-Size: 468
 Filename: downloads/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm64.deb
-Size: 60154
-MD5sum: 1f67bf5224f8f49cf38ef7db64f709ee
-SHA1: a9c7ae1293ce141f9868a79d5a8dc781ed34c628
-SHA256: ef9c85597e47108830da17412e6dd94b2831c9536d657723964694d10f364597
-SHA512: 8b96d3ec999ab947b1f456d0be71f20bdb3143123e7c8f2a01389107b5c2dfc84f13af04d648a22ee360d74339ce1fba2a5b5ebfa2fa0081bc40d6f557741ece
+Size: 60254
+MD5sum: 90070b06bec7447cffe07851fd54380e
+SHA1: 411948cdd6739e3b1e633babbb3f3faab511e0ef
+SHA256: c6f5614d281c407d724bff9120d658a648b6ce6c3803cd7dbeff9ac78cc9fd7c
+SHA512: 1ec201d3a513dc5e42905fcf4d1c735a8ad6554617339890778b091c929d1cbac99cfa5284f04b7c1c8e989aed5dbac0abb3d5d5c5565b60af0a981c68b5a052
 
 Package: com.82flex.xcodeanytroll
 Name: XcodeAnyTroll
@@ -2265,11 +2367,11 @@ Architecture: iphoneos-arm64e
 Version: 1.1.2
 Installed-Size: 468
 Filename: downloads/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm64e.deb
-Size: 60244
-MD5sum: 3529396cc84e20769e8f0e39274ae782
-SHA1: 1177d8c3584b5d80fd073612a22d934d08209229
-SHA256: c06250bdb74a91645d1b6aded796253a9089c3be67cd2e78b8af582d41aad545
-SHA512: 36e919394a943668ba98cb9d4c398a937c229cd40bed713c366ac802952b640128d7669999b48befb9394a6e842c9d8d42dba9205073fdd9fc9a2656c5fe9b45
+Size: 60162
+MD5sum: c386dee37cdbb6274d7a4e0608c3e823
+SHA1: 13c03862e2871c764c8197f35b1827a01dad2d17
+SHA256: 89df5e771ce1efea01f9be52d088befc5965a1ed1a0e7a32d8bc0a0bc5e83513
+SHA512: 4c78de7107c63187546bf4137a28b71225274ea7355d523cbf51f60cf54e2e3349ad6e7bffeafeaaba0e8e11664bae28d9942160ff04e7b67d88531515ee5960
 
 Package: com.byteage.xcoderootdebug
 Name: XcodeRootDebug
@@ -2372,6 +2474,57 @@ MD5sum: 73683ab8b1c7143febf442679483a05e
 SHA1: a0eb0609d11800a14f2b4f5ec5590e1d16268e08
 SHA256: 9bccc970d567e38f4f936488add24f2fdeaffd773eabde105b81af3ff3548ba4
 SHA512: 9cc85148beade2935fc3730519a100c5b0a79281799d31d21c7f912cf2d3b8ab5e5bd8a59cbfa0f08e2669e38a3341eafe279cef0fde07bc7dc5454f92af0c96
+
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm
+Version: 6.0.2
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0.2_iphoneos-arm.deb
+Size: 433012
+MD5sum: 0b8b9ed2ca0052540f316e029b3f35f5
+SHA1: caed0733f92daca059d3da27b993ab8de64fff22
+SHA256: 1c93e49745a89acd6d31b169781d44f09c5c61bdbd06aab8d293cdc891171884
+SHA512: 8c246898584b3e20280fb72eae0e354e8459bf2090f73a665b815a20687a424d0ec96da6d824fece4ff2ae2812d91900605ed999232539aad89b49620997cd88
+
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64
+Version: 6.0.2
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0.2_iphoneos-arm64.deb
+Size: 432580
+MD5sum: 8349e79dfb08466ada3413cc098bd934
+SHA1: 73f1a146b9c6134b26a0fa574066045083fbaf74
+SHA256: cb2ce975c07cb463402c06c0cd49ee9814a1e9e88faad207ecea9591e875119d
+SHA512: 70f3973e763ef0e555a81bfbadcebc446167b5030a05ab6221ed31f713389f624af155ccccb5ff9c6834fc98b975a9c754c660b5ccfd58f5083617540f6842d6
+
+Package: com.eevee.spotify
+Name: EeveeSpotify (Lessica Fork)
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Architecture: iphoneos-arm64e
+Version: 6.0.2
+Installed-Size: 1668
+Filename: downloads/com.eevee.spotify_6.0.2_iphoneos-arm64e.deb
+Size: 432568
+MD5sum: 25944771256fd0fb8236036916d2603c
+SHA1: 5733c827d696bb66808696e6ee4fda36bbdfae4a
+SHA256: 74bd7ce373f68205c41777e97811456ce9da4f1a79dabbac44ffd708f69d8426
+SHA512: 8c7528eac8544f55bfd62558a67ac3fee06cf5511e51ae37277ba14aae34ec299d2a1b734b72d1e501ded2c7d5ad1f58ae63cad3de23ba8665300a1f5ea1ae84
 
 Package: com.eevee.spotify
 Name: EeveeSpotify (Lessica Fork)
@@ -2545,11 +2698,11 @@ Architecture: iphoneos-arm
 Version: 2.3.1
 Installed-Size: 17812
 Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm.deb
-Size: 6483832
-MD5sum: a2d4768f27997fd5f3f45d71398bae82
-SHA1: d6d99955233b729272beda366f5d28ee4c76dacb
-SHA256: effa45704c4991c342617ce9e36725a29172727e7c0f23a821c6212a88e23960
-SHA512: 85d90f631425f49c22305a6a45d5c0e061edd2a038def7ad61df4fbd23e6148699f09b9caba4b366dc01ae10ceeabad711c326afb977f2e361e6a766388fa12b
+Size: 6483776
+MD5sum: 42ef6d4251ca88da8d53c53dd9f31383
+SHA1: 9ba3b709b50db31de9e8adb591f4137af2206777
+SHA256: ca833cbd358250e83e0b63015d66be735e3951b694b7f7264df54b2351660bc9
+SHA512: 952668542f05680701e5748723742336fbcc6635aca9d686a6114f9d58f975e878a6a2b112290bc1806061e0d0b3616e6f0a91a3502381db8e0682fdc6c23e00
 
 Package: com.ginsu.ytmusicultimate
 Name: YTMusicUltimate (Lessica Fork)
@@ -2564,11 +2717,11 @@ Architecture: iphoneos-arm64
 Version: 2.3.1
 Installed-Size: 17812
 Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64.deb
-Size: 6483054
-MD5sum: e98cbfdfbeb9f0016e55623fa43debd3
-SHA1: 837ccd89c3a014b8cdd837f05954723471754f53
-SHA256: 4d049cd8d30607a4deea1051deaaf567fc2aad58895c4024bead1af0810a2ced
-SHA512: 0469f4b983746d25cf8e68d9b30e9239ebabe8d8b4a4d87192535d77af95bc0c23bdab31c59d627957cb0fb43a104e7652e2bd216f3e78765454378b391dd8b4
+Size: 6485848
+MD5sum: 7ca0bba528aaa1fd8ed76cc219dd6977
+SHA1: 816496412067515b29ebfd3a59f6a07e5915ccc2
+SHA256: 57aa82b18b5fc5ba7b8dc976db893774586d284d9e380904078e077869652700
+SHA512: 61459a9bf80b98d18dfb9a47903a1f03bd928d777c42a2cf008188bab230da91d7bf7b28780810a0e62982da26cb91bbdbfc11543d20dc04dcf5901b8ad85b88
 
 Package: com.ginsu.ytmusicultimate
 Name: YTMusicUltimate (Lessica Fork)
@@ -2583,11 +2736,11 @@ Architecture: iphoneos-arm64e
 Version: 2.3.1
 Installed-Size: 17812
 Filename: downloads/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e.deb
-Size: 6485240
-MD5sum: 0c3e3c4ac0d2fa6d79a66b9390684533
-SHA1: ac5170dbec032650ebf0d4b9506f7a8287d28068
-SHA256: 5eeb7dd1d2e4b276ffbfccee2d20202f90a4493feec8c2c69edac9c45977e720
-SHA512: dc4e4abe61b396af8518d0afdb3e17b443c6972e9b45b4a55333fcaeba40fede880ff067bf977520e34d6c3aaf6af54e3451a1c45e426f84715ee21d81c37142
+Size: 6482952
+MD5sum: c461271b6df7342d518d6cc133edf8a0
+SHA1: 4396245f0b34e8e4789b8717eaf56cedc90a9346
+SHA256: 969ff979217e9ed16f4d76ee551dfbb013c46d7615d3f9f168d2a4e7223fc4b6
+SHA512: ae375d49379c84946b0f4b30216217bf698e770d38068763da5d1803038a710617ffac39ea757f365ffa66558a67e019cbb9e4f0c821d19fb157bc43e16474e8
 
 Package: com.rpetrich.rocketbootstrap
 Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
@@ -2699,11 +2852,11 @@ Architecture: iphoneos-arm
 Version: 1.2
 Installed-Size: 584
 Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm.deb
-Size: 69306
-MD5sum: 6e1ded7aa017b832004f445dcafa02fe
-SHA1: 6b8e9a1fb6cf03697bf280d686cc03bed631c01f
-SHA256: 19435f96e455d97576c3ae3782f1ac4711026e74e7ecf3776e3599eb4cf28801
-SHA512: 33515315be2f40be96b64570a962e08de466f8caa6616e75efff8819a083d5e3da7135c9c1f569ebe81b6ed2fb2178e4a1bbdb1bd57b28d494762fe767a42dd5
+Size: 69204
+MD5sum: 0eb8add2298c5c2dabfd6948aad40ef6
+SHA1: 1d9e497f7972d4eff1972390db78599ec3000c24
+SHA256: 29f80e968d88bd53f78e5c2745fb96859cd0298f481b57d1740637b2e5fb08e5
+SHA512: 3b0b33fad9c7a5b3092a0b5ae8c16a82d829a6f5d6e71d3d1962013083bbd3d820dfab250f7522ef3752c42d951d0b5ac8873c14d526b33630ea1035e56cd403
 
 Package: de.finngaida.daynightswitch
 Name: DayNightSwitch
@@ -2717,11 +2870,11 @@ Architecture: iphoneos-arm64
 Version: 1.2
 Installed-Size: 584
 Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm64.deb
-Size: 69050
-MD5sum: 9cdffbc94e56bd963c44859cc2343886
-SHA1: 4a9edb283323d15a25a9e9e41931e73fe136c4e4
-SHA256: 98024c3b28ae57d22928dfa0341ff0a22cc80d5103148ce2d54f63a6886b2c36
-SHA512: 08aa5094b43f2e6f0d578d43b503765382b7d5b79f9559b479014c6e51f7f93da6fe1094a13f7522900e53382f7ed3fc3b46c03e294be0e816e124e0181ec093
+Size: 69080
+MD5sum: ce08acda2087dfaf347467fafa71d7e6
+SHA1: 045cd5c3a8a068f263badde7caaca382fc6dd8b1
+SHA256: 30f05e49c5195928d9480191b56dd8e4df5523889ae90ae6af63e5bd26c53bbd
+SHA512: f9e77d877dade8e482e44f6cdf624f8860946df6373ce3f6cc0b77e96a3968a7d696634b39f017168ee88c89cb86bb87a26ea2a8c7e80ba8a98d08d17e92ab39
 
 Package: de.finngaida.daynightswitch
 Name: DayNightSwitch
@@ -2735,11 +2888,11 @@ Architecture: iphoneos-arm64e
 Version: 1.2
 Installed-Size: 584
 Filename: downloads/de.finngaida.daynightswitch_1.2_iphoneos-arm64e.deb
-Size: 67414
-MD5sum: 4ff0c70f8b900078860bb627c6b6344c
-SHA1: 3835f7e4fcae34d1efc3871df33217d346cc6c91
-SHA256: 0011246b2a4e36d46f5c6409f7c924cecdc49eb22191d4a0b1bd14c538e0b515
-SHA512: 7034131efe850dfdedb4457e92fdf2340b942eab20b5b2c12d3fd8f9d4a2dc2ace92540c3ca030bcd116bc89b6751d8aa0a50ab04c026e23152cae32dfe6ff6d
+Size: 67228
+MD5sum: c5522813273d8813359ae0fded5bb127
+SHA1: 71558c7475395f0aa6f729a31c508b2c0d6c0f15
+SHA256: 33cf59de50a56197f6a4ba54ccba7011379395e3d641191a862e6333a8e14134
+SHA512: aa976bb3d35d3c2388f95e8d676e54b786b647a9a6b817f64d26307626e39197b0e18a9b0c29b7019f8da19ca9af2b5bc19b8016cbb54ada7f708925ca585ee5
 
 Package: dev.traurige.kayoko
 Name: Kayoko
@@ -5708,16 +5861,16 @@ Description: debug any process with xcode (jailbroken required)
 Maintainer: roothide
 Author: roothide
 Section: Tweaks
-Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Version: 1.0
-Installed-Size: 172
+Installed-Size: 184
 Filename: downloads/xcode-any-debug_1.0_iphoneos-arm.deb
-Size: 6394
-MD5sum: 6caaa65fb6f93bd138449a49c96d0c82
-SHA1: 7aa484e84a8723c2fd7612fffaf19cf6d2be3507
-SHA256: 97998ac001a64230052b561ea90810c9788f0da909845cec62cac1e12745c7b2
-SHA512: 4fdd9940c06312c0166bf997cbf21e492b26b119b9044d8af1e77ff1caa0ec2937d233921664bbb37c4b2d35a7ed82ae81ffebcc30b15f6c97e81920cf76f8fe
+Size: 6938
+MD5sum: 23787cd725182cabd929670f72f1ac42
+SHA1: a1cbcb2cb387a57ad80c1b87b7751f8af9d2ef37
+SHA256: 08528522bf6371c7cf29fc6d167a0b80e9f9997efdd414063f1ae47bf80b2460
+SHA512: 2f522a0355bda9bd8a0e4df2fe0fc5230ed8078c2af0748f3398eb9353aff2d24e8157b40aaa5a79633f9692b638fd7f8452e613762a62e9e2ba87f51c346ebe
 
 Package: xcode-any-debug
 Name: Xcode Any Debug
@@ -5725,16 +5878,16 @@ Description: debug any process with xcode (jailbroken required)
 Maintainer: roothide
 Author: roothide
 Section: Tweaks
-Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.0
-Installed-Size: 172
+Installed-Size: 184
 Filename: downloads/xcode-any-debug_1.0_iphoneos-arm64.deb
-Size: 6372
-MD5sum: cffc259cde832a50c20a194a1ec6a157
-SHA1: c16610ede425cdceb79a2bd147ab924fcda98b71
-SHA256: 44cef8f31222cc6276454a0b6cac5a50507869c9d1fff8aefbff498220e5d2a3
-SHA512: bf8bccee4156349258740f22877d8b0d694ca3bb4100cfd33df97af15b14a1692015359280c7aae107a8c32ce9d911731336ed012f3eea792bc01c3d93c9e3cf
+Size: 6908
+MD5sum: 7964040631585b14e5cb54d411de41ce
+SHA1: 1e2f4a352d7c887a3ec77a098a7605c52962ef29
+SHA256: ab23ca646af28a6b3528124c4199cf03e18b4a4d8408344c70a71ca6d7eb38b0
+SHA512: 7bb5e62b5364e159dad619b420d127e279e01ec11d592aa7966cb21af36d945dcf9db9a0395c4b4d5e0e6e32c74408056b94077423f76b983b184fb0db3b2b9a
 
 Package: xcode-any-debug
 Name: Xcode Any Debug
@@ -5742,14 +5895,14 @@ Description: debug any process with xcode (jailbroken required)
 Maintainer: roothide
 Author: roothide
 Section: Tweaks
-Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 1.0
-Installed-Size: 172
+Installed-Size: 184
 Filename: downloads/xcode-any-debug_1.0_iphoneos-arm64e.deb
-Size: 5194
-MD5sum: 7bb4f3dbc0e6f64ffd642b96a84aa2b3
-SHA1: b156c9564a32753bf2ae080df9a330ac0521868a
-SHA256: 52c9d286085745983121254a4ca7f71f3d2df2e7a7756572b69d17cb79780780
-SHA512: a568150dbdad11196691b66a3377349445cee7658c450c08712c6279710929ef9f71a8f7aa06d9da9b3e69df2752f32df256497bc3cf0e899fd35f7b445d97e8
+Size: 5748
+MD5sum: ec2f3ba7ca2aa04de1baf009ae0e9f04
+SHA1: cdfe20b86fbeefd49a8e7c40b4b30764b387bd74
+SHA256: 12ca73ca40f87e62800257b3f6d177bc916065e3f9e96b183436bb5364ea6a2f
+SHA512: d6401b51b88ea2c6c3e0a365b819082066246c9c72705cade09527ec52b854a4928ce8eefdf5ff545d37a949d5874ce7b87e7b6d7f22c521d17b3ca934da9f81
 
