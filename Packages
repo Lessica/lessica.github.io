@@ -346,6 +346,66 @@ Author: 82Flex <82flex@gmail.com>
 Maintainer: 82Flex <82flex@gmail.com>
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Architecture: iphoneos-arm
+Version: 5.2.3
+Installed-Size: 55728
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.3_iphoneos-arm.deb
+Size: 19230230
+MD5sum: f9fa8a1b62a3673a6d3150c48d19422e
+SHA1: dd80ecefd58f0ee0a8d1fb1261d5cf59b9a6b275
+SHA256: 393726ae61365aa05535e1266a146c8aa03f140a737368880318af45bff929db
+SHA512: de5ffa01bdd99eb514f90b259e0219ae6e84b8671aa5f86c546235b0a86a9ce71de5a990e52d9526a667e4c3f7b56f896bcfc80b66da93a404ade8c3062022f1
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.2.3
+Installed-Size: 55828
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.3_iphoneos-arm64.deb
+Size: 19232180
+MD5sum: c83743aa51d7a48ec65808e09530f34e
+SHA1: 8cd0316f1cd3475248925c02c07c26897b61526c
+SHA256: 79f4902626ee0164f64b7f5c18b00efbe3b70410f3797ded88940f411a0f97eb
+SHA512: 17313118d74bf61580f2aa5f3d57d9bf05085d2f5eb5b12098033444209bf87dafa3cf524a3eaa6a6defe3869e5729808ccdac122e325ad6db90410f5a6e46c5
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.2.3
+Installed-Size: 55832
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.2.3_iphoneos-arm64e.deb
+Size: 19231038
+MD5sum: dec9014e22758085173cd8ce56b1568c
+SHA1: 315e3b1d04779c47505e0ef1a9b3ec19303ec7e1
+SHA256: 04640647e7f1640d9f414b89ba028d512823c45faa95cf33986c40b96c018940
+SHA512: 70fcdaef59a0761d23db192fd831ead52c61a2412eeb378a1d0954d2ef5b7ac19f2ef974028df758beb70b18e74eb091614314554a00215d9876ade274d1fdbf
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
 Version: 5.2
 Installed-Size: 55372
 Depiction: https://havoc.app/depiction/xxtouchelite
