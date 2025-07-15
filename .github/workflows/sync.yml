@@ -2,14 +2,41 @@ name: Syncronize with upstream
 
 on:
   workflow_dispatch:
+    inputs:
+      sparse_checkout:
+        description: 'Use sparse-checkout to exclude downloads directory'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repository (full)
+      if: ${{ !inputs.sparse_checkout }}
       uses: actions/checkout@v4
+
+    - name: Checkout repository (sparse)
+      if: ${{ inputs.sparse_checkout }}
+      uses: actions/checkout@v4
+      with:
+        sparse-checkout: |
+          .github
+          devkit
+          icons
+          *.html
+          *.yaml
+          *.yml
+          *.json
+          *.txt
+          *.md
+          *.png
+          CNAME
+          Packages*
+          Release
+        sparse-checkout-cone-mode: false
 
     - name: Set up Python 3.12
       uses: actions/setup-python@v5
@@ -29,6 +56,7 @@ jobs:
         python devkit/collect_dists.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SPARSE_CHECKOUT: ${{ inputs.sparse_checkout }}
 
     - name: Collect icons
       run: |
@@ -39,6 +67,8 @@ jobs:
       run: |
         source .venv/bin/activate
         python devkit/build_packages.py
+      env:
+        SPARSE_CHECKOUT: ${{ inputs.sparse_checkout }}
 
     - name: Build release
       run: |
@@ -46,25 +76,37 @@ jobs:
         python devkit/build_release.py
 
     - name: Import GPG key
-      run: |
-        echo "$GPG_PRIVATE_KEY" | gpg --import
-      env:
-        GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+      uses: crazy-max/ghaction-import-gpg@v6
+      with:
+        gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}
 
     - name: Configure Git for signed commits
       run: |
         git config --global user.name "Build Service"
-        git config --global user.email "service@qaq.wiki"
+        git config --global user.email "i.82@outlook.com"
         git config --global commit.gpgSign true
         git config --global user.signingkey $(gpg --list-secret-keys --keyid-format LONG | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
 
-    - name: Push changes
-      if: success()
+    - name: Push changes (full)
+      if: success() && !inputs.sparse_checkout
       run: |
         if git diff --quiet Packages; then
           echo "No changes in Packages file."
         else
           git add .
+          git commit -sS -am "update dists"
+          git push
+        fi
+
+    - name: Push changes (sparse)
+      if: success() && inputs.sparse_checkout
+      run: |
+        if git diff --quiet Packages; then
+          echo "No changes in Packages file."
+        else
+          git add icons Packages Packages.* Release
+          git add --sparse downloads
           git commit -sS -am "update dists"
           git push
         fi
