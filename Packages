@@ -458,6 +458,66 @@ SHA1: 7a8b72935405150ed5014674284f3dace048f056
 SHA256: 9a3edf6e72007e8c4e5e9f18eff32e8b17ace16ae69a1f9d9f7df0f757935aa3
 SHA512: daa7f9fc04ad4e2bd4e20980ff727615fe759dcb13fb05e3b840f98c1108cfdc50ca0b3f711944ce8088ccd966c1b7ddc1b91a9e3d7322c834ffe17f74ad3c3c
 
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.3.0
+Installed-Size: 60136
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.0_iphoneos-arm.deb
+Size: 20256306
+MD5sum: 5ef6d55c31d334e6a649cda9d9bdd4b7
+SHA1: b37fe4ae10e3660f1ded86cde9dddd86c7d44ee1
+SHA256: ebbefd177779699906a110e50afbdb4eea455316d663de366f6fb0cc4b1b5989
+SHA512: 1c2336805cc461fc183b95bdbd9747805f0b09580ff0dba62b37c059a9fccde0fa2b0a7ea1a3fac0ef905207c375331b8e639468092ecb283d3bd37c5e4b80c2
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.3.0
+Installed-Size: 60220
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.0_iphoneos-arm64.deb
+Size: 20253290
+MD5sum: c9a5f3b86215055a917fcee050610fe5
+SHA1: 26acf54bb661cd108ef58257c8c63a53beeb9206
+SHA256: bbdb1fa36e1006d03264e68ecfe75a351b05bd777802dbb4ed444ae2ea440d4a
+SHA512: 561c722dee80a4c81d751a620a03e76102e714a054bcb97d130f3e659c20aa12ca6aa51c4c3cefecdffdbf53813856d4a210c4ebadee74886a5a0884d94a3888
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.3.0
+Installed-Size: 60220
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.0_iphoneos-arm64e.deb
+Size: 20256934
+MD5sum: 844fcd2af411c6ce5725e8afc0a22dbf
+SHA1: e6de016c4bd28e89ae18fd7009b3fe47829f895f
+SHA256: 078a5d3084090121ee9c967433b331854605c3ce33058925f55120c060ce9786
+SHA512: adcfe3497eee8fe4dc2d9305c8d5adacbdafceba3f79bed67306ce2774def0474eaa428c027312c6b8bf94ab1f932346a415ea96bbe7b4e51bed9cb3be26a19f
+
 Package: codes.aurora.kayoko
 Name: Kayoko
 Description: Clipboard manager for iOS.
@@ -1744,6 +1804,66 @@ MD5sum: 6ea3baa7ec28c0a3781c18aae060c9a3
 SHA1: d946b64e0ab1890095aae1950864e960d76073a6
 SHA256: 245ebd979bc0287459be1c6a059df18eb6d494d43296b435a1a95f2f8aa8938a
 SHA512: 9d544ac9c9bb516ac1199b18c85310fbeee56ca755e668a3ab206d939ad392b92b885777ce606d50cef052851e4ac265cd170056f8cbe52726afda2cb3a73393
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.6_iphoneos-arm.deb
+Size: 28738
+MD5sum: 2edb96d3dc340f83749349cacd57c70d
+SHA1: 58f709f91d4c648747b16c3163e1453f0f59bac9
+SHA256: fc8d976da2c53ff1fff2f27ea37ad024a18eadf5ff31a20aee6dcbf463bddbe3
+SHA512: 11f9b433b68d5045993934cfc77fc813e97ed98582d851ac31c16ae1cccd71a1125e856f24c77b0a3490f99fa0b0dd6aa4a6faaa9fc8e4e1ea2b74af7bd4a6af
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.6_iphoneos-arm64.deb
+Size: 28816
+MD5sum: aecc5941625974a3658e4a8f065d62e1
+SHA1: b815f36880d514edb026d3024b079dc8954b5c28
+SHA256: d2ba9847db8bec6be65d952251e902ebc40d51627add3ef42d7fcc669e4a34b1
+SHA512: 7cb4b8a7ea726d528ec6dcc4da3e57d7a94b6af512fe790e634aa1c882bbae33a989397ef0d72f49674b47016caed8c90fa5c9001083c8565cc88e8f1995465b
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_1.6_iphoneos-arm64e.deb
+Size: 28764
+MD5sum: 9e58bbd74a5e3934dd7d00663534337e
+SHA1: 7eaa2a57a0e164e3ec409976c738526c24580eae
+SHA256: b27ffdfb472decf2be75a4db9f44f7d742dc80186ad6ea9b03c85bc5ec24139c
+SHA512: e31d32cf0d41a342d111a6b5a3e667774648d4d3c52e8844de355feec3880b1501eaa99e576a01a192931d5551b091c71ec2ef151ea702d4bd5d16ec38aec941
 
 Package: com.82flex.socpwrbud
 Name: SoC Power Buddy
@@ -5794,6 +5914,66 @@ MD5sum: 2e51a1bc0dd20534398f4e17d77197e2
 SHA1: 9182e30b4b14bf74a699a5ea8c9579fe2dd40b5a
 SHA256: 7a2007ab2906a3eb578d07b0d7082883d0d251fd72ab3cd65a25156dc6fd3482
 SHA512: 10bee181e34312532e009827a730d585dca54d5d1509fe4c7a9495996231f6d100c83b275c25d3104f3d28e3f408c3f90f1dd606d0bfd1cce84114751d1a3b8f
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 3.6-3306
+Installed-Size: 60880
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.6-3306_iphoneos-arm.deb
+Size: 14961734
+MD5sum: 0f6460a71f2ce87c8d7feedb61839727
+SHA1: 29dcbbfa4952e85a9889737cbcc60210cb510d46
+SHA256: 582cefc596575e0f701fd31961bd8866165d3ffec6cb494ab83295e33ea2c1d2
+SHA512: 5bfae4c34f60a77b12cd5d71d7dd89b0a07b86bacaf3d654e0a3b508045af60592f598ad2b1ca23ed270e0724026d8ea7f18cd62807ec66a2d65548f32475e42
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 3.6-3306
+Installed-Size: 60884
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.6-3306_iphoneos-arm64.deb
+Size: 14959610
+MD5sum: b1a50efdbe6b9280f4c51c6506a8d70f
+SHA1: 43267c06b2e87c640396b5af9225630fac5886af
+SHA256: 8f20c17932dc065084fbf882d5b62793098ea8f7fa15d7f05685257d9780c580
+SHA512: 4d2f71ecb9457a9ce52732e398e2b0ae3c13673f22df7fbc4305d9f50f32f755fc5e16a204da0f68e096ed628e018db1f16c218c1d1f28bd9820d3d12d24268a
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 3.6-3306
+Installed-Size: 60884
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_3.6-3306_iphoneos-arm64e.deb
+Size: 14957508
+MD5sum: 40317764ea4682d50fee64de9c896c29
+SHA1: e972f6615f8f15436977213214dd040ab2b2b78f
+SHA256: c168e06e11d456190337979f21bbd9735ab8d1755c89165ce81677ceb72aca93
+SHA512: a6c3d5ec0144a65a8165099be165b874fbb9ebac01d1bfa2243792aa7ea52d4cd74d0f3824bc97aeb304e2c1ae3ec73933fbdd525f811838389da57e803a9a97
 
 Package: wiki.qaq.writenow
 Name: Write Now
