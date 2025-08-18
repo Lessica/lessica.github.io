@@ -28,7 +28,7 @@ repos:
   - "https://github.com/Lessica/XcodeAnyDebug"
   - "https://github.com/Lessica/AMLyrics"
   - "https://github.com/Lessica/swift-protobuf"
-  - "https://github.com/Lessica/EeveeSpotify"
+  # - "https://github.com/Lessica/EeveeSpotify"  # DMCA
   - "https://github.com/Lessica/YTMusicUltimate"
 
 havoc-mappings:
