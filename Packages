@@ -638,6 +638,66 @@ SHA1: 8ebff1374f7cccdcb8f26a7dff04a5c0fa7dc337
 SHA256: cefcbd4b27741187c5c24c0d320ef87d78e194f55b41ff1869144ef2d5669847
 SHA512: 933b8dcad9e5d04658cda3d790443ac6ae62272493636797ec4edec7a1c91cbea88f527c93f4b960cac8eecac8c3e80e592331f4c3b974e7eef852714ff4ea51
 
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.3.4
+Installed-Size: 69684
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.4_iphoneos-arm.deb
+Size: 22154322
+MD5sum: e8549d9b8e25b0b20bc511d4f2625d46
+SHA1: fac03234965440d553080f02a997a968e639ff6f
+SHA256: e388317660c3c6bbf9180be92aaf44f1f79b0136b33ff39f72699fd9258e08f2
+SHA512: 833366ee9a6c0949363aba8a4bccbf3a7b0424abeaefd12cf60d194a96880c3d09a97e11e411e930a495e8ab5046888179fc9e5e59efbfc66f486c38522f760e
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.3.4
+Installed-Size: 61400
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.4_iphoneos-arm64.deb
+Size: 20307270
+MD5sum: e21c843c54bfc05d1be0a9ce6865bb48
+SHA1: d85bac2c376bf12b1a52757fb8470decb5266613
+SHA256: 39546071f1fc514de08c19869d8ba16869af9daf7723453accdcead0139571b6
+SHA512: e5b98311ec073c3862f87a5c28ff63463c8ee918bf1384672c8a60d6f50c35cfe5bb3e26f4fe31f284f439759eca79738ee2fb24779d8ed3293a1b31264c78d6
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.3.4
+Installed-Size: 61404
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.3.4_iphoneos-arm64e.deb
+Size: 20307268
+MD5sum: 8b5aed7ff1cdaa06defa5286c81242f3
+SHA1: 264639cf02fd5b9c77ad9135f3e8fec7e2d5497e
+SHA256: f8f8c9f2679333a315760de46b7e10b3ead05b22defbda6462b2c6d8fd4808ba
+SHA512: 107db091b0d7a09cf5fffdabb179df8e8dc4dc72de7fa826e97f819e2694c9ac086dd37d959997e89b6ecb02cd640ada21aafe0ef3cebf712c6992a785cb07b7
+
 Package: codes.aurora.kayoko
 Name: Kayoko
 Description: Clipboard manager for iOS.
@@ -3654,6 +3714,66 @@ MD5sum: 16cb3ce90fae429c008a49eb54b736a1
 SHA1: 28233f427cba0f84bf598c24036beb4843c257b9
 SHA256: e282b0928dd62732fbb6dea8a80177ba06eb6b31c4549b26db1d91d431d2a01d
 SHA512: f9e288710b2b4ae396158e3e410bf37c7b30532604617dea50c1859e27cbb3d805ffb0d63ee7bb7f125002c6e4bf97ea2a5dd267b7e2c573d55d5437930f960a
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.2
+Installed-Size: 6016
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm.deb
+Size: 1442804
+MD5sum: a1f752920e073028c13478178c256cfd
+SHA1: 800a660271935b9d7b0fbca3a859b795b4af3542
+SHA256: 5cbeeadb92527af860f32a17ad7a27318d7da2dd7dbf2c6120aaf55183fe7cda
+SHA512: b5b21d1400f6c750258c1fef65108025169eacb6a75d1300690890a34e4e735df5dd8664ba5770c05d0f554f097e32e7fa2573cd0058fe0323ecfe6f10236824
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.2
+Installed-Size: 6000
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm64.deb
+Size: 1444444
+MD5sum: e6882306c405b8900c54a983a37e9b3b
+SHA1: 8abd27d51bf191d5a0bf0a6036cf96617fa910cf
+SHA256: c5861288cea1a5531afff97df7d3e51d8fcf9ca2d056c53828e05c70e49f6608
+SHA512: d032db045ebc6fefaf31156bb16c72e4c82634bc2c6531c4809fb3948d554993aed11bdd199d4a58ce40f70eed2ba09727abd287c057b89c3bc4d9ca0f111afd
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.2
+Installed-Size: 6016
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm64e.deb
+Size: 1444068
+MD5sum: 5ad7af15d25cec9ddbe90028e4057057
+SHA1: 7ceefc0ef02d08fe734060c862392d906a9dc476
+SHA256: ec4b8f0c564502d39acfea862849cd183f5aaac2fa1ad1bbd8d4e087bd79a826
+SHA512: 4bba6d56670c5a12a6431ee947d80f60ccc177be8335b9adcc1997a432abd07442e53372649067378aebf381a23cd38c48155a21a64de458549bb7fd8ffd2a33
 
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
