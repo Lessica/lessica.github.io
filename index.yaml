@@ -5,9 +5,9 @@ repos:
   - "https://github.com/Lessica/TrollSpeed"
   - "https://github.com/OwnGoalStudio/WriteNow"
   - "https://github.com/OwnGoalStudio/Kayoko"
-  - "https://github.com/OwnGoalStudio/NoRedirect"
+  # - "https://github.com/OwnGoalStudio/NoRedirect"
   - "https://github.com/OwnGoalStudio/RemoveWidgetBackground"
-  - "https://github.com/OwnGoalStudio/IconRestore"
+  # - "https://github.com/OwnGoalStudio/IconRestore"
   - "https://github.com/OwnGoalStudio/ColorfulWallpaperX"
   - "https://github.com/OwnGoalStudio/Touch-Viz"
   - "https://github.com/OwnGoalStudio/WTVRBGLauncher"
@@ -28,9 +28,9 @@ repos:
   - "https://github.com/Lessica/XcodeAnyDebug"
   - "https://github.com/Lessica/AMLyrics"
   - "https://github.com/Lessica/swift-protobuf"
-  # - "https://github.com/Lessica/EeveeSpotify"  # DMCA
+  # - "https://github.com/Lessica/EeveeSpotify"
   - "https://github.com/Lessica/YTMusicUltimate"
-  - "https://github.com/OwnGoalStudio/TrollVNC"
+  # - "https://github.com/OwnGoalStudio/TrollVNC"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
