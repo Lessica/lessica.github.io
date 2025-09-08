@@ -2963,6 +2963,57 @@ SHA1: 4a8c454c65acba8903acff6657940799fbdc1332
 SHA256: 0d26acf6604092a76fc3bc414e93a48cbdfcdb7c4599c4d186af847d79ca70b0
 SHA512: ea12bb5f07b81b9d275a93bb3e1a49a30ddee2dd5905b142a63d36b45dfaae6f46d7aafe0ba1b70246cafbfd9bb40b1082262653885ff0a92abfbde6c670d9a1
 
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 5392
+Filename: downloads/com.82flex.trollvnc_2.1_iphoneos-arm.deb
+Size: 1472204
+MD5sum: 040dd189159f159ceb74db6d8b504737
+SHA1: bfd70e8b4231493a9ec51110d32d0d791a5a4af9
+SHA256: 8a276d333a214c1a46085d5a5bab091e8c0844564a4d1d4020f4a36ca69098ef
+SHA512: 4460348080f28cdb87575b00ce1ee28a989036a4ac669453f9ccc5239b51971f07347375e5dacf382951fd6907cb781f97d92833c2775c2e8f750213befcc5f4
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 5392
+Filename: downloads/com.82flex.trollvnc_2.1_iphoneos-arm64.deb
+Size: 1472218
+MD5sum: c7cddcfeb6a0b5130c1798b9c408b623
+SHA1: ed67d0e4513cb7e1fc1ccf1d4690a582450b9cd9
+SHA256: 4219ffa0c5260345adb884a810d99a973d6682edd43404a85b3aff0f301eaad2
+SHA512: 025bddc740d47eca4d713011e301daf2d21cd2d9e2c3d96e21eef25249b4aed1d16a0e7cb2d1697380456548e395b0436181b7df25b205b333a532279a8f943f
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 5392
+Filename: downloads/com.82flex.trollvnc_2.1_iphoneos-arm64e.deb
+Size: 1472608
+MD5sum: cac93246600706449128407274b760c2
+SHA1: 839d573c70b6f0666ace7246e2f614ae86663b30
+SHA256: ef49082ab5781768aa80e7a61a5d86b743fa5fbadd5794afbc859bdbc9bec841
+SHA512: ed5f1bf20166b557d3605d8abcb39b3bed50d3a99ff32ec5d15da725e035d86e2c63b95e93990e6700c9a9caa8d4df73e2f9df1c751524ba965c9bd69177082a
+
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
 Description: An awesome MobileSubstrate tweak!
