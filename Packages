@@ -3353,6 +3353,126 @@ SHA1: 0ee3514876286535ac59a7e6ae8d034d917ea992
 SHA256: 624bdd451f73a7ac1d77e19c7597f2b8cff38b73c8158b118ac0c1b654ccce5e
 SHA512: b852690814184e56d9cedf83d4c313a27debec769e19051770a909b92ca3bf67ca8bbfe45c40d621b703d5408a8d1e6e871670839b767dd30ae84bbe0565d6b4
 
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 2.4
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.4_iphoneos-arm.deb
+Size: 1473416
+MD5sum: 1218394babc26e6f57f1a69226940805
+SHA1: 3c0af3ba426eaba7531ae6f8adb93b955ffb532a
+SHA256: eef92d5b40e0fe9e5c1892075b4804cd38cbdd0234d6eaee60d229b3dca49364
+SHA512: 0cd18da3fb4d78ed77d9d3a8a372fde5d5c7304f1844a2df485773869a724f0bf7b4b78bd8042807928a13c3600d141bf679f45fe8de3036861d8573a4484349
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 2.4
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.4_iphoneos-arm64.deb
+Size: 1473080
+MD5sum: b03b3aef7d83cf2d6b3c19fa5b375d6c
+SHA1: 6fb650cba3278a3a7611a3468fead6009804ea57
+SHA256: 3763874780d0ec5bd446b2a7969bbc822383d05a2a5813bedbcbb9a4b556abc9
+SHA512: 39eb7292a9fc234bc7e3f5c111246b4bd7067976645a3d371a3501cf31824604d4990ae07629a30ed721de8da552bccddcd3ce0c657ce9c427aac81a7386edca
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 2.4
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.4_iphoneos-arm64e.deb
+Size: 1473510
+MD5sum: 13659fb90090e30e6f4f585179a03391
+SHA1: 54e613cfbcbb35b6d3ed5ce490ce91d5c4a6917f
+SHA256: f8102d640abcd3d292b5ff41fed9c8232cbfdaa02e45f98ac4f3aeba8f89188e
+SHA512: 7084bba0ca8f364ccdd408bde06230370039ab9807e4e1c9afee8ab935d2c07ac5a086c6dcb7a89b90a23901ac79ed5155348dad8fa3ec45f6b1b8b23c5880de
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 2.5
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.5_iphoneos-arm.deb
+Size: 1473538
+MD5sum: 15ba36c849d981404dfd337ac332d525
+SHA1: ced9dfbc9cc4506ca2e70a0bff47b5f031769e8d
+SHA256: 54fa5d442eea946b4aba710934e2e39a910188f1f0004fc9d4fb05389313b4a6
+SHA512: 4a9eca1132e768c0382ebe7d4a5fb349f0cab8e820dcde68ebe18e7825bdc641965f1b5c2715ad2f0ce872b4cf4e6bb9b00df0dcdf40b14eb9c877211a339a60
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 2.5
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.5_iphoneos-arm64.deb
+Size: 1472996
+MD5sum: fef3b538ab299c416d981107591e6b3b
+SHA1: 7c4d5bf72564546a614f7eae040ae1bc283e1096
+SHA256: 33e0428735de81123b076b47e37604aa351dc831192894a7381e432a86f3a05b
+SHA512: bbb356e8131f5fe669a7aed0d0e9409b8a8537447336b5a74179ed05ba85301e0049b669ab98925cb046459268ce8121ed6ddd8abd39a785a91be6c39ff23f41
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 2.5
+Installed-Size: 5404
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_2.5_iphoneos-arm64e.deb
+Size: 1472862
+MD5sum: 01f78c8996fe6b8ce076e45130ad0e0c
+SHA1: ac33c1cb977755c9b5d40d74fbfe20f36f8ad3c2
+SHA256: 1b30cfc4e43af1b1dcb95fac460c45af42e7d020e8b4ccb434cb105fdef43a4d
+SHA512: 6883cd1cc64b40e6320506e37c14bcad311ebd000e299db74a47428bb4d02047794976a0c28885a38e0c5428be4dfbaf222d067e5b8ef1205eab23f245c3f70c
+
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
 Description: An awesome MobileSubstrate tweak!
@@ -4794,6 +4914,66 @@ MD5sum: 44ccf436562af41570659beec299f8c0
 SHA1: f89da67969712f433b930abdba2ed13ece29be3e
 SHA256: b69a40cabb77bd1078d3e3ea3810f11d609b50441ce70f7af3cdc4a609d0670e
 SHA512: 559042e0ca1240c418fcc715d6398fd57a6def040d7f69e7f2da6ae3d7183d5e4d88005cb0421138f9313a9b67f836d9824c23a744f3a5f0539269deefc28a98
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.4
+Installed-Size: 6032
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.4_iphoneos-arm.deb
+Size: 1450298
+MD5sum: ceb342ca20b9d93a1e38b5109c6d0551
+SHA1: fd9b861d14b721c4d68e9fa30d5483cd7b2000c7
+SHA256: 6e7082630fdf3b9b4f809b55c9bbd61c2d476977fce9e8507c8ef11da3e44015
+SHA512: 3419908808e83a7eda3910722108e7896988bf75d4e396bb4e740e5c30d4726502e1a994c5687e20a717eae77e76a675c8e59a7481d1815b0a4207e8270477c9
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.4
+Installed-Size: 6032
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.4_iphoneos-arm64.deb
+Size: 1446316
+MD5sum: 3b4ac258c288402d4a3dc6079700a96a
+SHA1: 0b7545771de9b7aeb8baf356aa7f2d29efc69820
+SHA256: 6f382f42e993278928f440339f6bdca1a52be0881217c22bcf04afd30a3b710d
+SHA512: d6a5188759e0f9b4307b264399603aeaad869dd4de9833e9cf2a729aea030036b42da2824980684a0c495f5ee2cb1c7a5d91abce78be2912ffe105363fc41259
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.4
+Installed-Size: 6032
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.4_iphoneos-arm64e.deb
+Size: 1448922
+MD5sum: ec775b9176c4e98fcbddd385ab554a40
+SHA1: 589f71146c3d2475aae2b92edba61d1a33ba5c04
+SHA256: 46ee2305c3f7f6c381d6685499bc87dd5a8f9f474807d3811969a07377bf093f
+SHA512: 5515df5fedbc2c685c839c64737d7dcab5c90090eb4d8281765986b5d2131844115de84796178697b02596577ddb3df8588f33d3e5209d1e2cab3132bccd08e2
 
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
@@ -7414,6 +7594,66 @@ MD5sum: 707f5fde792e334cd245e034ab17fc74
 SHA1: 7b5a422847cbcb49bacc2feab0838493b47d3e2a
 SHA256: 79368d33b3f793ce9023cd3a2bb931933b643adad7dd349808992c1083185e45
 SHA512: b1768dc35f6b42b484541bea3a430959a081943db4ecefb12149020d19321a669d2f1ebb36411e1524960a3b8c395f85be7e7b931b8764625f8a456536e391db
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.0-3447
+Installed-Size: 61456
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.0-3447_iphoneos-arm.deb
+Size: 15101554
+MD5sum: 5332a91a0fb44609e308bf9f74558eb9
+SHA1: d903923aedc63c018685debe43eb0c047c3841c0
+SHA256: 136f063bc485f8cdc5b0dddc1b8def653a9125f2760a137595e6f0695efcb346
+SHA512: 375dfbdfc71a1f88f669164258c2dd031c12135e8fdbd57d7da7a8229f312ed5b684c13d41ce7271ffbde84ee91d789a6f8e4eb9cc5041fe862070ea7764e7c1
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.0-3447
+Installed-Size: 61436
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.0-3447_iphoneos-arm64.deb
+Size: 15106320
+MD5sum: 202bed10db6345d26573b85bfee6f5b1
+SHA1: f5f8d83db8c6bab873161afed38699c25640c143
+SHA256: b01e3d00a07b94a5511d52cb1f5c1f3042f0cd76b3cd0e596daa9063c328ca67
+SHA512: e30126667c0f24815cc1ae0ffff461c6bb1d21e2afa01521320f3c7ef2776d788c3eabc7d92e0d32909ba2ea83e4db8d65e6cd2e78b2054bf5a5c267e27224f7
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.0-3447
+Installed-Size: 61444
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.0-3447_iphoneos-arm64e.deb
+Size: 15091384
+MD5sum: 6473061e4b12afc485aeb5ff391e70ee
+SHA1: bf7276431895929c0586a3edb41ea74e7ea130c8
+SHA256: 99691eddcb8d8a2b16c88971077d79b28c266cd1834ca5df025e23e5a068376c
+SHA512: 5a9411eef3fc0be3006ecac1a32ec0a5e4d240ccca7a8e319bcb349e61bf7f8842402ca6367956cc74ae03cdb2df4c64a75c5067e8bbe50f605ab3769f8334d1
 
 Package: wiki.qaq.writenow
 Name: Write Now
