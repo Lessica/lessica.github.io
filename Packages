@@ -1985,6 +1985,66 @@ SHA1: 72b2ff995113cfea61641a4aeabe7b98223086f8
 SHA256: f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5
 SHA512: c37db657603e3d137793860881c3c1347b273212cf89599384e6fdfab00fa7d9a49e38c2ae199763a4111cd153d15d8263c30b7e71f5aa3048bd92d664361045
 
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: downloads/com.82flex.singlemute_1.7_iphoneos-arm.deb
+Size: 27532
+MD5sum: d356d3c75bc7ab952d81e62af664818b
+SHA1: 23865092be62b867989241bcbb12678e759f2949
+SHA256: 535f3a5eabf77e99339ec86209173e342849da684ae5fea402c366485f67ebf1
+SHA512: 2a82d52584f17f573fe6df6d099a6c7a838862422bb0f40b6dfa4194eb324a2e94aa1c603663b78dfa09e27a8d45f584188181e6db6e56eee9a5d4f44bfdea29
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: downloads/com.82flex.singlemute_1.7_iphoneos-arm64.deb
+Size: 27604
+MD5sum: f090597f646cc89bb831f4ef46a6d0f1
+SHA1: 87d61f42ec64f5e0c318347c02d54c91e5c6bf5b
+SHA256: 7b0e514d79e5e52ece7155f4e5642b3eeb3b967ef2a7e9a2df50e820eb28b31c
+SHA512: 316599f8f7a97d45c97849f047bb76a683229b6f9d192f0d9df623a885cef5cc79d593fcbc43803cbb4d176b32cb54fb5e785775ea2b55409dc8678c1d8abd11
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: downloads/com.82flex.singlemute_1.7_iphoneos-arm64e.deb
+Size: 27554
+MD5sum: d18024d01c954cbf77f36daa9e717804
+SHA1: 4dcc25061cd281315fcef8fbb3c8533d0f19d310
+SHA256: 1f2fb99c0ecb6503c7fc10c73f14ff5b14c1a34b4f3240056a79ce21715d5560
+SHA512: 8a98da08536b8b81ab2511e0a3d91e5678ac1576030a8de177d2bfa9414db37cbb8f33e87f7f61a9eece8c761073fbee34c5512739e737b028aa2271cb89244d
+
 Package: com.82flex.singlevpn
 Name: Single VPN
 Description: Combine VPN state and wireless state into one icon.
