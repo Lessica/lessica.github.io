@@ -1874,6 +1874,66 @@ SHA1: ee112f56fa6b7e1c68826b97732fb5077f3b4c5a
 SHA256: b0018e8d1c026189d3339ab064883c1fb8041aaf5aded8f123fa3faecb6123b3
 SHA512: b1cf8a1c16a9473ac9e6570dc97ea58d75dfea75ffdc07e50ba2cc29df26eea32345e805bd4f15d32d9640aac8b75ae71daeed3bcbb76f9d65ed2fd483de8b89
 
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: downloads/com.82flex.noredirect_2.1_iphoneos-arm.deb
+Size: 90558
+MD5sum: a8c97509bc3a68eee36101810591fbb7
+SHA1: bfd624937cc8f555692e0fe9ef87232aa51542f9
+SHA256: 67aca0ed8af70705d4bd24dcf55f221e808b1d4c786fb8de9b87bcbcb443ae52
+SHA512: a0de8ebd794b1eee1e98fe69da5cbbf5a1466cdff3b7a224c71c69c5c72dd60c5ecb40f591eb26fe472119e7b2286932cfca50d9cbee3247079d8cb3b5032af6
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: downloads/com.82flex.noredirect_2.1_iphoneos-arm64.deb
+Size: 90400
+MD5sum: 9e4f0145f39dac41f6650554cb8fc778
+SHA1: 7798d6ece12d6601d549921a78c7570b459b5f68
+SHA256: 548fbd68234f198a29ddebb2f3b0a81bbbe3d6d4e89bd2b19b2c1fb628accc87
+SHA512: 27a4444565e3aba60d437a62a3f6e88909e6bf38b66989ab25f32e1783c0c9e89debf3714f3351817681ecd8eebc921071de799e7245195f61045a654cf88067
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: downloads/com.82flex.noredirect_2.1_iphoneos-arm64e.deb
+Size: 91248
+MD5sum: 832ba88a44f18d6e5594582f4a4d3792
+SHA1: 366cbdf1dec96c96efced0c3ed65deb6c1a52c8b
+SHA256: 8fd67f9b2b9758b68950e57d780988d54bb0fc7456d2852db731102b0635c69d
+SHA512: 819974349a196472577c560f855bb01431f9d0e2600bafa356460d07631e3da2ae922fc94bba12288f2151e5f51e223a10935bb9c17b722ffa6b20a722c1f8cb
+
 Package: com.82flex.ohmyinsets
 Name: Oh My Insets
 Description: Customize columns of CC and paddings of the status bar.
