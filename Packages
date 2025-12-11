@@ -3960,6 +3960,57 @@ SHA1: bc5c2d3146e45780df111c757c000da072af7f33
 SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
 SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de35d3dd94cd8c1f3ed29d62c0b36b1d6a7e335d0a1fabc5bcaaa7bcdb
 
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 372
+Filename: downloads/com.82flex.wtvrbglauncher_1.2_iphoneos-arm.deb
+Size: 23124
+MD5sum: 16d4ec705fa2c9d15dc69eaceb7acb27
+SHA1: 385041c40810b3d96e4d7ed457002f9b33ba6270
+SHA256: 115f51a1f523efc086a87ad6a1d237dd925f12e5ebbde784d24b4e9de1e1703b
+SHA512: b19414f52ed48d3e06b9cccb8a8bffdaa94a0aecacc5ef77cf2579a25ffa18ae06eceb5b9d7792ee28b39344e704675df3b7f466a6393c99a934e557b5b29e3f
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 372
+Filename: downloads/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64.deb
+Size: 23218
+MD5sum: 6881fb90689fb2fc0a427890389e67ee
+SHA1: ef10c4cad9b6c365e2e87a93b7365c95de930558
+SHA256: eeccd14baf5afa224202f49f2e7bd3accc6c710c80d411e7f1ef6f2529330257
+SHA512: 0b6dba9a74abbcd6e87b7689d565e860b57732e408b48d1fc794ff4b1cd8477b08b8a3b64edd5312eca4b2ac732e034cc26e6558272efb37484da4beb0dfaf51
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 372
+Filename: downloads/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64e.deb
+Size: 23160
+MD5sum: b096d82dddf2b137bb040048d24814d3
+SHA1: 87097a46e8bc4073628f33f1d83c8436b0db862f
+SHA256: d0e793dc822842b9c0d32d4bb00f33c9e1e9ac80c11833380f2a2b24d844bc5f
+SHA512: ed429ef53208c966191908af65f9a078f239b2eace0bf6f514a8aa429283dcfd8fa26bc047897e7d9a9c28cf5a9ba7b7ba598c1f054d87f885096a0fff6b03d1
+
 Package: com.82flex.xcodeanytroll
 Name: XcodeAnyTroll
 Description: An awesome MobileSubstrate tweak!
