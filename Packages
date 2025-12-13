@@ -2465,6 +2465,66 @@ SHA1: 7eaa2a57a0e164e3ec409976c738526c24580eae
 SHA256: b27ffdfb472decf2be75a4db9f44f7d742dc80186ad6ea9b03c85bc5ec24139c
 SHA512: e31d32cf0d41a342d111a6b5a3e667774648d4d3c52e8844de355feec3880b1501eaa99e576a01a192931d5551b091c71ec2ef151ea702d4bd5d16ec38aec941
 
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.0_iphoneos-arm.deb
+Size: 32348
+MD5sum: d0fb9cae9f2b5b3197cb6c15d5495e8d
+SHA1: 1520944a5f8880ff3466d46feb2d071b6cf39b62
+SHA256: a582164c4a99707b81af6203453bce9a1b58135d82cf9eafa9f13e1e9dbc81c3
+SHA512: 742f8228ecceb12e702c0fc5215b2270eb1b8a8f0d2ce7fb723fac15e0f6f04816db63e3e67942dd1c6128af57cadbfee15f465114c61f2480f82e819b8320ab
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.0_iphoneos-arm64.deb
+Size: 32476
+MD5sum: f10038576d6dc4cbbede9dafa444b0f7
+SHA1: 76933cdab6ae5f62e53195b1ec72bb9c18b93515
+SHA256: 28a174403162dd630c31e7df65c5300125852709f0c4ff1da652983d2f5ebbd3
+SHA512: 30597003e57dba6203cc9fab96ec89558cf4c6b6a940dd6058ae3c0cde17e14e2ed7fda85a445964f2f62e52cda6a91f08d3f9174e01a550fa9baf53acf92d07
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.0_iphoneos-arm64e.deb
+Size: 32366
+MD5sum: 6121de59b8bd5b949aec8f113107d696
+SHA1: 70f350bcde14b5edaf5e68eb303f4779481bc0fc
+SHA256: de68e4a58f999db89a7c9e29099ed26fe4042ed7fa4a17c040fec59eec7cd3c9
+SHA512: 88d48ba0bb53f2780b08eb0531ba161af03a7094ab6e793217d30db2790d13dae517a4228d668d7ea475959bd5701b57e6ab53a810b1d3b1590ffd1bf7b22afe
+
 Package: com.82flex.socpwrbud
 Name: SoC Power Buddy
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
