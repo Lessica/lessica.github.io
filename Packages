@@ -5035,6 +5035,60 @@ SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
 SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
 SHA512: e55a2249d056778446a94b48728f360e0d9343e0c63d07db16c17ab12d219213e72115dd0f1bf02d518af9a8769840cfde41f9cb9b727afb08a5b4ae6a5a5e73
 
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.4
+Installed-Size: 416
+Filename: downloads/moe.misty.sslkillswitch3_1.4_iphoneos-arm.deb
+Size: 18574
+MD5sum: 9ad0128b9dca6334afa756b81e136abb
+SHA1: c7ac04a81f1acd75de0fa82bd42581146e2e0153
+SHA256: 970fbc05811809b829a750c4607c88c70dd8962270ced4d2dac47f22df62679c
+SHA512: ff12497755fb2468bdcec1fbaa14784038a68f1ab93068d6b438571eaafc88b6ea7b4367316ac5d2c6588d93fcb746ab31ffd53276efadd0224aedd5bce957f3
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4
+Installed-Size: 416
+Filename: downloads/moe.misty.sslkillswitch3_1.4_iphoneos-arm64.deb
+Size: 18576
+MD5sum: bb03036c6f94bcc63e2473818e219652
+SHA1: ace9e6cab5bd45c24bebe97640f994f6961bfd5b
+SHA256: 924d8ad2eacccf692cfd4a37ecc4ad3d8f2000491b40d2ad586585ac7beacc05
+SHA512: 6e918d2ea3f0103bfdd36ee8b2e8726d706bbae2bdc624d6d5e4214b064d37855b6ca4f87edd75fe3036fa0dd5986aada65cb340d553b6295ecf508132ec8a62
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4
+Installed-Size: 416
+Filename: downloads/moe.misty.sslkillswitch3_1.4_iphoneos-arm64e.deb
+Size: 17490
+MD5sum: 420035fe776a52e470b67b1b2bbc62d6
+SHA1: 5c0f735a37923dcd810f73e6cf85a7881a29f586
+SHA256: 8a8bd80a19a7d349ca088e6a62da86a0c6fb8c47ca7366c03d26a85b92750a52
+SHA512: e88eab832bafdcafcf58587172d9348a102b61b234c02f384bf71d232e4e3c625bdb053b1c550af35db222e563dbcc02572d4e03e40f80c6d41c5364c68001a2
+
 Package: org.swift.protobuf.swiftprotobuf
 Name: SwiftProtobuf
 Description: Plugin and runtime library for using protobuf with Swift
