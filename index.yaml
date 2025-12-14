@@ -29,8 +29,9 @@ repos:
   - "https://github.com/Lessica/AMLyrics"
   - "https://github.com/Lessica/swift-protobuf"
   # - "https://github.com/Lessica/EeveeSpotify"
-  - "https://github.com/Lessica/YTMusicUltimate"
+  # - "https://github.com/Lessica/YTMusicUltimate"
   - "https://github.com/OwnGoalStudio/TrollVNC"
+  - "https://github.com/Lessica/ssl-kill-switch3"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
