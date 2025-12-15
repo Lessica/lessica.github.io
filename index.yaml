@@ -32,6 +32,7 @@ repos:
   # - "https://github.com/Lessica/YTMusicUltimate"
   - "https://github.com/OwnGoalStudio/TrollVNC"
   - "https://github.com/Lessica/ssl-kill-switch3"
+  - "https://github.com/Lessica/GlobalWebInspect"
 
 havoc-mappings:
   wiki.qaq.trapp.jb: trollrecorderjb
