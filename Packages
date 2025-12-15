@@ -5035,6 +5035,57 @@ SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
 SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
 SHA512: e55a2249d056778446a94b48728f360e0d9343e0c63d07db16c17ab12d219213e72115dd0f1bf02d518af9a8769840cfde41f9cb9b727afb08a5b4ae6a5a5e73
 
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.4
+Installed-Size: 168
+Filename: downloads/me.chichou.webinspect-global_0.4_iphoneos-arm.deb
+Size: 4572
+MD5sum: f0fb55bc50fa2282bf5f2565cfa8676f
+SHA1: 1610d2cfc55576c1abc88217130dd0061cc430c5
+SHA256: 0363b7baec23eed73a5098147694c2becc3d79d9c6e494c07d35497830e027d0
+SHA512: d001df1f53fd36110d5e376f30b5c5e86f346ae63ac48a88f28c0c711b4eaf866413ba4338e97f29f9c08fa4bb69b5e2239c58eb43abd6e73098f380970ce26a
+
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.4
+Installed-Size: 168
+Filename: downloads/me.chichou.webinspect-global_0.4_iphoneos-arm64.deb
+Size: 4648
+MD5sum: 82c9d1903e5d47017b1a8a6685eb0df6
+SHA1: 70166959955a20ae77199ecafef442406b457326
+SHA256: 66820c6e3f77e9327377cc7b6c25104d2da2aed51ca751d33fcfe30e5a6442c4
+SHA512: 50ed788c10256c5b41c5c28a2c38b07bf62fd2d33bb7e429cead753fc9397c9bf0abd602a1b7605ad3ce1e0538532cba42f19fffe249bfb8c69199956e57ec4c
+
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 0.4
+Installed-Size: 168
+Filename: downloads/me.chichou.webinspect-global_0.4_iphoneos-arm64e.deb
+Size: 4580
+MD5sum: 43c41199e6548f5beafd3b9eb7ffbbf8
+SHA1: cf223bcd5e47f3fde7ace9734caaefa2cfedb232
+SHA256: ef11958eba2a867ddbaad1260939187c5ec3ed5cb29d3bdc02ca1557333338e1
+SHA512: 2ae34c76518993dbe1b2c2741dc9ead0fcab656e49928c61de21d0e73b8e49f2db6671dd34b3a8c661c9a1bd997f7acc5f98526d0a82e39df4acb62c0b296d7e
+
 Package: moe.misty.sslkillswitch3
 Name: SSL Kill Switch 3
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
