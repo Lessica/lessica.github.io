@@ -4815,6 +4815,57 @@ SHA1: 4396245f0b34e8e4789b8717eaf56cedc90a9346
 SHA256: 969ff979217e9ed16f4d76ee551dfbb013c46d7615d3f9f168d2a4e7223fc4b6
 SHA512: ae375d49379c84946b0f4b30216217bf698e770d38068763da5d1803038a710617ffac39ea757f365ffa66558a67e019cbb9e4f0c821d19fb157bc43e16474e8
 
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 3844
+Filename: downloads/com.joshua.volumeflex_1.0_iphoneos-arm.deb
+Size: 866278
+MD5sum: 66c52db8a74b2c26a757f9c7a288f2b2
+SHA1: 7d93a93b7b037dfe0b84c4acdf38999f9a5a1250
+SHA256: 42b7c2dc384ced118a02198151b5581b8647ddee2c8fef3abfbf83d94109c097
+SHA512: 477230cdbb031fb05e6f51ee867062812dd353a2784ce39099b33355cae86dc948250660b575589549464a11dc08de724cb5590bd94530cb72c239913b508e2d
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 3240
+Filename: downloads/com.joshua.volumeflex_1.0_iphoneos-arm64.deb
+Size: 653100
+MD5sum: 815a710654d221093beaae5c8c40ef00
+SHA1: 79947416b983c537e7093d2edce6d2b13377b985
+SHA256: 507c7b0fbe5a31e804811707541f96ae0e32fcee044a04a54bf14373ac515920
+SHA512: 69a5b29cf665fe2f505ade490bb06c87da6726ab7e1e309278ac9f4f48ae7bfa71785dea213dc790c088e5bfa85592b401a7e1e82d443010407aad66334f2ac5
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 3240
+Filename: downloads/com.joshua.volumeflex_1.0_iphoneos-arm64e.deb
+Size: 649912
+MD5sum: f942e8b76467397e1355ec3753bcc738
+SHA1: 0b750c3f614e0b672beca478124818d37dfda881
+SHA256: 8935b5c7b49957500372f36f630b34017b13ac49c89d4bd6bfbc9263b37871c3
+SHA512: 7a6d99901337424ad5be907f68936522c2846f2552a114b8294223bda4280b0abe97c7be3d527420dd7437848661b910c838b5ac92576baab07a734a0a2241de
+
 Package: com.rpetrich.rocketbootstrap
 Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
 Name: RocketBootstrap
