@@ -4826,6 +4826,57 @@ Maintainer: EvilPenguin
 Author: EvilPenguin
 Section: Tweaks
 Architecture: iphoneos-arm
+Version: 1.0-2
+Installed-Size: 352
+Filename: downloads/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm.deb
+Size: 14976
+MD5sum: 8deda8726fed3e2247dd05131bc6ec80
+SHA1: 8e653b2d4b296ee4f7114ea6e2765e64dcca6853
+SHA256: 7fd36ad6c0ab5883f7876728198b028069cfddcd2e54e9f6260ff65649a3409e
+SHA512: 6f8efec59fed2df287fd8903f96932a458d0bfcff11176a6e5ec4b1a904e9c1f98c43e94775069df56f976ffc45b9ff92ed4a3c000458359fc94cb583a953a23
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Installed-Size: 352
+Filename: downloads/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm64.deb
+Size: 15084
+MD5sum: c5b1054d47e5aa8b692c9390bc297d8f
+SHA1: a705d34a395b00709064ebaf583d99f22b3a0fe1
+SHA256: da67ed0cf9c9e8aff76ca05f02cbaed2498918b2932935028d2568ae65035b6d
+SHA512: 98e600f3de980eba9389fcd1887b46344b21d5f0362254b967a0e5b80d4c1d73c34da8bb9d15379041d2626ab0cd16cc0d6d892aa741e88a5a7defe4563a2608
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Installed-Size: 352
+Filename: downloads/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm64e.deb
+Size: 15038
+MD5sum: da5b60d022c882dc4b6d19b74fb6e75a
+SHA1: 47f6ec22eab5286cb68e14abb6ceeeee2ff2a4bc
+SHA256: 4fb7aca311110b47cda17bf7b87c36aa8439c1dea2537cbd5a646591ecff6804
+SHA512: c7e9fd76593f7a262477493dab8349f5a98e14f5f9b3a0f5bef880805a0369c446126b15400f4ececbb40c55b72d7c6a3ef49ec653e9c9057b53b94878c9b39d
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm
 Version: 1.0
 Installed-Size: 352
 Filename: downloads/com.evilpenguin.networksniffer_1.0_iphoneos-arm.deb
@@ -4976,6 +5027,57 @@ MD5sum: f942e8b76467397e1355ec3753bcc738
 SHA1: 0b750c3f614e0b672beca478124818d37dfda881
 SHA256: 8935b5c7b49957500372f36f630b34017b13ac49c89d4bd6bfbc9263b37871c3
 SHA512: 7a6d99901337424ad5be907f68936522c2846f2552a114b8294223bda4280b0abe97c7be3d527420dd7437848661b910c838b5ac92576baab07a734a0a2241de
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 5136
+Filename: downloads/com.joshua.volumeflex_1.1_iphoneos-arm.deb
+Size: 1111034
+MD5sum: 3e20968e4fef0727674427f2c2329528
+SHA1: 1b0a30cd4ace25110dea08315ac30076201f2125
+SHA256: 2442a5c7e20382b5a59209ec00860eefa98088fefc91b18efcf7fdbcbc79eaa8
+SHA512: 7a2ed9d8fb455107c2f930786dce212bf329095e3e46c9eac16b1d97357e6404f6e6aacaf197de8a7acdeb1ed3e8f54b05c96d00155365b152b99b3a4da38428
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 4328
+Filename: downloads/com.joshua.volumeflex_1.1_iphoneos-arm64.deb
+Size: 829406
+MD5sum: e08b3bf5452b67b680ef4433371ae971
+SHA1: d758ae797a01710df78ef790c3d9bd06e7fda3f4
+SHA256: b1e95d171aeb21fb018e7258ad40fd4ee6d5e7de6d557dd96b1da4ff5b66b0e5
+SHA512: ad65c8baa88454fc51001a7a72e6898f8d08c04d2c0edaf0bfe3ab0217161dd84e111065277a3e78b82a0b26ce24ae3ef2663926d0188db00270c332f95ad0be
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 4328
+Filename: downloads/com.joshua.volumeflex_1.1_iphoneos-arm64e.deb
+Size: 826582
+MD5sum: afc203436ab3673127319089268790f5
+SHA1: 329b26e14af265a3b4e41cbbacfd538197eb1c0f
+SHA256: bb1309f49a6013c88a9e93182ee2e5a4ff00953770fae4f35dbfe39a4096901d
+SHA512: b4bdd0141c66fb3e7bed93d01b3dbcb58a0f05480101b9fb644beb94a58c7c84d0623d8a53cab4951074861e0ecc6ad4b094504b2b8551f3345585fbe4101618
 
 Package: com.rpetrich.rocketbootstrap
 Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
@@ -5301,6 +5403,60 @@ MD5sum: 6437067f8a676eb8b648d7e5c61cd5cb
 SHA1: f15f434d82056e9dd343621b728995d1bbfbe0f1
 SHA256: 982f9faca8e991e69186991132d1c25c536a72c40fa8f769db03cbc9dc3ca7a9
 SHA512: 563dc05f04e0a593d022a832cebc2e85bc43d736011955aa0441fabefd1f6c72b3b7e5d41afb0412df469e8d2abc908bfa033c78b92471a7983b486d8dc1d724
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.4-3
+Installed-Size: 412
+Filename: downloads/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm.deb
+Size: 17736
+MD5sum: a0a416eb5717de48c5ba36c513d53e18
+SHA1: a61e0bf8da795bcbddc494d33fbcf2daa29dc82b
+SHA256: 0fbadbf29b27ff2bd9c221436de08f4ca989aa63fa7a41356159d3aa644cc282
+SHA512: 8048fd48531eb8bf21f7aabf362cf6eadd4e0e00affb7e4c538e743bc42649e754c90517d369ffa054203f41680af7dd068376a446c315e422d51102610c48a8
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4-3
+Installed-Size: 412
+Filename: downloads/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm64.deb
+Size: 17814
+MD5sum: 2b17b18584549b9bd21d9aec72ff424e
+SHA1: a84b1c41420a00b7a6e99b2207a9d41edc23203f
+SHA256: 31001d1074cedba12c388db1b45aa770f0d3d66506fcaea85131162e0faf8ba9
+SHA512: 52e47032bec653361b7772d309116a26c8f4e8f208f066660e97e203296793b0d9f02fc92a5fef343095bf978f44c042725221a21f76c9a95005dfea56c19486
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4-3
+Installed-Size: 412
+Filename: downloads/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm64e.deb
+Size: 17740
+MD5sum: dbd0b069a4cc2e60a0e53a89f0e71580
+SHA1: 401277153696c07530558bfec4eeb6bbf7e34719
+SHA256: 54694cc39c7a9fa355140c2de67957797cc84d1a3a393256827c2945be53bb9b
+SHA512: 9477fabc2ef272e96d1321f762916ea2d5f4f477585c8b902ba0d85ae029bfc58541fc24f39deb6e92314f4651b26e34a87acc5329d96a04b24bdd558cb174c5
 
 Package: moe.misty.sslkillswitch3
 Name: SSL Kill Switch 3
