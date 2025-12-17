@@ -2156,6 +2156,66 @@ SHA1: 3e0d6153bed2d4abf5cd021995f0596811d457ab
 SHA256: 6e66a9aa8dd21bbb6a7790dc9fe55be519e8b898b76c015e57b54b57b22474b7
 SHA512: 04e2ac5f65955689770464693b5d01df1a396bdd41192286f1ef2ef4ef67f7bbc44d01b459e4b4222c3b5a9ab93a475dca8c1e8a662f13133db57a3e89826362
 
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 2.0
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.0_iphoneos-arm.deb
+Size: 30620
+MD5sum: 96a36c68aadc92d169c18d34eded8301
+SHA1: b218193b330d2dee6cf6742b3c002ef098f20825
+SHA256: f3fc9c7bb86176a6b55d6c22d2102c8191d8e2c68d081ca0fcdc5acc711147ca
+SHA512: 72e2794bdffffbcf5f8c99b817865bcf571a86e7f6ad5d1680369b8eb9aaab1c39bb4ea364003b2be0b41b35d9f303d2d9b54ede713471148d1ceace18182357
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.0_iphoneos-arm64.deb
+Size: 30908
+MD5sum: 31eb6892d165ec7b33dd8b14a938a283
+SHA1: e72aeaa9ba832a378511031a85748c71dbb6157b
+SHA256: 459e29ae0c357967efe4796b0d6958f18e20179f04b91c73c52599c097123d0d
+SHA512: ad0625750dfe43f3c51455429e9f941195de57629d14f1341146fc81ca171315570bdef620c41ce86989998814d271c47940a49f799c80ddc500080aac6aef6c
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.0_iphoneos-arm64e.deb
+Size: 30696
+MD5sum: e2c9498c45d1990691f17a4236acdf1d
+SHA1: cfbdb6d4505881df6e58bb878fe48ae1f64d7c35
+SHA256: 0cab275aff5edb5fd1320ebe6215a9d087b0204acf9fb3bca1e3d279fccde28b
+SHA512: b136c7851fa496d621a1111b7c29feeb28b13c4773fa7d742faaf0913ffae1e63f3aa2f11ac925be8816c79e38510950e219aea9d2f08d41d36b58dd8254a04c
+
 Package: com.82flex.singlemute
 Name: Single Mute
 Description: Just a single mute icon on the status bar of iOS.
