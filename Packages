@@ -2696,6 +2696,66 @@ SHA1: 70f350bcde14b5edaf5e68eb303f4779481bc0fc
 SHA256: de68e4a58f999db89a7c9e29099ed26fe4042ed7fa4a17c040fec59eec7cd3c9
 SHA512: 88d48ba0bb53f2780b08eb0531ba161af03a7094ab6e793217d30db2790d13dae517a4228d668d7ea475959bd5701b57e6ab53a810b1d3b1590ffd1bf7b22afe
 
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.1-2_iphoneos-arm.deb
+Size: 35158
+MD5sum: 9c44442f50918e32f0d6650016c53f7d
+SHA1: 53f3dadf1dd2a633e3bf9cb4e525f3609acc1e44
+SHA256: 4a20c265e9ae49f37c7f66e7385de2944fcc67f07c9d659122154a099380424a
+SHA512: ac6dd894b43e8cf1258d4a1c125c0ed8e31548d71e218d2836a9d5390556fad1d568b20f2c4b0b23b8b03c3bc9270eca5176323b7685bc5e9fe767da12370fda
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.1-2_iphoneos-arm64.deb
+Size: 35270
+MD5sum: b7b92c3759b9e13fe368b99035eb792f
+SHA1: 414e9811a14433bbc41af269726f1c5aa845699f
+SHA256: 5678e5d12d089bebf9137636fa6f9e9e2c2873eae00bf714814b1158136b370c
+SHA512: 0b35e6fcd583548862f5334e3ef1639aeed3f75fb510f4073473e93cee46916d2f6eb44e1c23d8bb6b7faf989fb243346341cd7862248778061257d521d56d72
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: downloads/com.82flex.singlevpn_2.1-2_iphoneos-arm64e.deb
+Size: 35130
+MD5sum: 41e444ef2536d257b15b418a17a83014
+SHA1: d73ece7e3dcb75cd4e8f4d4ca970eadd2ee5d7ae
+SHA256: a8c3d0a45b9ff5296986b74b83c9dddaeff0962b215ff7a06a27e6f772b38c34
+SHA512: b54f0c8503c931f730efc309466b438ec465dd08742cf0be590439b7a1752fd2924d301109a6db6eff49e91c1046e078a3156d6044429e279631c41e93278a51
+
 Package: com.82flex.socpwrbud
 Name: SoC Power Buddy
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
@@ -6093,6 +6153,66 @@ MD5sum: ec775b9176c4e98fcbddd385ab554a40
 SHA1: 589f71146c3d2475aae2b92edba61d1a33ba5c04
 SHA256: 46ee2305c3f7f6c381d6685499bc87dd5a8f9f474807d3811969a07377bf093f
 SHA512: 5515df5fedbc2c685c839c64737d7dcab5c90090eb4d8281765986b5d2131844115de84796178697b02596577ddb3df8588f33d3e5209d1e2cab3132bccd08e2
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.5
+Installed-Size: 6032
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.5_iphoneos-arm.deb
+Size: 1448236
+MD5sum: 0a42d4012ca3156517ca6cb48fe49893
+SHA1: 0d3302fb33c4d367222b55785a15a2a810797e1e
+SHA256: 27aeed21f958d34cd6dc5f0e3a01dbdc4ed3b64e2d864148afc5eff78d765f4f
+SHA512: bfd162debd0edd11dc4bf9c3efb0ccb47099390490c40668686399d1b6e596435eb148378cd1740a1baf530277b977437558c48724959fcbaece8d52f4031c67
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.5
+Installed-Size: 6016
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.5_iphoneos-arm64.deb
+Size: 1447448
+MD5sum: 82b8947b39cc37547bce44f153ee6731
+SHA1: 816ad743fc2e81df3d52fb34fa585fa36a72a527
+SHA256: 79a33aad61c7779c22a6686dd278070faa8b7f08338b70046c5c3402b4846ccf
+SHA512: 54eb09b3f55cdc77cae4fa92653f601568a0c0155a2c7a4a4016efd42f664b0ea6f9842d1480d9c25d68ef785a9c158eeba5ed8d54c391546f87d1bf80ab416c
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.5
+Installed-Size: 6016
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.5_iphoneos-arm64e.deb
+Size: 1446798
+MD5sum: 84bc76564a2166d54cd9928636f8e685
+SHA1: 1aa6abb8555c027fb56e8b860adcdfe1ca7ec20d
+SHA256: c35f186b7203367a6c3f2f41e4cc4f0732e22fc43a38988fdf6cfa4c2bec5cb3
+SHA512: 1306a1d8def518a1e582022988e3cb84b8cc8cc4eda4d1f166b66ce17561889675507c2d981fbecd04c94cb7a2a996def71a80293369b8036a356fc19be70301
 
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
