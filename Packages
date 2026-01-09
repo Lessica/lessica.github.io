@@ -4184,6 +4184,66 @@ SHA1: a9a5f4ad4dfd191812e13962d8fd87115f1bde30
 SHA256: 079eb4a0bc02c7169299a1b8e52e898c3cbc69595d23f02d667d917e9261cf45
 SHA512: fea7aad29e44a06ed465c66d07109f9e540298a4f42361855489e0a4a808b897a543fbdfdfa18ce3f3e1db21c67076602b2f0d8642dd8b174caa4335de1e26cf
 
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_3.1_iphoneos-arm.deb
+Size: 1489728
+MD5sum: 167f062910c1759ac2e5429cbe728a48
+SHA1: ec2c63c85ef63a8f68eac2f856388bed7aeeb537
+SHA256: 77ed4a1dda7b02e48a99a1073e8e7a1915f54d7df8b1fa22a9c310568afa591b
+SHA512: 733ccbf1338d178c0e48436cfe36378df1f676100f6c978449657c90066c0bf693f38bc3363b2a202b703bcac752cc8a468115d9923ac4994f04363e5156cf63
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_3.1_iphoneos-arm64.deb
+Size: 1489200
+MD5sum: ebb2e8840f17fe9a03c6befb6c68a16d
+SHA1: 313d54a61c98627344086924192025b2b9195c2b
+SHA256: 6dd3c62e1fe7a0d6683238046cf9ddb15293d859fc4e6147b5fb08527a967ee3
+SHA512: ffb3bf0a274be2fc3ad950b813e9bb0b56f0059afccb615927136eea8a1b58548f102b6d481558bb92d2cdf82f639753cc68b5a916fa6a7c92a25ecccbce50e1
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: downloads/com.82flex.trollvnc_3.1_iphoneos-arm64e.deb
+Size: 1488668
+MD5sum: c6207150d69cd5e040562cf3421ef6b9
+SHA1: 60d450b28e2f4b07d356790e5fcab05728698f71
+SHA256: 900938db05141df5174b5114449a76d025a295d071eccbbb249050459a34eaef
+SHA512: 0e888fb6e83b07f73504bb9c7a0585e8c919490c5072138e4ea577cd5081c6d656d960a8b39b6191b98c43a9d7172865bc827931e9b6000a0e49a0039033fe46
+
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
 Description: An awesome MobileSubstrate tweak!
