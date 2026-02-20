@@ -1058,6 +1058,66 @@ SHA1: 93210d768794e68b15f721c07eb6e2b6989931b0
 SHA256: 93b58cf8209d9feab1e6f8243c7b03936aca263181a2f65015e972007c71cee2
 SHA512: 39813f4404e65caff19cdd1e2bd8b761be216e4b1c1b3af6a590191a733a401b3e400fd1f626b0c1940050b0b6d49b1cf749d65ddd9591f664cd4465e0a40acc
 
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.4.3
+Installed-Size: 69868
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.4.3_iphoneos-arm.deb
+Size: 22191220
+MD5sum: 6112b955decc50404dced10a22915ecf
+SHA1: 2aaf0cde279e8eb1341fdcf30090f263970c5de1
+SHA256: c818ac7d55d68f43e36d6e849dec4f40a739eaaf03ade08ab90374cbafe57a6e
+SHA512: 3037b895660d5a74a95cea6a633411ea2c50c870ea84058c96cba89a251367b15fe4a89c39bbbbf1c1b15b9dc2e2e72d298eeaa03bb9210437634d44e0bf1178
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.4.3
+Installed-Size: 61632
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64.deb
+Size: 20344560
+MD5sum: 2ba2ffd1d5791f735b8568a896ad16cf
+SHA1: df6a6f6a157207084e62bf9007c9c4c74f2b256d
+SHA256: c4c627eee546aa73e6d632e1b3107f7750cbdd70802d6d4c20db802859c90a0c
+SHA512: 92d40f382361629267b777daf78266ab1b4c3aedfdc9d5ad23f7620f84d7a98078f1f225e3e492d9d5552a1088deb15a45b97c0af9193b47d14d066403bfa543
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.4.3
+Installed-Size: 61604
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: downloads/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64e.deb
+Size: 20342254
+MD5sum: 2789028f3df275d69fb700190ea9971f
+SHA1: 9078335d3dc77f4214bf6a44924448fd3082df99
+SHA256: 5dcc85ce4127ad465b15074dadc97430c5e76a3384f2e0d5952533dc63cae737
+SHA512: a8fa8b7cf59ac0bf1edbe9927fa7ac692b0ce5b063ff1886418433746da3bb0d2b7a76d35901f395297e41357bcb3d22bff81c25b6c854b7e172e046d12f43b5
+
 Package: codes.aurora.kayoko
 Name: Kayoko
 Description: Clipboard manager for iOS.
