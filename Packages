@@ -98,6 +98,66 @@ SHA1: 77546e0bab1e4eb263502554855548787d8d71f5
 SHA256: ace79d71eb227ad90feeb5fe854fca85ae78ee06a2ec6509e50fda8f09756cb1
 SHA512: f74d40a2180d158f74fb47d0f857a95ba80c37d397fcc9b0038a1e21936972fed5a61f53181dd2376f30dbd396518baac3ca733aa4ea503c902b9d88a1802a31
 
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: downloads/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm.deb
+Size: 163614
+MD5sum: 832a4a99dbbf496659acc32b393be77d
+SHA1: 047aeeb122566ed71d37aaff423664653696e84c
+SHA256: 0fbb3043af6ac23917518c869388bb221c1f26eca40ef6e25484cf4d932777a5
+SHA512: 0625ff006e7d9e13b9c418fb0ebc9e2e5ded9b7cf2394a53aa3bc4b6300ecb30d337c173637afe51d5b57320fdec524641dff322446599bbc2da76c047fe2bd4
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: downloads/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm64.deb
+Size: 163526
+MD5sum: 2a4098497d0d1198a4e4d1915004d555
+SHA1: f3886f45e59cdb4c3213ea0fe9a476c409058f82
+SHA256: bf72cec5838030da646cf7d6cb0a212702326a8c9baecc4f5a9999229a61da19
+SHA512: d8656f54b65cbac0af8cd46f2fe6daf9ba7d700111459b6c00ebb046fff2d29e44abd818478e65af69f08db6263533e8ab4b4d849b79f1350ace973086585519
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64e
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: downloads/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm64e.deb
+Size: 163420
+MD5sum: a41137a8d5135568a711e1fcb3f0cb6c
+SHA1: f9a419f319b26fc8145a6676bd0573be46e5a348
+SHA256: baf384c35e5495658baa9a77b3c8b2f012ee5f617961534a80de0a1be082b7ac
+SHA512: 9c15a37f2892225ab56cca68addeab2e3c010856f6777788d5fbbe5f66fc42e38e152687349056a5fdb70bed84779ff9a3f22f57cf58b00b9bab729bb98caed0
+
 Package: ch.xxtou.xxtouch
 Name: XXTouch Elite
 Section: Tweaks
