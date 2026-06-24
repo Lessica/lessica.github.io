@@ -1621,6 +1621,57 @@ SHA1: 5c5c5552817fe85726050f9821f40bffc39c7337
 SHA256: e4fc1c7d52fdfd4e9d7b6ceb326b391f08d8759e86224377a72c7a44f72af124
 SHA512: c073deb8fce28984042a47f6f4dfc55e21b1e624c5b6a916b6838e7a357fc5ca65b250f536007cd1cc37452838b15a20b6fea9f82249fb603da4e4e453437c7c
 
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 3.1
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_3.1_iphoneos-arm.deb
+Size: 132912
+MD5sum: 7486bb90864f59a6f99f62db332ec732
+SHA1: f9ee6d8b79fc79c37547c5263f73e657ff82c116
+SHA256: d8db323c0a6287230fdb8f493e85bbe16fd3b436076e368de124ee4740f0ee8d
+SHA512: 3764edc00ae27f6c8b37ec14e1324f2849ba9762c263aab03c2db00050d99f1b0e32b69b3d59b90d8e42103cdb8d0457bcc0a28da222cc303281a64ef895c22d
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 3.1
+Installed-Size: 952
+Filename: downloads/codes.aurora.kayoko_3.1_iphoneos-arm64.deb
+Size: 132918
+MD5sum: c871ce349efdf593e8f5b3082f50dd36
+SHA1: e1e9ab7ccf2548df105d2d5626bde37ffb32de9a
+SHA256: 99ba4b4515a53e3ba07618a16b9b41013b246749aace3d44108b0a7e2417b42e
+SHA512: fdf0fbeb2b80071575abbf86f78b8f6e39da45ef4c8be47c630341869273adfbebb238bb89a060fb03ce9e92b1a7a4b483f9f0d3751a08fd51586dc09ba2e2d2
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 3.1
+Installed-Size: 968
+Filename: downloads/codes.aurora.kayoko_3.1_iphoneos-arm64e.deb
+Size: 133462
+MD5sum: a8893aaf51679d22e51c7540b9a99dc7
+SHA1: a2ca3137b4282dd3314267f578bbbdea6da1f154
+SHA256: 17946812f63ed6b573189f747065f999199f212ef0063162b62e698f3d9cf8be
+SHA512: e9e11ba580e7bf4a5b666383f8395199ff7dcdb24f7bc96b8bc1576d40849e0dc097a1bc1ad9c8f6a055fb548b0546b10c394209866be5945e5aed53e6e314ef
+
 Package: com.82flex.amlyrics
 Name: AMLyrics
 Description: Dump lyrics from Apple Music.
@@ -4723,6 +4774,108 @@ MD5sum: 1fdc2b1a45bae1963bfc9f739eb22ace
 SHA1: 64ebd0444b3ebb8a082b5b91c9c683159f5874e6
 SHA256: 11e70ac68919285b82450c16008c788d28636edb65538ecfccea12d8642db4a2
 SHA512: ab587620b71b54d87f59c425da583ea2f0af8b0647994d46bf6d2a641a552a24ac5d13b5ab2b54b2a7cf2b9f1cbd66bd313773241a71bcdf7f853cb1c2723993
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.1_iphoneos-arm-legacy.deb
+Size: 42580
+MD5sum: 32eb4403ed75b50ceb5b87ba8a2b83b2
+SHA1: 0119ba3d304002bc244db611a62837501a592048
+SHA256: a977a13d671c4dd03a772a7efe280d51c40f397c6ca9a2583673e9a0af841030
+SHA512: 5eb3f93106642f050425232a0a866de29c11e463b164578e19a4fd81d7655183c75b6789dccf8b20112b031073068ad2df689f9fd364bb25ba0daa091104f214
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.1_iphoneos-arm64-rootless.deb
+Size: 42650
+MD5sum: 992884f16343c89e62c6b0c8c1070cff
+SHA1: 9ee7623485ffe2e0798bbdfd714119c65ff34230
+SHA256: a838abe6f6f852fcf04d704dc5c50ae1ba50d0114c0b1a1d08097e90cdedbc93
+SHA512: f4ae34c5708f65479aee8135a4c0efc3eef28c4c4991f09bc46aa338ba9d41d7a975531128117d4fde7bec4e9b4ee1f828348bcd2769f93fb1ce96d0e5f68e4f
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.1_iphoneos-arm64e-roothide.deb
+Size: 42592
+MD5sum: 3525c30ecddce48242ab00bddc49ed33
+SHA1: 90747d792b004f2c878f9b0bd6522ce03dcfcf4d
+SHA256: 87be5caea4adc3f789eac8e19c3fd1f2c5d9e361786c2f0d0321a08c3794d23e
+SHA512: 4cf7c92b6b59f59c2fa839dbe26ae37398bed625fdb82c4d949ed8d293c7e68c9fa6bd3673cfffbe65c91a1cbc309d3b5986589ec40407fa818e8a1501ff749b
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.2_iphoneos-arm.deb
+Size: 43242
+MD5sum: 82b6a9d1ee5ca4a780fdd6552a43f3b2
+SHA1: e2c1534b9496d651317a097168f3f74b2e181d70
+SHA256: 9ad3757d3fee4c2bf8e1e8967e29179c54051eb51b2ba9e65b8b82ed0bd02ddf
+SHA512: b309df87148538432721ee67e6fdefe2f8621d82f6b985a0b246ab757499d09bb5f5867d50e2731e22200d649be8224e8cb6e59cb275c6b6a36aa733659a9976
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.2_iphoneos-arm64.deb
+Size: 43304
+MD5sum: e2c554b14db98ffea55847fc0387d548
+SHA1: 05d8308d837c1265e6961af2c40f8bb7228ca475
+SHA256: e3cbccc4d7a3a1d376338215d1d56ad1925461564735915c120b746bb45a4d90
+SHA512: dfd59235d079f2b7efe08d6e1328ecf5d49c66b706943161f52a0bf84b77d3337ee431300994479ea67fa482ae397775566945b7d80c349d5a87c43644c22f5c
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.2_iphoneos-arm64e.deb
+Size: 43246
+MD5sum: e563adf49ed08d3b0372fa0a6cb1064a
+SHA1: a3bbdb0211cf38c04575787e54a14eb572756445
+SHA256: f697bfe8d49e367f4ce84f8daffc7569c589cb9b41ccd347efad0b8ef508664c
+SHA512: 00e1f7b11278583a70181afbc0f1fea0eda1684b613a66f4015d644cef32c408d557edf53006efb75baa7307d30748356b9ea86da7e45f73b4cb205f7c558f58
 
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
