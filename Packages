@@ -1672,6 +1672,57 @@ SHA1: a2ca3137b4282dd3314267f578bbbdea6da1f154
 SHA256: 17946812f63ed6b573189f747065f999199f212ef0063162b62e698f3d9cf8be
 SHA512: e9e11ba580e7bf4a5b666383f8395199ff7dcdb24f7bc96b8bc1576d40849e0dc097a1bc1ad9c8f6a055fb548b0546b10c394209866be5945e5aed53e6e314ef
 
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 3.2
+Installed-Size: 1088
+Filename: downloads/codes.aurora.kayoko_3.2_iphoneos-arm.deb
+Size: 156394
+MD5sum: c9cbbac57c7570147f3ac32766415eb7
+SHA1: 0f0b35bc7c8d94d56e408fad99d7740424253ed3
+SHA256: 5fcbee240b356d81d608dff6b92f4cbcc8eec7e8cabebd685011fb029b6e4904
+SHA512: fb8a6a0f8c092838956c4276ce26d769fcbcc7927438b8aab76fe31988e45f1864773eb27c1cb12b4a53ce8e38a7e29274239d136f6a764b9cf1cd1fb30d8332
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 3.2
+Installed-Size: 1088
+Filename: downloads/codes.aurora.kayoko_3.2_iphoneos-arm64.deb
+Size: 156240
+MD5sum: 7a6c01aefe1bbfcd9b51ecc08f533df7
+SHA1: 3ed497463522c881cb9f52cb53468dc2262f94f1
+SHA256: 796e8d8550db6989a84b19a78d6f4c5054f9dbbcb815cf85dc6bc73e4a629750
+SHA512: f23eb3750b88d57834c19869d80dda854192707fb84efc31f2584a45ea22a835ea9d93c9e2aecf213faf9ec43f53e157c4966c6c7b88602c181ce2c93200de6f
+
+Package: codes.aurora.kayoko
+Name: Kayoko
+Description: Clipboard manager for iOS.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 3.2
+Installed-Size: 1088
+Filename: downloads/codes.aurora.kayoko_3.2_iphoneos-arm64e.deb
+Size: 156326
+MD5sum: 271a179a7c63a84f995e111e0758c919
+SHA1: be476235a0107380174e4f2317e9fba43ae01d3d
+SHA256: 18876b172868987004ca871071f439bc4b06e85454c766598f14d18f0ac59e44
+SHA512: b1e5a9b888320f219509b222ca781b60e2742556fdbef160f215d831caeb4db373289e44642ecbe77de4732ed434c7a6e810e0db223f3373567eab8931dadcf9
+
 Package: com.82flex.amlyrics
 Name: AMLyrics
 Description: Dump lyrics from Apple Music.
