@@ -2123,6 +2123,66 @@ SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
 SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
 SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543ceaf5936253fa5f65a95b818c8fd0fefbc4e1219d73021c734d9f8ce0
 
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 3.3
+Installed-Size: 1124
+Filename: downloads/com.82flex.kayoko_3.3_iphoneos-arm.deb
+Size: 205826
+MD5sum: dd6383ca0a1b1ff4b965115245f6973a
+SHA1: df98da3d3b64c2b94ff08503fd2307f7f395f0dc
+SHA256: ef87bfd3f4cb65ae5b6e8e5d5bd9eb14984596b537801760d282275c55ac6820
+SHA512: 04228aef6732e05ca69cc2345d11c38097d35280b7600b3aa88768ddc8c229d3b67aceb2e745320a85a9142a9fbf2af48fa6c3fce196b25e4417a9ae4eb37d73
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 3.3
+Installed-Size: 1124
+Filename: downloads/com.82flex.kayoko_3.3_iphoneos-arm64.deb
+Size: 205482
+MD5sum: 85139499dac7883465a5503741e9a8f6
+SHA1: c890e44d0514dfbf7afac36848ba13f94af527ca
+SHA256: e2472c63f09ed90af5fb614f99d18aa3a1e596d4741a0894f08a04fc71380f60
+SHA512: ce252851fcb0aeb3c1cd01731a3fde88483b3c81d06ec4d800abb57f61689fbc48b8a839057652fe1a123a88ed3225731951c724cbddd800f027d29aba8e6113
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 3.3
+Installed-Size: 1124
+Filename: downloads/com.82flex.kayoko_3.3_iphoneos-arm64e.deb
+Size: 205678
+MD5sum: 83b27943b29ed46a1f6a34f362c6bda0
+SHA1: 83ea9413727025604c3b3443539027c5dac3e5e4
+SHA256: 4d9a1765dc70b5ae46d5fb2837fb7ab8cb7fe2f0fd58ba5eba79e26501e69093
+SHA512: 812c8abf4b7f307d82b96ba099a555d2b1dfdd93526d46d9138453d8071086e6706c57de4dc5680560be8497b5da0fd3172bd25f5fb989b243795105e540e4bb
+
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
 Depends: com.opa334.libsandy
