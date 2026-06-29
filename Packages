@@ -3686,6 +3686,66 @@ SHA1: e18705ff3529912715d472ea30e0a780ef89f1e5
 SHA256: 1c3e1104de01a9d3c703810496e3338d3d0ead8dde82d428526a38e21fc23443
 SHA512: 6107197be8846f402abcb44fc03f351b3e3c1a62d9e26a25b38d35359a1f6ac86b3628d3eb5ccf9ea3d763ee6512ffa0182093d25d9f5e87b115d34ed1b314cc
 
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 4.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1_iphoneos-arm.deb
+Size: 939984
+MD5sum: 3cb42fefd935471edc78807ad54d1862
+SHA1: ed98b7d4b3861f667d79ada283251d65d1c16b61
+SHA256: 9c5b734a485643ff27633aa50946d5708edfafebe5ff106fa0a53c65e15b67b7
+SHA512: 2d196666f4709267b4fe255d30681c34241d30ec78b01a0a0741f672e83ca91b581d0eadd84d5d899d693ccebf89729a9e4e35422019dd0569e3dc941402a7a5
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1_iphoneos-arm64.deb
+Size: 938820
+MD5sum: 8cd1167b640a1448881fb2f4be663cd9
+SHA1: bcfe12752bd08f98c5f0bd77558f8d3687c52eea
+SHA256: e5bc556f870a0ac80af457d327fbd40a30d530f253540ad058c2d2fe4197e0b2
+SHA512: aeaeff218a64b7d9a00dc561769c68f9d7f816af1cf365e35cf486548e15c3be29e273d067a27ae8dd225f259ae5c34513f4296076b9acd24487bfd4d02df049
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1_iphoneos-arm64e.deb
+Size: 939680
+MD5sum: 20d998332056fee1aa76badcf6e93448
+SHA1: 678abb7b9bea3b36c59552173de1d43170d48116
+SHA256: d1500a44d6b97ec9357defd52718817d4251bbbc52431a792f06f6e7cc92bae0
+SHA512: 4f55819a3c9ff189ebb8b8b27569c508d56cacd9c862a8d3fd480e25f284c33e2b49f0e97161dad7061884db894f84116e2db148004db979161d18ced4cf9f03
+
 Package: com.82flex.trollvnc
 Name: TrollVNC
 Section: Networking
