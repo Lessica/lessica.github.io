@@ -2183,6 +2183,66 @@ SHA1: 83ea9413727025604c3b3443539027c5dac3e5e4
 SHA256: 4d9a1765dc70b5ae46d5fb2837fb7ab8cb7fe2f0fd58ba5eba79e26501e69093
 SHA512: 812c8abf4b7f307d82b96ba099a555d2b1dfdd93526d46d9138453d8071086e6706c57de4dc5680560be8497b5da0fd3172bd25f5fb989b243795105e540e4bb
 
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 4.0
+Installed-Size: 1528
+Filename: downloads/com.82flex.kayoko_4.0_iphoneos-arm.deb
+Size: 263588
+MD5sum: d20dce4a8fa947e78bed42a50a16047b
+SHA1: 1268c4fc1c006fea99dea8d6617d86125312243d
+SHA256: 5464172ed288971587cc79db107279c9fbfd0b4b27afd3df626b5b2e4455d5bf
+SHA512: 57a40662fa67d8768fad2f9d64d6c2361f06031e01ed17d72cda33aab45128809662f80bed186bc1bd81a206a9193c37ea98931e2ff69f85047d0614ef5acbe5
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.0
+Installed-Size: 1528
+Filename: downloads/com.82flex.kayoko_4.0_iphoneos-arm64.deb
+Size: 263266
+MD5sum: 010e1f68c687b4ea4afffc747359a48c
+SHA1: 21ab2744907217bf4f83802c316428ab205e5802
+SHA256: e9e2da6f41ae3a4470b4a7d4ee44c23b0e74349ca6a679662ad901a495ffbeb1
+SHA512: 9e1f6f9ff7c2acebc3d480858b79d19e7598fc5dfb5040f49bc0deaeb47cc7ff8f25972f8918fe94dc6e1a46038180b7b60dfe8fc2e9a5e9ac00afa15266c3ab
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Replaces: codes.aurora.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.0
+Installed-Size: 1528
+Filename: downloads/com.82flex.kayoko_4.0_iphoneos-arm64e.deb
+Size: 259682
+MD5sum: 41567b71064dc450a202cb9ef22d03a5
+SHA1: a30cc603f958b09fac2b0381f2d82472c835c200
+SHA256: e3a4545d3461af6592325d71d364fc4aaf6b1fe1732203d274ebaf778e4ad649
+SHA512: c322ee6abd5c633abc52bac0f06d987a49b87bed854bc8fe89a4f5bfe24099a22414a1ce951b885d00e80b9805919c373631aff66381af3216247e0e0dfa76cf
+
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
 Depends: com.opa334.libsandy
@@ -7077,6 +7137,66 @@ MD5sum: 9ea84fe740b3380ad188743bf38044c7
 SHA1: 6eaf0e835d6dbd979d2e51c43c835a3d3658dd38
 SHA256: 1b6ba09b706a2e80930982ebf9bcb1487bf9c47dcb0ab20615997fe704f4d761
 SHA512: f4a3e69830566d0a715940eb07e0ebc25fd25d4446d8c4f924d7ff9dd7920aa258357355e4eb008630b513e9f55d20884a3ad4cbaef1a3cc1c0c8e5214117bfc
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm.deb
+Size: 1476810
+MD5sum: 6663d8e373dade779cdefbb3f639aea7
+SHA1: ed26b92999e6b23af0becc3533f33fb3175ff3b2
+SHA256: 3f6a17f635e8a33a2ff49ad4233ab1b7b32ac527823846d97e47936b1123f794
+SHA512: 8cf33ae667934075ce27d3104a7da00ec2d33a7e473f641a572bc068db982b8727a95a2f3ff136936bfdebf3389b4834fe48d135fb8222f1f81adda94770d415
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm64.deb
+Size: 1474316
+MD5sum: 0711eb82738688edb819064532780b5b
+SHA1: 03b863495559e140f670eb7ac2d019cdfd3ccb65
+SHA256: ca90e4787452e8749135eebe3f23a86aa949cc8b6cd5d824e1d95a1c5dd91a03
+SHA512: 2fd6c0a05e8ea33a2c758c0d8056a2aed624d76e70f8538458bc86f6d8552b4c9bf50fc20b0658e60897704486779c0343735fc7e3c3f9d3c88a9cdaa55209d4
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm64e.deb
+Size: 1477522
+MD5sum: 90f0d0cf0ac3bf25edcbffb2e91a319b
+SHA1: 425eb3303a277e0efe2b3f2daca0aaa2f5f955eb
+SHA256: a2880ac39829d2124c52df8a4e6ba0b74ae6220c3a2b5fed76f34bc13ca6b31b
+SHA512: 60ebd0fda1d656536d21f48f2c6b93ec0783f6422814d162c4639377e8fe7799b2bc0b2af9b9c0b0f5c8ed0267bedc8f6dff462335f810b7b74d2d8bcacb6de5
 
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
