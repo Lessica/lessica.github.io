@@ -2546,6 +2546,66 @@ SHA512: 94c98960ea8f85f6978a40c4218385cfd774190f98c3fdac2b8e64a9f0819c55dfb3306e
 Package: com.82flex.kayoko
 Name: Kayoko
 Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 4.0.7
+Installed-Size: 1796
+Filename: downloads/com.82flex.kayoko_4.0.7_iphoneos-arm.deb
+Size: 327580
+MD5sum: 7a543809ce01516bff8194f84a6ef96f
+SHA1: ffc29908e339def3b17bdba895210d014552d133
+SHA256: 83ca2ac3a5f7c9b50ae5b6a410d18d6babc554a9f4de64d9f6cb5198069a824f
+SHA512: 3caca31f5345f545c4b64b885eaa425e1e49d503aeba759bb3d641d3fcc8f97b92129147fe961722604526ab9d37ca0fcd74eed9a21b76affd2dca0ff0304a86
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.0.7
+Installed-Size: 1796
+Filename: downloads/com.82flex.kayoko_4.0.7_iphoneos-arm64.deb
+Size: 328302
+MD5sum: 51ffd76d3cd94f5b6097f40dbe99b170
+SHA1: f9978187194f2b97cf13f16ee7b11a10e8340817
+SHA256: 63f33d10b8081eb9ed44942512ec4d63736334ec124685393dedeadc9bb8a06c
+SHA512: 11288d38a8ba8c6acebdcfb943add01a50bb73f25d97d002d5417f2cf357e47729bbce8f2d094755dbe79db0334c74790821dd4e015b06868669cd1a3c07e8b7
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.0.7
+Installed-Size: 1776
+Filename: downloads/com.82flex.kayoko_4.0.7_iphoneos-arm64e.deb
+Size: 325112
+MD5sum: c0b796e26fba54d79f999af703ef3cdc
+SHA1: 1ac7c24f6b77005b682cb8f7979383ee54fc0568
+SHA256: 087dbec63fb2aad668a9afa855f3634ddd662ae65fc1d8af4c441d148d097572
+SHA512: 5a0a220149029cc5d57121a7a0064e03dd5a0e61b651234c7857a0e73da14b62eeba8738669f01abc964e9d315839c2059073b59cf0af4404351cbc9c4353364
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica
 Section: Tweaks
