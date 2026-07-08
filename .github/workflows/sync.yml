@@ -91,22 +91,24 @@ jobs:
     - name: Push changes (full)
       if: success() && !inputs.sparse_checkout
       run: |
-        if git diff --quiet Packages; then
-          echo "No changes in Packages file."
+        git add .
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
         else
-          git add .
-          git commit -sS -am "update dists"
+          git commit -sS -m "update dists"
           git push
         fi
 
     - name: Push changes (sparse)
       if: success() && inputs.sparse_checkout
       run: |
-        if git diff --quiet Packages; then
-          echo "No changes in Packages file."
-        else
-          git add icons Packages Packages.* Release
+        git add icons Packages Packages.* Release
+        if [ -d downloads ]; then
           git add --sparse downloads
-          git commit -sS -am "update dists"
+        fi
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -sS -m "update dists"
           git push
         fi

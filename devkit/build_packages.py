@@ -51,30 +51,38 @@ def get_file_hashes(file_path):
     return hashes
 
 
-def get_newly_added_deb_files():
-    """获取此次提交新增的 deb 文件"""
+def get_changed_deb_files():
+    """获取此次提交新增或已修改的 deb 文件"""
     try:
-        # 获取已暂存的新文件
-        result = subprocess.run(['git', 'diff', '--cached', '--name-only', '--diff-filter=A'], 
+        # 获取已暂存的新增或修改文件
+        result = subprocess.run(['git', 'diff', '--cached', '--name-only', '--diff-filter=AM', '--', 'downloads/'],
                                capture_output=True, text=True, check=True)
         staged_files = result.stdout.strip().split('\n') if result.stdout.strip() else []
-        
-        # 获取工作区新增的文件  
+
+        # 获取工作区已修改的跟踪文件
+        result = subprocess.run(['git', 'diff', '--name-only', '--diff-filter=M', '--', 'downloads/'],
+                               capture_output=True, text=True, check=True)
+        modified_files = result.stdout.strip().split('\n') if result.stdout.strip() else []
+
+        # 获取工作区新增的文件
         result = subprocess.run(['git', 'ls-files', '--others', '--exclude-standard'], 
                                capture_output=True, text=True, check=True)
         untracked_files = result.stdout.strip().split('\n') if result.stdout.strip() else []
-        
+
         # 合并并过滤 deb 文件
-        all_new_files = staged_files + untracked_files
-        deb_files = [f for f in all_new_files if f.endswith('.deb') and f.startswith('downloads/')]
-        
-        print(Fore.CYAN + f"Found {len(deb_files)} newly added deb files")
+        changed_files = staged_files + modified_files + untracked_files
+        deb_files = sorted({
+            f for f in changed_files
+            if f.endswith('.deb') and f.startswith('downloads/')
+        })
+
+        print(Fore.CYAN + f"Found {len(deb_files)} changed deb files")
         for deb_file in deb_files:
             print(Style.DIM + f"  - {deb_file}")
-            
+
         return deb_files
     except subprocess.CalledProcessError as e:
-        print(Fore.RED + f"Error getting newly added files: {e}")
+        print(Fore.RED + f"Error getting changed files: {e}")
         return []
 
 
@@ -206,21 +214,21 @@ def generate_packages_file(deb_directory, output_file):
 
 def merge_packages_file(output_file):
     """在 sparse-checkout 模式下合并新包到现有的 Packages 文件"""
-    # 获取新增的 deb 文件
-    new_deb_files = get_newly_added_deb_files()
-    if not new_deb_files:
-        print(Fore.YELLOW + "No new deb files to process")
+    # 获取新增或修改的 deb 文件
+    changed_deb_files = get_changed_deb_files()
+    if not changed_deb_files:
+        print(Fore.YELLOW + "No changed deb files to process")
         return
     
     # 解析现有的 Packages 文件
     existing_packages = parse_existing_packages(output_file)
     print(Fore.CYAN + f"Found {len(existing_packages)} existing package entries")
     
-    # 处理新的 deb 文件
+    # 处理新增或修改的 deb 文件
     new_packages = {}
     updated_filenames = set()  # 记录所有新处理的文件名
-    
-    for deb_file in new_deb_files:
+
+    for deb_file in changed_deb_files:
         if os.path.exists(deb_file):  # 确保文件存在
             package_key, package_info, filename = process_single_deb_file(deb_file)
             if package_key and package_info:
