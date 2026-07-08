@@ -2795,13 +2795,13 @@ Replaces: codes.aurora.kayoko, dev.traurige.kayoko
 Homepage: https://github.com/OwnGoalStudio/Kayoko
 Architecture: iphoneos-arm
 Version: 4.2
-Installed-Size: 2588
+Installed-Size: 2652
 Filename: downloads/com.82flex.kayoko_4.2_iphoneos-arm.deb
-Size: 488468
-MD5sum: 41fd2de4c3ab2bce4701c6d4072150ee
-SHA1: 5ec121bd37ec13d08492490cfc3a5a4e9f00fcdd
-SHA256: 69c4de98b711f194f2ecac93be4c4de0faa8d03f145644f54dcf56515e13102b
-SHA512: 95c583237ae06eb914ba0571b6bb4b70ff284cc6ff2610560300232202715cd04caf028a36f93f34c3fb537c2c30c65115180246861f562c15a9072da3a5d846
+Size: 497984
+MD5sum: a6bd8c61c67b5141e7c359d1b7f06e32
+SHA1: eb3f9848669faf5b89dbe324fa9b0fc2a7a022ce
+SHA256: 07e4e822ec28491098deee843166e2e6d0d18dc54d4d75d29ba4ef69500ef2bd
+SHA512: 7244bf32570bc12465515f9dcc6c9ef0af9e317f2292eae87f928caba7457be12791ab5624c39d8ad8cefe99b12a303df2a25f3a1416a97ff638c8d23de3e5f0
 
 Package: com.82flex.kayoko
 Name: Kayoko
@@ -2815,13 +2815,13 @@ Replaces: codes.aurora.kayoko, dev.traurige.kayoko
 Homepage: https://github.com/OwnGoalStudio/Kayoko
 Architecture: iphoneos-arm64
 Version: 4.2
-Installed-Size: 2588
+Installed-Size: 2652
 Filename: downloads/com.82flex.kayoko_4.2_iphoneos-arm64.deb
-Size: 488590
-MD5sum: 22a4dcf8a5b0cb835d8936a4a1b7e173
-SHA1: 778bbc69a67003667fe1f6f4947c90e4960b06fc
-SHA256: 46a2a1415882c6ae6b53149459f314ffef45c740a39ed9e0c61f98ea9b57a0b5
-SHA512: 5136c16de6dc7190d7ac6c3e00116a0c35aed810770cbdfbc7f79763c9cfe5f5372cfb4fccc3d30bd8f60715c7d94848edf4b23f1844ec978a7d7649ec751492
+Size: 496994
+MD5sum: 2122ad814bd7a508d540ca1f2b16d51d
+SHA1: 323b23068c3c4cf57398ea53a8b150b5820ed77b
+SHA256: cebde936ea0ceada6e939ac830aa5697fa828177363e51a8c457ff0176ffe5dd
+SHA512: c70937bc4efb36fdbdf900b66b562065a4fc6eaf36f439b8c31f6f326514cf14bae6e10d14421ffbbd4eacbf52dcb1b9068ff9e27521d26e3bdb74f7780b359e
 
 Package: com.82flex.kayoko
 Name: Kayoko
@@ -2835,13 +2835,13 @@ Replaces: codes.aurora.kayoko, dev.traurige.kayoko
 Homepage: https://github.com/OwnGoalStudio/Kayoko
 Architecture: iphoneos-arm64e
 Version: 4.2
-Installed-Size: 2584
+Installed-Size: 2632
 Filename: downloads/com.82flex.kayoko_4.2_iphoneos-arm64e.deb
-Size: 488710
-MD5sum: e3e20cf143cb1910d280af5fa95635f4
-SHA1: 43025c4e4ce6d0aa551070ce04169e03f11a8448
-SHA256: 29cc024d4c7386d23c69fb3a3f483e26ba2d40228eeddb5da883f4e315553300
-SHA512: 51b97fcca41ca012de28e0c8a011d6cf4f34cbf83afb3bd817dae41a2476ab43d3ae7bfee2c44978364313ec1ed2577b5222f9f4c80c81ee200947caf4bb9ca5
+Size: 495236
+MD5sum: cf31a47a3f37150a3ed8312583da3a39
+SHA1: c185161c300b74b43c7a6c697b3726cbcc5bed82
+SHA256: d797a386ac95d121ad2583e6c2db96b082569e53bc784178ae4199f39b494991
+SHA512: fd3ce216650a6148cec41150fd15586be2b5c524b97dc682ffa93eae88b5c9122aa6a27325ed03b7ab9d5423e597f2b70431d81e286756c839d26ea4461c4997
 
 Package: com.82flex.libsandyxpc
 Name: libSandyXpc
