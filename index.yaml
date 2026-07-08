@@ -14,11 +14,11 @@ repos:
   - "https://github.com/OwnGoalStudio/SingleVPN"
   - "https://github.com/OwnGoalStudio/SingleMute"
   - "https://github.com/Lessica/XcodeRootDebug"
-  - "https://github.com/Lessica/socpowerbud"
-  - "https://github.com/Lessica/memory_pressure"
-  - "https://github.com/Lessica/objsee-ios"
-  - "https://github.com/Lessica/RocketBootstrap"
-  - "https://github.com/Lessica/SandyXpc"
+  # - "https://github.com/Lessica/socpowerbud"
+  # - "https://github.com/Lessica/memory_pressure"
+  # - "https://github.com/Lessica/objsee-ios"
+  # - "https://github.com/Lessica/RocketBootstrap"
+  # - "https://github.com/Lessica/SandyXpc"
   - "https://github.com/OwnGoalStudio/XXTouchElite"
   - "https://github.com/OwnGoalStudio/Rose"
   - "https://github.com/OwnGoalStudio/OhMyInsets"
@@ -26,7 +26,7 @@ repos:
   - "https://github.com/OwnGoalStudio/DayNightSwitch"
   - "https://github.com/Lessica/XcodeAnyTroll"
   - "https://github.com/Lessica/XcodeAnyDebug"
-  - "https://github.com/Lessica/AMLyrics"
+  # - "https://github.com/Lessica/AMLyrics"
   # - "https://github.com/Lessica/swift-protobuf"
   # - "https://github.com/Lessica/EeveeSpotify"
   # - "https://github.com/Lessica/YTMusicUltimate"
@@ -50,6 +50,7 @@ havoc-mappings:
   wiki.qaq.writenow: writenow
   ch.xxtou.xxtouch: xxtouchelite
   com.82flex.trollvnc: trollvncjb
+  com.82flex.kayoko: kayoko
 
 package-title-mappings:
   wiki.qaq.colorfulwallpaperx: Colorful Wallpaper X

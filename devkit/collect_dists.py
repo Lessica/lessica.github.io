@@ -3,6 +3,7 @@
 import os
 import sys
 import subprocess
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 import yaml
 from colorama import init, Fore, Style
@@ -17,6 +18,8 @@ if not GITHUB_TOKEN:
 
 # 检查是否使用 sparse-checkout 模式
 SPARSE_CHECKOUT = os.getenv('SPARSE_CHECKOUT', 'false').lower() == 'true'
+GITHUB_RELEASES_PER_PAGE = 20
+GITHUB_RELEASE_FETCH_WORKERS = 4
 
 # 缓存从 Packages 文件中读取的文件大小信息
 _packages_file_sizes_cache = None
@@ -195,16 +198,43 @@ def download_repo_manifests(repo_url):
     download_file(manifests_url, f'.cache/{repo_host}')
 
 
-def download_deb_files_from_repo(repo_url):
-    repo_name = '/'.join(repo_url.split('/')[-2:])
-    releases_url = f'https://api.github.com/repos/{repo_name}/releases?per_page=100'
+def repo_name_from_url(repo_url):
+    return '/'.join(repo_url.split('/')[-2:])
+
+
+def fetch_releases_from_repo(repo_url):
+    repo_name = repo_name_from_url(repo_url)
+    releases_url = f'https://api.github.com/repos/{repo_name}/releases'
+    print(Fore.CYAN +
+          f"[{repo_name}] Fetching release metadata...", file=sys.stderr)
     response = requests.get(releases_url, headers={
         'Authorization': f'token {GITHUB_TOKEN}',
         'Accept': 'application/vnd.github.v3+json'
-    }, timeout=30)
+    }, params={'per_page': GITHUB_RELEASES_PER_PAGE}, timeout=30)
     response.raise_for_status()
-    releases = response.json()
+    return repo_url, repo_name, response.json()
 
+
+def fetch_releases_from_repos(repo_urls):
+    releases_by_repo = {}
+    if not repo_urls:
+        return releases_by_repo
+
+    max_workers = min(GITHUB_RELEASE_FETCH_WORKERS, len(repo_urls))
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_repo = {
+            executor.submit(fetch_releases_from_repo, repo_url): repo_url
+            for repo_url in repo_urls
+        }
+        for future in as_completed(future_to_repo):
+            repo_url, repo_name, releases = future.result()
+            releases_by_repo[repo_url] = (repo_name, releases)
+
+    return releases_by_repo
+
+
+def download_deb_files_from_releases(repo_name, releases):
     for release in releases:
         for asset in release['assets']:
             if asset['name'].endswith('.deb'):
@@ -216,8 +246,10 @@ def download_deb_files_from_repo(repo_url):
 
 def main():
     download_repo_manifests('https://havoc.app')
+    releases_by_repo = fetch_releases_from_repos(repos)
     for repo in repos:
-        download_deb_files_from_repo(repo)
+        repo_name, releases = releases_by_repo[repo]
+        download_deb_files_from_releases(repo_name, releases)
 
     print(Fore.GREEN + "Operation completed successfully.", file=sys.stderr)
 

@@ -3,6 +3,7 @@
 import re
 import subprocess
 import gzip
+import os
 import sys
 import requests
 import yaml
@@ -16,6 +17,13 @@ havoc_ids = {}
 with open('index.yaml', 'r', encoding='utf-8') as file:
     data = yaml.safe_load(file)
     havoc_ids = data['havoc-mappings']
+
+existing_icon_mappings = {}
+try:
+    with open('icons/index.yaml', 'r', encoding='utf-8') as file:
+        existing_icon_mappings = yaml.safe_load(file) or {}
+except FileNotFoundError:
+    pass
 
 
 def compare_version_gt(ver1, ver2):
@@ -50,24 +58,39 @@ def main():
             havoc_icons[package_name] = icon_url.group(1)
     print(f'Found {len(havoc_icons)} icons.', file=sys.stderr)
     for key, url in havoc_icons.items():
+        existing_icon_name = existing_icon_mappings.get(key)
+        expected_prefix = url.split("/")[-1] + "."
+        if (existing_icon_name and existing_icon_name.startswith(expected_prefix) and
+                os.path.exists(f'icons/{existing_icon_name}')):
+            havoc_icons[key] = existing_icon_name
+            print(Fore.YELLOW +
+                  f'icons/{existing_icon_name} already exists, skipping download.',
+                  file=sys.stderr)
+            continue
+
         print(Fore.CYAN + f'Downloading {url}...', file=sys.stderr)
         response = requests.get(url, timeout=30)
         response.raise_for_status()
         suffix = ''
-        if response.headers['Content-Type'] == 'image/png':
+        content_type = response.headers.get('Content-Type', '').split(';', 1)[0].lower()
+        if content_type == 'image/png':
             suffix = '.png'
-        elif response.headers['Content-Type'] == 'image/jpeg':
+        elif content_type == 'image/jpeg':
             suffix = '.jpg'
         else:
-            print(Fore.YELLOW + f'Unsupported image format: {response.headers["Content-Type"]}',
+            print(Fore.YELLOW + f'Unsupported image format: {response.headers.get("Content-Type", "")}',
                   file=sys.stderr)
             continue
         icon_name = url.split("/")[-1] + suffix
+        os.makedirs('icons', exist_ok=True)
         with open(f'icons/{icon_name}', 'wb') as f:
             f.write(response.content)
         havoc_icons[key] = icon_name
         print(Fore.GREEN +
               f'Saved to icons/{icon_name}', file=sys.stderr)
+    if havoc_icons == existing_icon_mappings:
+        print(Fore.GREEN + 'No icon changes.', file=sys.stderr)
+        return
     print(Fore.CYAN + 'Writing index.yaml...', file=sys.stderr)
     with open('icons/index.yaml', 'w', encoding='utf-8') as f:
         yaml.dump(havoc_icons, f, allow_unicode=True)

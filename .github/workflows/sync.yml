@@ -42,12 +42,13 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: 3.12
+        cache: pip
+        cache-dependency-path: requirements.txt
 
     - name: Install dependencies
       run: |
         python -m venv .venv
         source .venv/bin/activate
-        pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Collect distributions
