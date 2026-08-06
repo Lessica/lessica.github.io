@@ -8203,6 +8203,66 @@ SHA1: 425eb3303a277e0efe2b3f2daca0aaa2f5f955eb
 SHA256: a2880ac39829d2124c52df8a4e6ba0b74ae6220c3a2b5fed76f34bc13ca6b31b
 SHA512: 60ebd0fda1d656536d21f48f2c6b93ec0783f6422814d162c4639377e8fe7799b2bc0b2af9b9c0b0f5c8ed0267bedc8f6dff462335f810b7b74d2d8bcacb6de5
 
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm.deb
+Size: 1475982
+MD5sum: 35633a81857ed30cc84372be6b26b48a
+SHA1: fc9388e288a8577a7a275bcaa46f00bffe39d9fa
+SHA256: 077c00650d8b7a398c73a146656e7fed7e0d029bc8369a65a27126577547d843
+SHA512: 5f633e91ce283687c20f2f881039247ce33544cefc5ad3d0df2941f278f87c596c46f82f804219fdc7c746895040440c78695963064b056cdb13f5e56816fdea
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm64.deb
+Size: 1477500
+MD5sum: bef8458a2fbd8ec03bbd61cf6e40ca73
+SHA1: 9244fa506fa511432b31ab9f39e5f995f35ad7e6
+SHA256: 43c84985476c9cd98d733ef0367a29375b3538f79a300d011b94fb0ee8a80a45
+SHA512: 1494e57cdf4a76c8146d204a91d11dc8a4af878af1d55caadd833e800a3ab5e968aad0c210374a7242cc5d8279f62a927c00b7c4f60e9122b4561b1b04233651
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm64e.deb
+Size: 1473144
+MD5sum: ee8d3a5cbb5bbc52135c59046c48b061
+SHA1: 6af406242521cf6a4bacd7688f86f0d455635c81
+SHA256: 8a56626092337c69409db7736ab42edbb1d373c3196173838a7d961ea63fb7c0
+SHA512: 4288c251a893a2b1a655ad9fe8fc69087d9043f5d91893fb3dd270f4b8a14d9f3ddf6dc635a3a8ffda490d2eb6d64289c777f1d86edd6e75e598261e590c1386
+
 Package: wiki.qaq.trapp.jb
 Name: TrollRecorder JB
 Section: Applications
@@ -11122,6 +11182,66 @@ MD5sum: 52430ef287c5360b4445060abddf6947
 SHA1: e8e2a6798b5043988ec1130b47a62b4cff23052d
 SHA256: 36e4f7819222a0c545192a8114b85de214f4598dcd9cdd7ac54c9506f47924f0
 SHA512: 677d49c93c0dacf3cb513b38dc4f93ee4d92a2f60281880709d47ee04260d7c5df516746c19836d0b2946d4c11f22a64f42d23a3a95546b9c83fdb462dcb45d5
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.5-3632
+Installed-Size: 68920
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.5-3632_iphoneos-arm.deb
+Size: 16794306
+MD5sum: d5799669af8be89919a7474c72387ddf
+SHA1: 54aa4557b5e6a470c57750d4c5212825040ddfbf
+SHA256: 231dcd450f1211050aee8b63d6bcfd34f6b3504bc2944336864011849287e833
+SHA512: 0db324b885afcdebcce5d271aa1639fff82e9b4ab92116760f410dfed47ba81f6e29bda4d1957ce1ced7350e5e789a96698889c4616d4cc1770050c24467b7f5
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.5-3632
+Installed-Size: 68920
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.5-3632_iphoneos-arm64.deb
+Size: 16778108
+MD5sum: 5af19b5713324685b0aff94fc7ca4942
+SHA1: 51f303c82c7cd3d33b89eb343af4b46bda764e8e
+SHA256: 3c9650e33cca88bd020a83bc7f20a8310d6e6c4c3c05c8ddd2c7616eae1aab88
+SHA512: 39dbf3c366d3ef5bdf4e59a72f50b53fc375b875c85f937c3c29748f17cc46e7b512c916b257e0293c9548b55d8eb5b237da310ef36593febe7a878070c0d702
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.5-3632
+Installed-Size: 68928
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.5-3632_iphoneos-arm64e.deb
+Size: 16801436
+MD5sum: ff8db44d65c3ccbafbae977a6f895235
+SHA1: b1c48141681320c0254956db908f245cc975117e
+SHA256: 59ba55105b5ede56a29f814fe04c1fe3486784ec250f984f14be9f02f6be00bb
+SHA512: 09157a00617116d7c668901426ba856c6ac2c7f6e31f3ca57d4ffe8b999884e5dd355f1aa4c8edfce164cc5a480bc37a9cb343dad9fdea64fc8590b795124d3c
 
 Package: wiki.qaq.writenow
 Name: Write Now
