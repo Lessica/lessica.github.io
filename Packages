@@ -3130,6 +3130,75 @@ Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko
 Homepage: https://github.com/OwnGoalStudio/Kayoko
 Architecture: iphoneos-arm
+Version: 4.3.1
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: downloads/com.82flex.kayoko_4.3.1_iphoneos-arm.deb
+Size: 675072
+MD5sum: 52eb60a64f0768e28902d2d9b19e4bb4
+SHA1: ca8a6c8fb000fa1417babd3a75805a4ebaa75669
+SHA256: f40db2bfe620920a84f5a7ed2c80c0f51f04a35f3f0fe652e65ec334b86ac8dc
+SHA512: 33a00f69ff354b74e228366ed4cbaaacaec24379dcd01681de8c120eda6815856e2fd14c1f3757ea8ee2d9643d4034a1524b5b865cc36c4d923d6b243b6cf44f
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.3.1
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: downloads/com.82flex.kayoko_4.3.1_iphoneos-arm64.deb
+Size: 673200
+MD5sum: 241bdc34a3c7ebdceb1b9d311642dccc
+SHA1: a9d57aa9921a0b9a288bda559de026cc43bbf29f
+SHA256: ff53d92da482e1a7087bc05abe266355891838dfc24400b6d0a859f700d3943c
+SHA512: f14983512f6201ffae624e61be198bff5baef03546ed751da99881c332632adeaae59c16195726222da9ebbbf5424ea543cf8096fdcd9f14bec08ceb7dc20ead
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.3.1
+Installed-Size: 3176
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: downloads/com.82flex.kayoko_4.3.1_iphoneos-arm64e.deb
+Size: 674920
+MD5sum: 7bed6d9a954f28c089548681d3b74ec8
+SHA1: 709e52ff624fafc7704c833f604829e0be37d920
+SHA256: fd23f0b162685833b777c99a7fe979fa182bb3aec5d98da9309c597877cc5083
+SHA512: f08af876c460888bb58375525ae96653b2c74f7573d459ba7b4c3324a721ad597cf436f5749b92e696a89ef05ac7a1a4324df4a0b0676ebeeaaa0d5f942a2269
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
 Version: 4.3
 Installed-Size: 3180
 Depiction: https://havoc.app/depiction/kayoko
@@ -6052,6 +6121,57 @@ MD5sum: e563adf49ed08d3b0372fa0a6cb1064a
 SHA1: a3bbdb0211cf38c04575787e54a14eb572756445
 SHA256: f697bfe8d49e367f4ce84f8daffc7569c589cb9b41ccd347efad0b8ef508664c
 SHA512: 00e1f7b11278583a70181afbc0f1fea0eda1684b613a66f4015d644cef32c408d557edf53006efb75baa7307d30748356b9ea86da7e45f73b4cb205f7c558f58
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.3
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.3_iphoneos-arm.deb
+Size: 44170
+MD5sum: 12ddef79a4e1c1ec40349f8d9ec36508
+SHA1: e8318a8ded59e1fa6dc412aa081d976e1b12b13f
+SHA256: 9b20b74abc06e24bffc21e9d1c3e677de464125bc5c66f9adec0d5fe4f9448e5
+SHA512: 261c7902d8881fa5ed7c8dfc2d863957ff81b8ebb662164d08410a19fb6f2b41df4d6cb3c86a4b15683ffc3ac7c419d60e1ea9daf4c6ee7676f3f8853ab2d6b4
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.3_iphoneos-arm64.deb
+Size: 44278
+MD5sum: 81afb0bb7de168166148487a001f602b
+SHA1: 7ec3c8596baaa83737f11a4a303b8c091e49c141
+SHA256: dcfb950e9af707b9aa884193042b891dfb82e802d0c0406ab8c132b2adff393a
+SHA512: 9ae167ea79ad75c22d9b6e3297a27ec3f3d06e163ce4b6395186354ccf57c84faec511306c548320ec530e2a1705b87b5ef0bf20eaad50fc1b12bfc028befb11
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 484
+Filename: downloads/com.82flex.unseen_0.0.3_iphoneos-arm64e.deb
+Size: 44182
+MD5sum: f270516aa4e8553ab795b3f96c357367
+SHA1: 170cf2b1dab28da395be12945ecfb966a4854e32
+SHA256: a8b5c55e837e57d9f29ed894fc5ac96d0972943049cedfd5ebf6c833a82fbfcb
+SHA512: 843d540f089468e3b08f4d1a300612b04e692df54abd76f2866921521bf65bb255590036769ff5d801dbcf6e87e9cfbdb85d431d3ff051aeb7cf02dce73024ca
 
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
