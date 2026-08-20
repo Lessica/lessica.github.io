@@ -3760,6 +3760,66 @@ Author: Lessica <82flex@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Architecture: iphoneos-arm
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1.1_iphoneos-arm.deb
+Size: 30932
+MD5sum: 50da27ad2f4e31caffa2b4c24218911b
+SHA1: ff61a78c51f2f54356a90efdaee86c3f0d3e07c4
+SHA256: 7fd394d081e09ba06a71a61dd7185ddca038d056f3654ffb8e23b985e0cb33d6
+SHA512: 67ff00db960815011ab9a2feb57ebaf7d64237746e1e1b05b10ef895cec8de7becee32202f85e913d795bd6ecf836a95a1efe8761a00f92494063529f280a563
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64.deb
+Size: 31010
+MD5sum: ff9a047cb3da42a6aef6d164228e4a97
+SHA1: 23b05c496309feeb704a60c73831f88fd1f3c70c
+SHA256: f59108ea37bc6c13a59c8d6673ec8bf4c545c83b1c6828dff3c21a36f4de14ff
+SHA512: 5e2b024a4c1d54aab8e84d1c3176360dc80282efe69bcc495ac3c9432d3fd2a387d1b06e3418c59349ba654342fea3f05a7949698600594f1dcd5a4bbed9dfd9
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64e.deb
+Size: 30954
+MD5sum: e20d8519cdbe21005cc7bad34872de2b
+SHA1: 20292c85bec5961691106d52a60f03d58c1dbe2e
+SHA256: a8c04a81cb8c49609c6b8ceec29f41989b5605b9c19feaffc6b2751c61f54052
+SHA512: efe57613d580b9efd2e9b80c25768118c0822afaac2d7ed17b1858a9d5fd292e49e9927c2fb3e6372e6079d8d8ca28a2fd79a146b034552866194d5ee6f3de86
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
 Version: 2.1
 Installed-Size: 404
 Depiction: https://havoc.app/depiction/removewidgetbg
