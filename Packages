@@ -3752,6 +3752,66 @@ SHA1: cfbdb6d4505881df6e58bb878fe48ae1f64d7c35
 SHA256: 0cab275aff5edb5fd1320ebe6215a9d087b0204acf9fb3bca1e3d279fccde28b
 SHA512: b136c7851fa496d621a1111b7c29feeb28b13c4773fa7d742faaf0913ffae1e63f3aa2f11ac925be8816c79e38510950e219aea9d2f08d41d36b58dd8254a04c
 
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1_iphoneos-arm.deb
+Size: 30916
+MD5sum: 8c3f5fd8a298283bd769480fef61e59f
+SHA1: 3ff006805ba4f2b1b2b7ac9cdc67a57964e2eccc
+SHA256: 4578ab4b8611e514069be37fe9f4bed82e3fc26c56389214e2b58cea655fe793
+SHA512: 68ab206fa58ffdf9b0ea448fcc1aaeee690fb43b7cabc3ffd1223c9c7e7d6e095e7c9b924c5ba3494bfacfdd87d24cc316561e07dc400e9d6803d945930e6d4f
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1_iphoneos-arm64.deb
+Size: 31018
+MD5sum: 20ab476f73c53de5f85d6bb531070068
+SHA1: 05a9576434fa537bf91779025fa1ca782c7889f7
+SHA256: 9e0f7a1b2ef465b8b1a38447038a6f9276bcf2a843b78150723ca5fddfad4584
+SHA512: d677ac339e156e16f1c7165868a7b80de68127d6a07f01db757a01553f9cd4b4731b8f6c59ee3a70569e6fb7126b34d2ee8b769e179cda343b4d4a2d408a21fb
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: downloads/com.82flex.removewidgetbg_2.1_iphoneos-arm64e.deb
+Size: 30938
+MD5sum: 787086aadce19bb583c517d273c78911
+SHA1: d62d7d5440e923833a0d5c730f18f7f71fded278
+SHA256: f3dba54177589b1ecd7fed6f4b10b06a42383b6418ce3f7d21d93465630add4e
+SHA512: 12fa35214cd11d7d76ec794521344d2ddeec14dc8568e83e4b654c78598d6930fa86b1fbe8d57e9927bc28b489a00cc668255cbb00fa522911cb5419f11d91ad
+
 Package: com.82flex.singlemute
 Name: Single Mute
 Description: Just a single mute icon on the status bar of iOS.
@@ -6172,6 +6232,57 @@ MD5sum: f270516aa4e8553ab795b3f96c357367
 SHA1: 170cf2b1dab28da395be12945ecfb966a4854e32
 SHA256: a8b5c55e837e57d9f29ed894fc5ac96d0972943049cedfd5ebf6c833a82fbfcb
 SHA512: 843d540f089468e3b08f4d1a300612b04e692df54abd76f2866921521bf65bb255590036769ff5d801dbcf6e87e9cfbdb85d431d3ff051aeb7cf02dce73024ca
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.4
+Installed-Size: 512
+Filename: downloads/com.82flex.unseen_0.0.4_iphoneos-arm.deb
+Size: 52266
+MD5sum: c065d5610671205ead1e1a3dbc224bab
+SHA1: 2310da6393bc5fd4343ed79dc3c8e0f210300033
+SHA256: 845d58a8de3455bb717196cd7385fab9fe10f75d57cb175af0540375944ce52a
+SHA512: afd27beca758bbabcba4a8fc2cc16f362e96f0875da0142b1937c628d997678a6ab55585f136ffcf001d97c1d2fa1da11d10cb02a9842474a16e8fde281ad62e
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Installed-Size: 528
+Filename: downloads/com.82flex.unseen_0.0.4_iphoneos-arm64.deb
+Size: 52128
+MD5sum: 1aa7bb748df61e91e6ddef445c749923
+SHA1: 3bf911988a820d010444bd68ef6cc875509dcf4d
+SHA256: efa30b91b8831540dd88bfc618404331d6035915d56325060c79b66938a3c47b
+SHA512: 6134ab1280ff745888162b14e4ae9334fc7ab7508bc7e1d6c88528ecec8eb1f66aa12467533f2c6f35d2dbe1e957ffefc5ccccd2abb9a26bd214098e331a39c9
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Installed-Size: 512
+Filename: downloads/com.82flex.unseen_0.0.4_iphoneos-arm64e.deb
+Size: 52314
+MD5sum: 59896424c111191eb3a61b128830394a
+SHA1: 380f7f67fbf8e3e45b6d2a2cb0368f687fe792d5
+SHA256: 052b8cb9d75665db6f8de5475a3d2412adc0a16bb0629294c7cd1c0fadc77979
+SHA512: 47f4b2cf9c3f925a3c00599e56ceebbd73abcdd1feafe38c09df13e967d12cda0e527f72a142bb3ba30c53c13566958c4f49300c2dd4108767c6e46f38c0b93a
 
 Package: com.82flex.wtvrbglauncher
 Name: WTVRBGLauncher
