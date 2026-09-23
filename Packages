@@ -4897,6 +4897,66 @@ Author: Lessica <82flex@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
+Version: 4.1.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1.1_iphoneos-arm.deb
+Size: 939210
+MD5sum: 758c7fcc75adfec45bc72af01f5b3804
+SHA1: 1d67ed96ee18cef4f6f674f1671528e7f17355cb
+SHA256: 44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58
+SHA512: 3314f4abc7b859752cde2527780a606acb996d5391f4ae8ddcb8fbdeb5e37f3c209086e55904bfb2c294d3a4fbfd571aff977962c28e2289f8af70da263c5a1f
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.1.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1.1_iphoneos-arm64.deb
+Size: 939648
+MD5sum: cd4b06988e1f23c257bed0dcebb3832f
+SHA1: 0f69fe91c776a6168b60019281d3f0db2b23dfdc
+SHA256: a017ae0cf7e4dd4b0bd25ddd7f55be16ab3b584e763a94bddc3d38b0b30fda78
+SHA512: 2a6a136e54971a0679a5edd4528344de42c306e0a09ac97106dfa25442c18e9c55ad9219d3ee3bde71f3a6f2740961f4e7313a159aebf4302301f27e20cec20c
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.1.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: downloads/com.82flex.touchvis_4.1.1_iphoneos-arm64e.deb
+Size: 939388
+MD5sum: 25038374a104dfb5117cc68eac491dae
+SHA1: c7a3b5dcbd5372d5eeaf5d2645fe6269c2eb0ca6
+SHA256: 28cd52b6d9eca9006041f6a9762e4f75d18871fe34c2e6b5c098cf562bd05dfa
+SHA512: 64750ab530f40fd2fdc07bfdf9cdd1dd02c501befea2d6942efd80096121e890f16a08692697cf09cdb12ae4c49c5571e86c0a1c462e0c434512c0edcca9f772
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
 Version: 4.1
 Installed-Size: 4400
 Depiction: https://havoc.app/depiction/touchvis
@@ -8613,6 +8673,66 @@ MD5sum: 90f0d0cf0ac3bf25edcbffb2e91a319b
 SHA1: 425eb3303a277e0efe2b3f2daca0aaa2f5f955eb
 SHA256: a2880ac39829d2124c52df8a4e6ba0b74ae6220c3a2b5fed76f34bc13ca6b31b
 SHA512: 60ebd0fda1d656536d21f48f2c6b93ec0783f6422814d162c4639377e8fe7799b2bc0b2af9b9c0b0f5c8ed0267bedc8f6dff462335f810b7b74d2d8bcacb6de5
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm.deb
+Size: 1478502
+MD5sum: 06e183f465db2e3367a7d8dbf533c062
+SHA1: 33a06bf062e010a0c43e46613c60946ab491168e
+SHA256: d4a5ed9ce2b2bea33380a1d38ff6c13c9c3042913661f47bd4f980f042e8b4cd
+SHA512: 0471119b891c57855213369161fb564d819276b1e6f635dd6c26cdefcf5f48c77aeb196d712e8a56b1372e7828b8a49d2afb5773531f520ea3eeceabebfc50e2
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64.deb
+Size: 1476324
+MD5sum: 13e4f125640e6d8cdfbbaf15a8274af6
+SHA1: e21d2f3ebad003990cbc19a2bf7eff8170564d45
+SHA256: dbd86a727024a58b109c62849146605c58c09aced187e310205a25a789852067
+SHA512: e0d5f187a168ec2a62c885bcbfae20cd71a623b2406b83d9024265bd32cfa878d1243c9955ad610f57abc14c2e98ce77cf17b88086d4b80750f1b90e9a92a75c
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: downloads/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64e.deb
+Size: 1474108
+MD5sum: c9274755a91212da8ad81bd53bbec7ae
+SHA1: a120fc4c236089dada7715f83aed56ea01c05ce7
+SHA256: 0cdd747198e3256647ba7687ea7cbfa51ccb431e7c03a05214724b10254ec6da
+SHA512: 3bc7119e6db1f09cc7bf536e66ad879a17afae844e8171a2049aa2fa183a5cf98ff9a89fb6e4b816e79976425ec42e0dbadf2a98fdbf5f8bd19435c3a419b23b
 
 Package: wiki.qaq.colorfulwallpaperx
 Name: Colorful Wallpaper X
