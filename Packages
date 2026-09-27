@@ -11774,6 +11774,66 @@ SHA1: b1c48141681320c0254956db908f245cc975117e
 SHA256: 59ba55105b5ede56a29f814fe04c1fe3486784ec250f984f14be9f02f6be00bb
 SHA512: 09157a00617116d7c668901426ba856c6ac2c7f6e31f3ca57d4ffe8b999884e5dd355f1aa4c8edfce164cc5a480bc37a9cb343dad9fdea64fc8590b795124d3c
 
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm.deb
+Size: 16825368
+MD5sum: 10d04294c9dd8b87118603fc76de54ae
+SHA1: 3478c854cebeaf772d6de4d1f621b7a0901011f8
+SHA256: f576a764abbf8e3ae2d298ab85e8a79c4729e450e109a88ed5be53a9bc9ca564
+SHA512: 3cec902256b5079617b658f348afe7ddd1d75174727f9a70c16fe4cc953921590cd0232d81ace9576638c2ff1e5511a49e9c89d3d03f27a989dad0b8c43f41ad
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64.deb
+Size: 16835110
+MD5sum: f4dd58bc7c98c53d2f86ff0d095278c0
+SHA1: 95df77e0c9c1739c776ec9af8dc7f96db976bab3
+SHA256: a5a4734fb5c1e449c2f8720bf9cac23af8c4a78227040d7b101655379927bb81
+SHA512: e387f690245b1a3bc3cb77dcd260c818d160bcb3c9f24a912b744ef988f9211918d2c7b38d8cf71af3063e69e60fb0471f15c5c6e2a716caac7fd49f5f7dcfa0
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: downloads/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64e.deb
+Size: 16816214
+MD5sum: b40c458adb2b3374dfa48b3cc2ea5f7b
+SHA1: 942dfe955eb9c0f9d9ed41407ac85dcc32b1be19
+SHA256: 62421d4399e2ba42fa864573650d2f7a6e58d7f088d7976bf20b6cf4660dae0a
+SHA512: cdca10d06ebe760576f5aa93d39c6981967c68d6db3bfedf2320fdeaefb5b1c94fc4b16222fa407dd5a70cb90678adf72521f1c58a82c3732e8d77951118e15a
+
 Package: wiki.qaq.writenow
 Name: Write Now
 Description: AI tool within your hands.
