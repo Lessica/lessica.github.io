@@ -12263,6 +12263,66 @@ SHA1: 205d14ea991ae48054bbb2dd8656d8cb9406ce21
 SHA256: 34b7ef58308675d38c9d941548b795a7107b29b2a65d07f47e88cf0fbc626abb
 SHA512: 25cce3c2bda965cfcf45983faae56a25fbd630e507ddf1aff4d989d65aa320a3a2b0b7034ac10bc8a865d475b85a2179585d0836c746c9f2dd82020e09e25626
 
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 2.4
+Installed-Size: 11060
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: downloads/wiki.qaq.writenow_2.4_iphoneos-arm.deb
+Size: 2574554
+MD5sum: 6dc8db742341c22107f2dd8f32fc08e7
+SHA1: fd947e1420219e1610bd9bd97273a5d76c77db26
+SHA256: c03a31bcec8c49d2d56cd7cd323317f8f321a9163a39b3a499962712fd080007
+SHA512: e6beb37bfaabb7a7b3bfac80d51880e59743ed059897346446a0789b22909ee6ea580090df3729f4660f3a09a6b21eb292a7a616818a38eaca1113af80eea8ea
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.4
+Installed-Size: 11060
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: downloads/wiki.qaq.writenow_2.4_iphoneos-arm64.deb
+Size: 2574454
+MD5sum: fef9f8ac34581710824673b30cf67afa
+SHA1: cdb7c74881064830a3de4bbdc3421a90e030d8cd
+SHA256: f34874c5656a954e05d206f4119377fd472d52b17badaadc7d14adb7b7aabb3a
+SHA512: 00eba828dc1c605f7448b2caf55e8baf9f4bc49b3ca03072e0b0851bb2af2655abb2a2a07db5a22f8392544ec6715e4a8a6c88c168bcfddfe23dec38e8362c42
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.4
+Installed-Size: 11076
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: downloads/wiki.qaq.writenow_2.4_iphoneos-arm64e.deb
+Size: 2572380
+MD5sum: fefc988a4b26562f1975294728a4a5db
+SHA1: 4ddb4d4b8dcfd312b1c9b21a7c508ccdd221bd54
+SHA256: 6aac278ee54996693c8bb42be4c1b9eb60e20a74b04812e521c24e8aa0e71389
+SHA512: e5646f6eb1c5598fe6c56d1fbf15a3ce655e70662b2d2c543bc6b78051b03023b187d6734dc5189a8f099219d4ba930fdbecb9c8b5c0741039323d806bacf11f
+
 Package: xcode-any-debug
 Name: Xcode Any Debug
 Description: debug any process with xcode (jailbroken required)
