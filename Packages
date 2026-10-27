@@ -585,6 +585,23 @@ SHA1: d737d4dd3cda0982bf00d8ecc0579c394825707c
 SHA256: 912401fd75f84a83fa8a74fcbd6a2877016e56a5b533ee24269281a04cc38115
 SHA512: 3d2aad93a606ec33b84d382180dc60952617e5031cdceee2f7f6e8f9a007944337248cdd63a5da25823c531ae02a8b9da6c763933baa9ca7e87e940142d24d55
 
+Package: com.82flex.cranepkdserverfix
+Name: Crane PKDServer Fix
+Description: Repairs Crane PKDServer discovery on iOS 17.
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 17.0), mobilesubstrate, com.opa334.crane
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 72
+Filename: https://github.com/Lessica/CranePKDServerFix/releases/download/v0.0.1/com.82flex.cranepkdserverfix_0.0.1_iphoneos-arm64e.deb
+Size: 2698
+MD5sum: c52b61b377d7a42d480bbef54648b4e1
+SHA1: 1d92775235cd5052dc258f6b8cb79e5750b47000
+SHA256: c23dffee05bfe6e3e2b847efe3a5ce71f20d359539658352cef0bfd99f3ecdd7
+SHA512: 67022fad28a0cf8812061392b1bc8fbf8b0fc509a4777519ff8a980cf509008f0e4a386467388368738885d6270b460b922242b55d3434b204d1792d21173682
+
 Package: com.82flex.iconrestore
 Name: Icon Restore
 Description: Save and restore the layout of your icons.
