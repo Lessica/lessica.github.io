@@ -119,23 +119,11 @@
       "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
     },
     {
-      "repository": "https://github.com/Lessica/swift-protobuf",
-      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
-    },
-    {
-      "repository": "https://github.com/Lessica/YTMusicUltimate",
-      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
-    },
-    {
       "repository": "https://github.com/Lessica/ssl-kill-switch3",
       "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
     },
     {
       "repository": "https://github.com/Lessica/GlobalWebInspect",
-      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
-    },
-    {
-      "repository": "https://github.com/Lessica/NetworkSniffer",
       "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
     },
     {
