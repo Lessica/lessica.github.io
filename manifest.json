@@ -137,6 +137,10 @@
     {
       "repository": "https://github.com/Lessica/NetworkSniffer",
       "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/CranePKDServerFix",
+      "architectures": ["iphoneos-arm64e"]
     }
   ],
   "havocMappings": {
