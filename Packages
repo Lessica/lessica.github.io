@@ -1,0 +1,4144 @@
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm
+Version: 1.12.0
+Installed-Size: 428
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm.deb
+Size: 133344
+MD5sum: 657f9715dd5af863fb93e04db9da87c6
+SHA1: 8a3025a3a8c5c2f55a095ed76ba63d2362dd723b
+SHA256: fae2827cf6f46fcc18fc02cc504a74f94434fc9856c37a7cee707ff77991356d
+SHA512: 2eac6d77d6d60db67337f7ae77f8020c1717514fd51778ec710b3545b031944b1dd25ad0a7144ccb6cd8bd52f595af02bd59a488e15a9a464c1bfae911777ad4
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64
+Version: 1.12.0
+Installed-Size: 428
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v1.12.0/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm64.deb
+Size: 133358
+MD5sum: 734d3cf5df14a63e6c544f0640707b67
+SHA1: 209694004953474c5fb829919fa4a20ce68063d7
+SHA256: 0ff20e4bf262eacbe82912eb74920740d042eadec548a960e33990c41b611c66
+SHA512: cd892af017e66aaf0bedb06529dde6eb8bd1dc5b0cdc51cc697f43cb29cc187550dda86e0cc65dcf0ce8cf7a9cda40399a9ebe7163dda495eb90f26b5f5ef3f1
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm
+Version: 1.12.1
+Installed-Size: 636
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm.deb
+Size: 161720
+MD5sum: 8b7f676fa2efcc5f3471bbe6655ee0cc
+SHA1: 48984dfcc1073d954a47d2aecaac818e76261cbc
+SHA256: bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6
+SHA512: a915a9b847ed8ea47d4f741d72860c7bac7fca5bd70b285ccd6c1d168dc28a902e77432bbef51d9845927244660447d127194ec89d6bf828081c65a7dc5647d4
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64
+Version: 1.12.1
+Installed-Size: 636
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm64.deb
+Size: 161582
+MD5sum: 36b3acc7be14f4f768a6538ade43f6f4
+SHA1: 23687866431b260fc3adc1c3928c4de35d66ba7b
+SHA256: ac8fdeb7f2947693d36f7b8c0d8ba74e7075feffa0bb0fd1a0f2fdac2786af79
+SHA512: 8d79f5bae41e1553c1875c9e3d8284f37e4566c5e5f4afc35332073f96a44817e015873158185fe5044768e37949b2fd7d215f941ca47d41abeb5bce145fcf46
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64e
+Version: 1.12.1
+Installed-Size: 636
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v1.12.1/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm64e.deb
+Size: 161658
+MD5sum: 855678f68d1a011c609372795da68afc
+SHA1: 77546e0bab1e4eb263502554855548787d8d71f5
+SHA256: ace79d71eb227ad90feeb5fe854fca85ae78ee06a2ec6509e50fda8f09756cb1
+SHA512: f74d40a2180d158f74fb47d0f857a95ba80c37d397fcc9b0038a1e21936972fed5a61f53181dd2376f30dbd396518baac3ca733aa4ea503c902b9d88a1802a31
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v2.0-13/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm.deb
+Size: 163614
+MD5sum: 832a4a99dbbf496659acc32b393be77d
+SHA1: 047aeeb122566ed71d37aaff423664653696e84c
+SHA256: 0fbb3043af6ac23917518c869388bb221c1f26eca40ef6e25484cf4d932777a5
+SHA512: 0625ff006e7d9e13b9c418fb0ebc9e2e5ded9b7cf2394a53aa3bc4b6300ecb30d337c173637afe51d5b57320fdec524641dff322446599bbc2da76c047fe2bd4
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v2.0-13/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm64.deb
+Size: 163526
+MD5sum: 2a4098497d0d1198a4e4d1915004d555
+SHA1: f3886f45e59cdb4c3213ea0fe9a476c409058f82
+SHA256: bf72cec5838030da646cf7d6cb0a212702326a8c9baecc4f5a9999229a61da19
+SHA512: d8656f54b65cbac0af8cd46f2fe6daf9ba7d700111459b6c00ebb046fff2d29e44abd818478e65af69f08db6263533e8ab4b4d849b79f1350ace973086585519
+
+Package: ch.xxtou.hudapp.jb
+Name: TrollSpeed JB
+Section: Tweaks
+Depends: firmware (>= 14.0)
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Troll your speed, but jailbroken.
+Architecture: iphoneos-arm64e
+Version: 2.0-13
+Installed-Size: 640
+Depiction: https://havoc.app/depiction/trollspeedjb
+SileoDepiction: https://havoc.app/package/trollspeedjb/depiction.json
+Icon: https://apt.82flex.com/icons/68c58106a25de63e9b02f978.jpg
+Filename: https://github.com/Lessica/TrollSpeed/releases/download/v2.0-13/ch.xxtou.hudapp.jb_2.0-13_iphoneos-arm64e.deb
+Size: 163420
+MD5sum: a41137a8d5135568a711e1fcb3f0cb6c
+SHA1: f9a419f319b26fc8145a6676bd0573be46e5a348
+SHA256: baf384c35e5495658baa9a77b3c8b2f012ee5f617961534a80de0a1be082b7ac
+SHA512: 9c15a37f2892225ab56cca68addeab2e3c010856f6777788d5fbbe5f66fc42e38e152687349056a5fdb70bed84779ff9a3f22f57cf58b00b9bab729bb98caed0
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.3.8
+Installed-Size: 69804
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.3.8-552/ch.xxtou.xxtouch_5.3.8_iphoneos-arm.deb
+Size: 22176358
+MD5sum: 1be2d5d37618ebbbbb2b7ba237708ccf
+SHA1: 79fc49148ffd8a0fadd004637eb73fd424bf8217
+SHA256: a157b114d7b14e391e511dc18a1add279e89036e796acfc9fd4c338b5cf6dccc
+SHA512: 81f3c21dbc32aeb64f3fd86428ec33d12a1fd8be95527c15aac429c50674917096ee174881e72a67ff1a609cf8eb2f948b18ad146c4f444b782c27f175d6f5da
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.3.8
+Installed-Size: 61520
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.3.8-552/ch.xxtou.xxtouch_5.3.8_iphoneos-arm64.deb
+Size: 20332628
+MD5sum: a05eb0e6a6957761b46b79c50b3a464b
+SHA1: b2ecbe0dd10e6bc018374663f2bbc57f7a57797f
+SHA256: 3b47cff6da5154a8a836828d818f3345f2ca110f2be9556064ba6d34219c1ff4
+SHA512: 5aa1922e089568c0308bd64daf00fb7335cc03814aaafd10d465baa5a8c22e09b0572a849272b652f6a9cc65f97f926216d2f4c378efe97390a6b0bcdc832a04
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.3.8
+Installed-Size: 61524
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.3.8-552/ch.xxtou.xxtouch_5.3.8_iphoneos-arm64e.deb
+Size: 20332676
+MD5sum: 6b85adae723df5b96b0202c2186f56a7
+SHA1: 023157002d0a836e6b76406450421b6170fff791
+SHA256: ce3d68894c18f71744394d7c1532aa2c8e000313267f176ad6e2c91dd27fc250
+SHA512: 5255ee4554874862d046f0c4c8b991722c1643d0fe0c668f3eae4c44df6fbad99ae193948a18e6fe5ca3a366f42346f70d149c9cf59c777f5a089f6b3736a4ab
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.4.3
+Installed-Size: 69868
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.3-574/ch.xxtou.xxtouch_5.4.3_iphoneos-arm.deb
+Size: 22191220
+MD5sum: 6112b955decc50404dced10a22915ecf
+SHA1: 2aaf0cde279e8eb1341fdcf30090f263970c5de1
+SHA256: c818ac7d55d68f43e36d6e849dec4f40a739eaaf03ade08ab90374cbafe57a6e
+SHA512: 3037b895660d5a74a95cea6a633411ea2c50c870ea84058c96cba89a251367b15fe4a89c39bbbbf1c1b15b9dc2e2e72d298eeaa03bb9210437634d44e0bf1178
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.4.3
+Installed-Size: 61632
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.3-574/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64.deb
+Size: 20344560
+MD5sum: 2ba2ffd1d5791f735b8568a896ad16cf
+SHA1: df6a6f6a157207084e62bf9007c9c4c74f2b256d
+SHA256: c4c627eee546aa73e6d632e1b3107f7750cbdd70802d6d4c20db802859c90a0c
+SHA512: 92d40f382361629267b777daf78266ab1b4c3aedfdc9d5ad23f7620f84d7a98078f1f225e3e492d9d5552a1088deb15a45b97c0af9193b47d14d066403bfa543
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.4.3
+Installed-Size: 61604
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.3-574/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64e.deb
+Size: 20342254
+MD5sum: 2789028f3df275d69fb700190ea9971f
+SHA1: 9078335d3dc77f4214bf6a44924448fd3082df99
+SHA256: 5dcc85ce4127ad465b15074dadc97430c5e76a3384f2e0d5952533dc63cae737
+SHA512: a8fa8b7cf59ac0bf1edbe9927fa7ac692b0ce5b063ff1886418433746da3bb0d2b7a76d35901f395297e41357bcb3d22bff81c25b6c854b7e172e046d12f43b5
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.4.4
+Installed-Size: 69872
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.4-578/ch.xxtou.xxtouch_5.4.4_iphoneos-arm.deb
+Size: 22185160
+MD5sum: eca3a321cbc96ecd3b3cc2b0f676bc3c
+SHA1: 548f1bca89448d79a0569529966a9bdda984a0ad
+SHA256: d5a4c01ca562765bde310c6dbf7657b0ba2561dd0152e0e3e775872ae4b8a457
+SHA512: 4a239ae5930a5b9a040de1d34bd5bfe7b018c456f8106d06b2dc872df5982484593fb24d3ed2bd1b93ec0a16b6aa516af4c4ae27a2bbd8977fdcb8d9d8cba653
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.4.4
+Installed-Size: 61636
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.4-578/ch.xxtou.xxtouch_5.4.4_iphoneos-arm64.deb
+Size: 20341530
+MD5sum: 9c39c8d1f8b4a4039c7bca92bb2a94ac
+SHA1: ff0c19268619d0c2d4e70abc7f44a73109f71494
+SHA256: 3795412f51931444bd66cd872a25438e6ef7d6c607abfce31d18c3f94fac0d17
+SHA512: 501743cc04682fe87fbf355a5be1342fd57e1cdaa00a2db49c3db84bb3faeac5e63a864b37ee2e32f53f136718d64657f032303e9b9d22b089dea65f8758d3f2
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.4.4
+Installed-Size: 61608
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.4-578/ch.xxtou.xxtouch_5.4.4_iphoneos-arm64e.deb
+Size: 20340200
+MD5sum: 80c226090ea4951006256c3c1725dae6
+SHA1: d4f50129bcacd751668bb61f9da87a118500262c
+SHA256: ca2b35ee6524bcd29e816698e8a3ed8969e4bd61d0fe8ac9cd448cff1dca1f65
+SHA512: 622abfd4e6b19e22977d1fb107a4b16ea27dbc845c62a469d6a54ad3b113ec63cd7ab32cf7d054a3348c9f1a0747da41b23e79c1074fc8778c0467e3d3509d41
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm
+Version: 5.4.5
+Installed-Size: 69872
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.5-587/ch.xxtou.xxtouch_5.4.5_iphoneos-arm.deb
+Size: 22188272
+MD5sum: fdc31bb972823b2fd9e3b52fd59bc568
+SHA1: 1853adb5f2d26239333de0996e944fbb2a5600a0
+SHA256: 47b54ab26502f66eaca91d1b366d2d566a797eba1d29a14263bb77302e540666
+SHA512: d42c003da8c5a978ff549d632133b5cb104ace2eca13cdb95dbb7cd793ed8f4d06cdbf275800b79ce7d03f89f61984a5d6276b1da9501cc03371a147645999aa
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64
+Version: 5.4.5
+Installed-Size: 61636
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.5-587/ch.xxtou.xxtouch_5.4.5_iphoneos-arm64.deb
+Size: 20341536
+MD5sum: a5e7cf4f845333607755008f1ceabd47
+SHA1: 9fe63b785e3dd4ca84e7886c27ba9c0b224834d7
+SHA256: 68db41547c2ad270868411bf27cfe7949cd5129c8058048c10f82cdc06defa81
+SHA512: 9066eda85ff4987d11915493508f482d51250065d8ae33797516f4fd3ffc983ea8ed2693279a54f213b2a657b7c94cb3f76b1b8fe584ea9e8065db014f6617ac
+
+Package: ch.xxtou.xxtouch
+Name: XXTouch Elite
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Architecture: iphoneos-arm64e
+Version: 5.4.5
+Installed-Size: 61608
+Depiction: https://havoc.app/depiction/xxtouchelite
+SileoDepiction: https://havoc.app/package/xxtouchelite/depiction.json
+Icon: https://apt.82flex.com/icons/67e696fba5c34c5c759ebfcc.png
+Filename: https://github.com/owngoal-dev/XXTouchElite/releases/download/v5.4.5-587/ch.xxtou.xxtouch_5.4.5_iphoneos-arm64e.deb
+Size: 20341456
+MD5sum: f6a0a585822cea004d2e58f339818678
+SHA1: 585ad0f7a97c974f9069228145c4e782fa945033
+SHA256: a8502ab7308a1ead553f60f57053e2b3aa8a99fa7258371c2f43da8a77e63cf6
+SHA512: 1d40c0d0309d0ee96e427285fdb71ede38f7e8723774695146cb23c7953b41793fa7e0a918fabb55460fdfbf821f5c82ad60f001c35da68a6688e806cbdb3f11
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 188
+Filename: https://github.com/Lessica/AMLyrics/releases/download/v0.0.1/com.82flex.amlyrics_0.0.1_iphoneos-arm64.deb
+Size: 11828
+MD5sum: 0131dcd349e3698af2b89721a5cbb517
+SHA1: 8c50e7d8e3106c8e0af6edefc6be15f8cca46a1b
+SHA256: 2194cf78d10b25544388d02e920f7aaf78080a65d9005afded104dcf1fb32ed6
+SHA512: 9b579a4e2b792f9bbfa3627b94edfdbd135a8f0843e041b6c3631986fbb6458cbed6c298b35fb5f41bbf2a94ed3cc34b5b54e3f18a004f6da90657e09f1db466
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 188
+Filename: https://github.com/Lessica/AMLyrics/releases/download/v0.0.1/com.82flex.amlyrics_0.0.1_iphoneos-arm64e.deb
+Size: 11770
+MD5sum: 1d8a1143e86ef87dfe6533a141ba7f77
+SHA1: 9b9b2981a49604db9d8471245d364caa584ebc8f
+SHA256: 9a5c7e40147202cd48745d8ec782a00794753eeb0b63c4b49918a550f60c2a5e
+SHA512: 1abfc0cb682eb7cdf0f4be8069c0f0ffed57fad876d3de6cdb69bf1a80d5f48ff66c8432c0a5815484337223eb675401b8685ce5be59ce7279545b59e1d8cc4d
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 188
+Filename: https://github.com/Lessica/AMLyrics/releases/download/v1.0/com.82flex.amlyrics_1.0_iphoneos-arm.deb
+Size: 11780
+MD5sum: 95cf3ea40de73a0cf0056c40e4e42afc
+SHA1: 27e4fe983e9120f639dfa6804fc6ff357e82b5fb
+SHA256: 5a59d49fba362ea7fd3cc4531fabf964469c3f0c5d754adba45991672ea6abef
+SHA512: e26effb7f47dd545572e546931cb074192a868c6ddde3562ada9f16702488e3f81d27bc3581686f48121d0a22aa4d907ebf124144c9af819b712369ccfbdd19d
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 188
+Filename: https://github.com/Lessica/AMLyrics/releases/download/v1.0/com.82flex.amlyrics_1.0_iphoneos-arm64.deb
+Size: 11828
+MD5sum: 58b49ce5180b82020f56aa7e8e34f32a
+SHA1: a48646bb69c91e771bb96b5c3b0e5d5c686eb651
+SHA256: b52a5b89e819c8977344709f4a50269ac960d3c7e0b537573bd85f0c696fb6f8
+SHA512: 49a29b8d6e6b320ef7e8865317b96921a98744425e4688edb0900e31788c538e3240b7f2c4c9ee3f94def6d8c15e91035b0d876fa4585ea976a16ecb273423de
+
+Package: com.82flex.amlyrics
+Name: AMLyrics
+Description: Dump lyrics from Apple Music.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 188
+Filename: https://github.com/Lessica/AMLyrics/releases/download/v1.0/com.82flex.amlyrics_1.0_iphoneos-arm64e.deb
+Size: 11772
+MD5sum: 90d8842f9442890715b586201d3c217d
+SHA1: 6c14119f52a13d590388969b73275925d98c8b62
+SHA256: a630e643f67c55c0f6f4e696a43b449aa920000028aa141f500636738b6c3b93
+SHA512: 70b857f70806db07742a64e52909425485d2b3a0bcc7c4d3338b88fc595b51fff54ddf4506fa7841eaa716fc5f33f236405f42584932ba4beed7ce4dfca5dcbc
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.5
+Installed-Size: 384
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.5/com.82flex.artworkspinner_1.5_iphoneos-arm.deb
+Size: 28482
+MD5sum: 43854385bffec5e6b8ecc81b75d3088d
+SHA1: 22d350ee3b436ca20f02dedad06e9d8b9a415069
+SHA256: 95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499
+SHA512: f0ae3bcefdaf0e874b51030ae857a420a5621af8b056a445c12d81c763b1d2567a7b2eb8a031f3d6fdc99d5ee608e5bd0d201e410abcc2506c89d9aed1069864
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.5
+Installed-Size: 384
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.5/com.82flex.artworkspinner_1.5_iphoneos-arm64.deb
+Size: 28554
+MD5sum: 26d8de93c74828303fc4022208dd28f7
+SHA1: 337c6532b80dc4f7afeec100fd376d731dcf538e
+SHA256: 53c8fbf21fa142c1d73ec9d97d1ce9a645b2450f350417094ca1713ad872f905
+SHA512: ffb02d2fdbe31fe2439cd9caad3e46b0d0f91b56de4f9a2704c6695daa8495855f1547ec58f83e666a0503702ab1ade218df3dba931b8571bfaadd62340ac16e
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.5
+Installed-Size: 384
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.5/com.82flex.artworkspinner_1.5_iphoneos-arm64e.deb
+Size: 28496
+MD5sum: b1a6d68c95af383f25863c4f78080345
+SHA1: aaeed537d40429d6888c77248a228e896414beac
+SHA256: 469a2c2c80b0c21c19337408c014ccd1c9650e1b07df584e3359bc6ac44684ec
+SHA512: 4afcdb9cc2229cee763903ee974b61dd13ca3b1edc80caf1ee15aefac2008ecfe498ebdb6369f9edaa56353298083f7d0bc105a0ed3aad75a7e0e234d13cc2bd
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.6
+Installed-Size: 424
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.6/com.82flex.artworkspinner_1.6_iphoneos-arm.deb
+Size: 38878
+MD5sum: 77be5d5347dde49370468feb4da3dd65
+SHA1: 1c2d14b85d7b9256881febedb559bb302131ace5
+SHA256: 1b49051a88e6a89f148936659c6efd99f6c592583541d8f2c431eb5a08d4f501
+SHA512: ac9eb7baf3f2c44b2ae2d894a16deec3899a33202acf5c5322164c30dec9ff1ec6ad946f3c4fbb58f4dee7ef26db32ad3522e8a6ae3f55f592757d9d2f93f83e
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.6
+Installed-Size: 424
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.6/com.82flex.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 38958
+MD5sum: 3029bc6b2b2828d2698a5a88852842e8
+SHA1: 6551e2dca41ac2ab827fe3b4505b3eade0cabed8
+SHA256: e4aced1d8a2e3066c13919d606af3e408ec03e6db15824b939f48e3b98353c66
+SHA512: f5a4a47f253a2a9d3f7449158cdcc33ad8e95415bf5ab715f25c7c17b44c1138b6996c0920cd1ba0379adda3b4965aa2c626677151d7dcb1482646e47f216334
+
+Package: com.82flex.artworkspinner
+Name: ArtworkSpinner
+Description: Rotate the album artwork!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.6
+Installed-Size: 424
+Filename: https://github.com/owngoal-dev/ArtworkSpinner/releases/download/v1.6/com.82flex.artworkspinner_1.6_iphoneos-arm64e.deb
+Size: 38872
+MD5sum: 95bc24b7806587574b3928286f9878ec
+SHA1: d737d4dd3cda0982bf00d8ecc0579c394825707c
+SHA256: 912401fd75f84a83fa8a74fcbd6a2877016e56a5b533ee24269281a04cc38115
+SHA512: 3d2aad93a606ec33b84d382180dc60952617e5031cdceee2f7f6e8f9a007944337248cdd63a5da25823c531ae02a8b9da6c763933baa9ca7e87e940142d24d55
+
+Package: com.82flex.iconrestore
+Name: Icon Restore
+Description: Save and restore the layout of your icons.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.7
+Installed-Size: 412
+Depiction: https://havoc.app/depiction/iconrestore
+SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
+Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
+Filename: https://github.com/owngoal-dev/IconRestore/releases/download/v1.7/com.82flex.iconrestore_1.7_iphoneos-arm.deb
+Size: 30374
+MD5sum: 2ef92de545c4fc665799f763e9a57a74
+SHA1: 09964c08f569a8b8a1b8f4d0d80b13a0a1b4a151
+SHA256: 421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031
+SHA512: 239a3ad5a44e0718141847094b84c5eab661cf9ff0af36ef633c1b39067ebf97144010ec9c18080da5c738af292f69fc7f67066ce05408398f560d00decc15cb
+
+Package: com.82flex.iconrestore
+Name: Icon Restore
+Description: Save and restore the layout of your icons.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.7
+Installed-Size: 412
+Depiction: https://havoc.app/depiction/iconrestore
+SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
+Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
+Filename: https://github.com/owngoal-dev/IconRestore/releases/download/v1.7/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+Size: 30460
+MD5sum: fd6409554b1bdbb3f7cc707147b1356f
+SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
+SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+SHA512: c2b77a35ca01811e7ad2aba3fb43bcf1c7060262a285e72bb2db24dd635da796ccc43198b331cc44562168703996513d43ab49941b87166cfdc5cf6960ba4abf
+
+Package: com.82flex.iconrestore
+Name: Icon Restore
+Description: Save and restore the layout of your icons.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.7
+Installed-Size: 412
+Depiction: https://havoc.app/depiction/iconrestore
+SileoDepiction: https://havoc.app/package/iconrestore/depiction.json
+Icon: https://apt.82flex.com/icons/66e1ea16c8dd969b8bcbac5b.png
+Filename: https://github.com/owngoal-dev/IconRestore/releases/download/v1.7/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 30404
+MD5sum: 0aa2b5ce8fc9e254a9b0429393e88769
+SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
+SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
+SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543ceaf5936253fa5f65a95b818c8fd0fefbc4e1219d73021c734d9f8ce0
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 4.2.4
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.2.4%2BLessica/com.82flex.kayoko_4.2.4_iphoneos-arm.deb
+Size: 670428
+MD5sum: ab63bded73002fd2e85f59657fe17d45
+SHA1: 404e2f21a60725624f9b0169caa67d4472ab8113
+SHA256: f0dbbe1a8e57f30dec7846a8d064fec15daeabebdb4e4679cebfb9c91d14791d
+SHA512: 6a3f12ca41e695d9bceb080cf5f966df1ce2c68d2d814a060dd88e601d1449daefcb89706203b248fcfaa7318ba6d102a325a41f78d529bce97822be6b42121c
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.2.4
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.2.4%2BLessica/com.82flex.kayoko_4.2.4_iphoneos-arm64.deb
+Size: 668936
+MD5sum: 12a2bae235933f59995961753e6968f4
+SHA1: af6fab805f7985aae515507807b4a34e18c6ca43
+SHA256: 58bec80dd7c5266a38a1a07a2ab7eabdd94de363f8cf295de2bfcac1d5c7bd18
+SHA512: 6fb911f9ff8b40123add6b0e07ec24428ebbe2ec497fe90c31e34a2d975c04ae27626a6590ccf7778439a8da8fcacb05f1858bdf1f1d60c9a421ac25ef290835
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.2.4
+Installed-Size: 3176
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.2.4%2BLessica/com.82flex.kayoko_4.2.4_iphoneos-arm64e.deb
+Size: 667556
+MD5sum: 3095d262c56ccb3fb948e457bc94dee8
+SHA1: 4eccd5f8b31890c23a97e284a630a4410062d86c
+SHA256: 899e2e038a7b432ac576d81069f8f27bffcb9c87fcc83acd0f3170db17d5e111
+SHA512: ea07b53e3c6c1c46b5e1520644e276832e90fd2cf1c37a95e1c72df5af4a7e4fa7ccb2a3862a05edc452f597f169bcffe4f4e260116269157e8346a5393913db
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 4.3.1
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.1%2BLessica/com.82flex.kayoko_4.3.1_iphoneos-arm.deb
+Size: 675072
+MD5sum: 52eb60a64f0768e28902d2d9b19e4bb4
+SHA1: ca8a6c8fb000fa1417babd3a75805a4ebaa75669
+SHA256: f40db2bfe620920a84f5a7ed2c80c0f51f04a35f3f0fe652e65ec334b86ac8dc
+SHA512: 33a00f69ff354b74e228366ed4cbaaacaec24379dcd01681de8c120eda6815856e2fd14c1f3757ea8ee2d9643d4034a1524b5b865cc36c4d923d6b243b6cf44f
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.3.1
+Installed-Size: 3180
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.1%2BLessica/com.82flex.kayoko_4.3.1_iphoneos-arm64.deb
+Size: 673200
+MD5sum: 241bdc34a3c7ebdceb1b9d311642dccc
+SHA1: a9d57aa9921a0b9a288bda559de026cc43bbf29f
+SHA256: ff53d92da482e1a7087bc05abe266355891838dfc24400b6d0a859f700d3943c
+SHA512: f14983512f6201ffae624e61be198bff5baef03546ed751da99881c332632adeaae59c16195726222da9ebbbf5424ea543cf8096fdcd9f14bec08ceb7dc20ead
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.3.1
+Installed-Size: 3176
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.1%2BLessica/com.82flex.kayoko_4.3.1_iphoneos-arm64e.deb
+Size: 674920
+MD5sum: 7bed6d9a954f28c089548681d3b74ec8
+SHA1: 709e52ff624fafc7704c833f604829e0be37d920
+SHA256: fd23f0b162685833b777c99a7fe979fa182bb3aec5d98da9309c597877cc5083
+SHA512: f08af876c460888bb58375525ae96653b2c74f7573d459ba7b4c3324a721ad597cf436f5749b92e696a89ef05ac7a1a4324df4a0b0676ebeeaaa0d5f942a2269
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm
+Version: 4.3.2
+Installed-Size: 3212
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.2%2BLessica/com.82flex.kayoko_4.3.2_iphoneos-arm.deb
+Size: 670734
+MD5sum: 058e30d62d3562d09b3beb36ecce32d2
+SHA1: 124de24fa34f0ed0bb64f948de4f37d261cef2f6
+SHA256: e299417ec02a9ecd0af16d01f90f854dca2ab2e59af69ffc8b8500a437869223
+SHA512: 9a77cfd357dd99bf770bf83781aefe83322c6b419931914480b431088cc7a74276cf1d704c011a02b5e67ef2b72fafabaf827c6e784fde436cc3439f23bfbd3e
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.3.2
+Installed-Size: 3212
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.2%2BLessica/com.82flex.kayoko_4.3.2_iphoneos-arm64.deb
+Size: 673604
+MD5sum: bde356c9d6ca5d8f7c3240c3e50e54cf
+SHA1: ee51c35db732d84dd7c1b6619c1b86a0f3d403ce
+SHA256: f26f122cd0c37fa6bd1c2b38b77cd909b8fb21dd26a1e6afd1c7042744ea90cf
+SHA512: 34b63475dbe6002660ee37028e5dcc3e8c497114307e52eab45977de020d022d4f918a09e1238cabf5f6bd9caff6e5d4a9aecb47994ff359e3acf725f01f9f15
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/OwnGoalStudio/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.3.2
+Installed-Size: 3176
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.2%2BLessica/com.82flex.kayoko_4.3.2_iphoneos-arm64e.deb
+Size: 674030
+MD5sum: 81815eef74d0205d176e59138e4b409b
+SHA1: 20f63550998e727de7ba83d806f5811a2c927f4a
+SHA256: 86347cbbedda1a7acddf2556efa65cb85ef668fa153536e5afcc3c338178a855
+SHA512: 8ca09e13e418786c46db5c5aa1e02f7103e04603288e8f88df6ace4e50ea8fc20b4f407e18b1a84e1a88dba4e44276c57aae84e842381a91896e6b9a24752cd7
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/owngoal-dev/Kayoko
+Architecture: iphoneos-arm
+Version: 4.3.3
+Installed-Size: 3212
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.3%2BLessica/com.82flex.kayoko_4.3.3_iphoneos-arm.deb
+Size: 667442
+MD5sum: 6efa288a1b1f0decb8edfbaa18897939
+SHA1: d240cec14fc34e69c3aed1d3e79f66be58d9d9b3
+SHA256: c4e3eda90b731fa46e4059dca4b264a75b04aeb3550af5c452967953932bed6f
+SHA512: 8078f959048397a847495d68090d21e0ef217ef73ea33088431f3dc3990d6885dd4c26b0ab7646b526c8f4b7682006c982d09636e7950f6acf26c91ab7e95370
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/owngoal-dev/Kayoko
+Architecture: iphoneos-arm64
+Version: 4.3.3
+Installed-Size: 3212
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.3%2BLessica/com.82flex.kayoko_4.3.3_iphoneos-arm64.deb
+Size: 675078
+MD5sum: a20373653f9229c297a6729ee019b261
+SHA1: 4060ebc699924ae96f44fd52099acd60be12f5f7
+SHA256: 5079924dcf12b9fe13efe08b5d933fda3be1d0cb693d77f9702d163225623be2
+SHA512: 527bc23721f08e94c6b7d3f6e6486d9d0f13a0b65959c14882304b85fe17100a0f34c448dad3a85da9becf37138e8de3a0d6d883a2819566d6ee72997d518e19
+
+Package: com.82flex.kayoko
+Name: Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Homepage: https://github.com/owngoal-dev/Kayoko
+Architecture: iphoneos-arm64e
+Version: 4.3.3
+Installed-Size: 3176
+Depiction: https://havoc.app/depiction/kayoko
+SileoDepiction: https://havoc.app/package/kayoko/depiction.json
+Icon: https://apt.82flex.com/icons/6a3e9835b829550028536379.png
+Filename: https://github.com/owngoal-dev/Kayoko/releases/download/v4.3.3%2BLessica/com.82flex.kayoko_4.3.3_iphoneos-arm64e.deb
+Size: 672334
+MD5sum: 5a0c27fff32ba4610255186fb7b3f47b
+SHA1: f6148cd0b197613e3ea452c7ec1787657aa8b729
+SHA256: 3c8fca0ed58c07adc9374db9625118e093245abb93834b702e652382e479be3e
+SHA512: 6e6871641b642b3890d8c42b831fc1136927da18ce9cedac10ef47ae26080a316439ee96323d9ee594ad9d1401716e3650bbfc6b3b7440aeaff30a299e2bf5db
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.0/com.82flex.libsandyxpc_1.0_iphoneos-arm64.deb
+Size: 18168
+MD5sum: 5c378bbee38e5dc687931f97dd61a8d8
+SHA1: bd2399ad1a785fb1eb0dca841efbd515a74d299b
+SHA256: 76d83c0292b99fb1d38f4c8af5623dc031e0d6e790078dee909f8d45b8fcc1af
+SHA512: 9eb5ac77dc4220e7517b35635b837296c80797b261fa5aae39a68fe7a7737011eb0eaf005eba9514030c81d1614d5ff5f2c2934059fada59da93d6bbcccef462
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.0/com.82flex.libsandyxpc_1.0_iphoneos-arm64e.deb
+Size: 18102
+MD5sum: 456682d92e7bc10f692094828e83f1ba
+SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
+SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
+SHA512: 8a29761357cc3d450dd002c742e18c908266f853fc55abe56ad298ec59482b6d12ddedbebb3ea5993438ac1bcc140d4bbcad11962c8d5c3b87dc3726958c0de3
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 256
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1/com.82flex.libsandyxpc_1.1_iphoneos-arm.deb
+Size: 28690
+MD5sum: 2d8078a772703c23fb8154b78819911b
+SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
+SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
+SHA512: 2ea161623fb89d2bf1ef4e8fe76217bacd60ac0a79d969c1ca92d8b9ad812251a83f2f628261071b42b1a85ecb6c50a361da11933930ff8f8b09e0b4d2df69fc
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1/com.82flex.libsandyxpc_1.1_iphoneos-arm64.deb
+Size: 18800
+MD5sum: 89d7ded810109fb0c6354f8c77e5a343
+SHA1: 898a917a89c9f5e13fe56d7587ae1cc66d6d0a44
+SHA256: 471bbd9438ecea2ae4b192d64d71f7b01c96ddf24e8881ded31c4d0f997469cc
+SHA512: 41de98016afe70a31cc774cf9a4c52955eeaab42349bcab30a06da1f94be4a362b1de5bd2c3e828a57644dc9dfb5d8dc15137ed42905a0880d12488f34b0a3a0
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1/com.82flex.libsandyxpc_1.1_iphoneos-arm64e.deb
+Size: 18710
+MD5sum: ace27b92a95e1f97152f796adf684c8a
+SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
+SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+SHA512: 7911b6a14dc2a9af092b5000f1f49757c0c0c86d968c45f2f4f64c9c08f4ecba35d175da7a8487a66c2fc7673cf9884edc85738d7c8ed826dfaea43313743dfe
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 1.1.2
+Installed-Size: 256
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1.2/com.82flex.libsandyxpc_1.1.2_iphoneos-arm.deb
+Size: 28570
+MD5sum: 36f3f7f9e9297bbf4fae2160b611e255
+SHA1: 536fe5e35931582f01de9bfab49df35d11c7a2c3
+SHA256: 83fbdc415ed8f8d972d6ef184e6d467d9b389b056271247f1d7a6760689a3e22
+SHA512: 4fdd437236b71f2fd29f81119bae30bee046e792e2f362e14765333e8aa06ccda964fbf6f141b0ad410dffc4eeda7dd2022322e2442fd0f8c9a3d35aca8ba86c
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1.2/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64.deb
+Size: 18804
+MD5sum: 62ff3fc80d8ef4bc7a1e5bf519789367
+SHA1: 8163bab3f47989e48a1db6664c72ad6c51c73bd5
+SHA256: d26624704006bfa5b16a73dddd5fb92d2ac0625359d60ec2861dd65aad28e220
+SHA512: 86f90770d1532f3b573f704ac5f27f96209983c30ca6cb2e8c2cab457fd9534b31ab96548d965a8214b3d299ae657c0af197598dc73ce6ccd4db96415a23a14a
+
+Package: com.82flex.libsandyxpc
+Name: libSandyXpc
+Depends: com.opa334.libsandy
+Description: Yet another XPC library for iOS
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Installed-Size: 200
+Filename: https://github.com/Lessica/SandyXpc/releases/download/v1.1.2/com.82flex.libsandyxpc_1.1.2_iphoneos-arm64e.deb
+Size: 18724
+MD5sum: e194e2110113ee554e798856ed9b34a4
+SHA1: a4b8d412aea1a3a6afb12460643f1b5d1c96fd64
+SHA256: 8d8ef216d61e0ec9ff335f7298e42c71eedfc5144093a307a71a16a70d47ef09
+SHA512: a2220b87ff814424893b94cff5b9f8659bd7cfb850e6fae15835c4a558a36d51c5322943d2fed6ea02152eab29bc70b1aa0267a82f41c569c98c872fb8c45fbf
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 2.0
+Installed-Size: 820
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.0/com.82flex.noredirect_2.0_iphoneos-arm.deb
+Size: 88174
+MD5sum: aca7cad068085b27cf35884df2735009
+SHA1: f312aa24cea8a38bd6b24fe2258ba37b000a38c6
+SHA256: 45ad259107701492a78ff8221dddcb68a47652d63ec7a43ef395d227ef17d988
+SHA512: 95a0ca4d0d21bf3a28c4e218c9ba4cad7ae44a12311c5879534d4312ac4978a6119c6b04344a3a0210def1f42f5498819eb76dd8c779cc00375b301ffc92c944
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 820
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.0/com.82flex.noredirect_2.0_iphoneos-arm64.deb
+Size: 87888
+MD5sum: 3d25e95675c12da91e114c30b46ad3c8
+SHA1: 31ba5293eb1a0d88ca1aa43c1a2d529ae2925cb5
+SHA256: 970479303f47c46ab90cc3c0c46491e22fc7b7be48cc9ff332142a030e902c72
+SHA512: 369fafe57f805bdb9badac693630e1c41c042191911ee474c888ab3e42b5a756e6a81743986c30aa4a167cb24d072f144a514cb874d81086fad7e70f25d075df
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 820
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.0/com.82flex.noredirect_2.0_iphoneos-arm64e.deb
+Size: 88364
+MD5sum: 9831a65cc2a5e4a01f432060ea7cbac9
+SHA1: ee112f56fa6b7e1c68826b97732fb5077f3b4c5a
+SHA256: b0018e8d1c026189d3339ab064883c1fb8041aaf5aded8f123fa3faecb6123b3
+SHA512: b1cf8a1c16a9473ac9e6570dc97ea58d75dfea75ffdc07e50ba2cc29df26eea32345e805bd4f15d32d9640aac8b75ae71daeed3bcbb76f9d65ed2fd483de8b89
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.1/com.82flex.noredirect_2.1_iphoneos-arm.deb
+Size: 90558
+MD5sum: a8c97509bc3a68eee36101810591fbb7
+SHA1: bfd624937cc8f555692e0fe9ef87232aa51542f9
+SHA256: 67aca0ed8af70705d4bd24dcf55f221e808b1d4c786fb8de9b87bcbcb443ae52
+SHA512: a0de8ebd794b1eee1e98fe69da5cbbf5a1466cdff3b7a224c71c69c5c72dd60c5ecb40f591eb26fe472119e7b2286932cfca50d9cbee3247079d8cb3b5032af6
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.1/com.82flex.noredirect_2.1_iphoneos-arm64.deb
+Size: 90400
+MD5sum: 9e4f0145f39dac41f6650554cb8fc778
+SHA1: 7798d6ece12d6601d549921a78c7570b459b5f68
+SHA256: 548fbd68234f198a29ddebb2f3b0a81bbbe3d6d4e89bd2b19b2c1fb628accc87
+SHA512: 27a4444565e3aba60d437a62a3f6e88909e6bf38b66989ab25f32e1783c0c9e89debf3714f3351817681ecd8eebc921071de799e7245195f61045a654cf88067
+
+Package: com.82flex.noredirect
+Name: No Redirect
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 832
+Depiction: https://havoc.app/depiction/noredirect
+SileoDepiction: https://havoc.app/package/noredirect/depiction.json
+Icon: https://apt.82flex.com/icons/66ffaad634a8a14a39e9a27a.png
+Filename: https://github.com/owngoal-dev/NoRedirect/releases/download/v2.1/com.82flex.noredirect_2.1_iphoneos-arm64e.deb
+Size: 91248
+MD5sum: 832ba88a44f18d6e5594582f4a4d3792
+SHA1: 366cbdf1dec96c96efced0c3ed65deb6c1a52c8b
+SHA256: 8fd67f9b2b9758b68950e57d780988d54bb0fc7456d2852db731102b0635c69d
+SHA512: 819974349a196472577c560f855bb01431f9d0e2600bafa356460d07631e3da2ae922fc94bba12288f2151e5f51e223a10935bb9c17b722ffa6b20a722c1f8cb
+
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: Customize columns of CC and paddings of the status bar.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 1600
+Filename: https://github.com/owngoal-dev/OhMyInsets/releases/download/v1.2/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210572
+MD5sum: 17087344628ffd8f770de97ef9a4620d
+SHA1: 25cf57842ea3145a32fc0a6253c5a1fed74d2df8
+SHA256: b9d053d53bb3b18ca905a4b303040c3712b584ff3a084e05349d13eb4277fb67
+SHA512: 50416ee25423c51fd5ea8567ea2c64bac99c60aee5bffe95198201208bd88725c9950d1e4f13fb58c5f6ded57e35a8702758e088043c9d32c8261b1b43268853
+
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: Customize columns of CC and paddings of the status bar.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 1600
+Filename: https://github.com/owngoal-dev/OhMyInsets/releases/download/v1.2/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209940
+MD5sum: a6d8f1cfb397bc13ddc4ce69f33b9745
+SHA1: fc5743b0fdc2443f95012b2fce8a9bcb58e495de
+SHA256: d85639618cac6f477f364fe0695416c20372b61bfdeb3d90ff86436c631807ce
+SHA512: 63a796aa29e3adba6858b9964822396dbd8469bccb89df089b372a31959c848dfaadaac548751f6f4bb5081e7e8e8c2536b26a3f4fb541263c58f4b183a4c14e
+
+Package: com.82flex.ohmyinsets
+Name: Oh My Insets
+Description: Customize columns of CC and paddings of the status bar.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 1600
+Filename: https://github.com/owngoal-dev/OhMyInsets/releases/download/v1.2/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
+Size: 209230
+MD5sum: 44b7e386bcafbaa75e922c74b74bf370
+SHA1: f3679acaddd38a1775a48ade83603d4f39294c1b
+SHA256: e11225cd476e4bb03bfe6434fb3093bc5aa3b911b9a98bdc81c3c4f7e0d24ee0
+SHA512: 57e668ee995ed49bb4c8e9e63a2b279413ea9ba408239a97f2932f16be1c454c7db2077cdb4489b78051506c3f6d9d78f371c5650ddc3eaf8814c15d07d20686
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 2.0
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.0/com.82flex.removewidgetbg_2.0_iphoneos-arm.deb
+Size: 30620
+MD5sum: 96a36c68aadc92d169c18d34eded8301
+SHA1: b218193b330d2dee6cf6742b3c002ef098f20825
+SHA256: f3fc9c7bb86176a6b55d6c22d2102c8191d8e2c68d081ca0fcdc5acc711147ca
+SHA512: 72e2794bdffffbcf5f8c99b817865bcf571a86e7f6ad5d1680369b8eb9aaab1c39bb4ea364003b2be0b41b35d9f303d2d9b54ede713471148d1ceace18182357
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.0/com.82flex.removewidgetbg_2.0_iphoneos-arm64.deb
+Size: 30908
+MD5sum: 31eb6892d165ec7b33dd8b14a938a283
+SHA1: e72aeaa9ba832a378511031a85748c71dbb6157b
+SHA256: 459e29ae0c357967efe4796b0d6958f18e20179f04b91c73c52599c097123d0d
+SHA512: ad0625750dfe43f3c51455429e9f941195de57629d14f1341146fc81ca171315570bdef620c41ce86989998814d271c47940a49f799c80ddc500080aac6aef6c
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.0/com.82flex.removewidgetbg_2.0_iphoneos-arm64e.deb
+Size: 30696
+MD5sum: e2c9498c45d1990691f17a4236acdf1d
+SHA1: cfbdb6d4505881df6e58bb878fe48ae1f64d7c35
+SHA256: 0cab275aff5edb5fd1320ebe6215a9d087b0204acf9fb3bca1e3d279fccde28b
+SHA512: b136c7851fa496d621a1111b7c29feeb28b13c4773fa7d742faaf0913ffae1e63f3aa2f11ac925be8816c79e38510950e219aea9d2f08d41d36b58dd8254a04c
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1/com.82flex.removewidgetbg_2.1_iphoneos-arm.deb
+Size: 30916
+MD5sum: 8c3f5fd8a298283bd769480fef61e59f
+SHA1: 3ff006805ba4f2b1b2b7ac9cdc67a57964e2eccc
+SHA256: 4578ab4b8611e514069be37fe9f4bed82e3fc26c56389214e2b58cea655fe793
+SHA512: 68ab206fa58ffdf9b0ea448fcc1aaeee690fb43b7cabc3ffd1223c9c7e7d6e095e7c9b924c5ba3494bfacfdd87d24cc316561e07dc400e9d6803d945930e6d4f
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1/com.82flex.removewidgetbg_2.1_iphoneos-arm64.deb
+Size: 31018
+MD5sum: 20ab476f73c53de5f85d6bb531070068
+SHA1: 05a9576434fa537bf91779025fa1ca782c7889f7
+SHA256: 9e0f7a1b2ef465b8b1a38447038a6f9276bcf2a843b78150723ca5fddfad4584
+SHA512: d677ac339e156e16f1c7165868a7b80de68127d6a07f01db757a01553f9cd4b4731b8f6c59ee3a70569e6fb7126b34d2ee8b769e179cda343b4d4a2d408a21fb
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1/com.82flex.removewidgetbg_2.1_iphoneos-arm64e.deb
+Size: 30938
+MD5sum: 787086aadce19bb583c517d273c78911
+SHA1: d62d7d5440e923833a0d5c730f18f7f71fded278
+SHA256: f3dba54177589b1ecd7fed6f4b10b06a42383b6418ce3f7d21d93465630add4e
+SHA512: 12fa35214cd11d7d76ec794521344d2ddeec14dc8568e83e4b654c78598d6930fa86b1fbe8d57e9927bc28b489a00cc668255cbb00fa522911cb5419f11d91ad
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1.1/com.82flex.removewidgetbg_2.1.1_iphoneos-arm.deb
+Size: 30932
+MD5sum: 50da27ad2f4e31caffa2b4c24218911b
+SHA1: ff61a78c51f2f54356a90efdaee86c3f0d3e07c4
+SHA256: 7fd394d081e09ba06a71a61dd7185ddca038d056f3654ffb8e23b985e0cb33d6
+SHA512: 67ff00db960815011ab9a2feb57ebaf7d64237746e1e1b05b10ef895cec8de7becee32202f85e913d795bd6ecf836a95a1efe8761a00f92494063529f280a563
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1.1/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64.deb
+Size: 31010
+MD5sum: ff9a047cb3da42a6aef6d164228e4a97
+SHA1: 23b05c496309feeb704a60c73831f88fd1f3c70c
+SHA256: f59108ea37bc6c13a59c8d6673ec8bf4c545c83b1c6828dff3c21a36f4de14ff
+SHA512: 5e2b024a4c1d54aab8e84d1c3176360dc80282efe69bcc495ac3c9432d3fd2a387d1b06e3418c59349ba654342fea3f05a7949698600594f1dcd5a4bbed9dfd9
+
+Package: com.82flex.removewidgetbg
+Name: Remove Widget Background
+Description: Remove the background of the widgets on the home screen.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/removewidgetbg
+SileoDepiction: https://havoc.app/package/removewidgetbg/depiction.json
+Icon: https://apt.82flex.com/icons/66e1e1e9f7944810d9701bba.png
+Filename: https://github.com/owngoal-dev/RemoveWidgetBackground/releases/download/v2.1.1/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64e.deb
+Size: 30954
+MD5sum: e20d8519cdbe21005cc7bad34872de2b
+SHA1: 20292c85bec5961691106d52a60f03d58c1dbe2e
+SHA256: a8c04a81cb8c49609c6b8ceec29f41989b5605b9c19feaffc6b2751c61f54052
+SHA512: efe57613d580b9efd2e9b80c25768118c0822afaac2d7ed17b1858a9d5fd292e49e9927c2fb3e6372e6079d8d8ca28a2fd79a146b034552866194d5ee6f3de86
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.5/com.82flex.singlemute_1.5_iphoneos-arm.deb
+Size: 24580
+MD5sum: afb6589a4a44dd1571457f7721d2f752
+SHA1: f562add09c0631208e1ac16f84ae2c19adebfac2
+SHA256: fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0
+SHA512: 8f93badcfee82174b30e19a928b19b387a7acec3c1aef609e249b10f5cf83a64499c5ce416e26ce07ba121d59ddd8b28ad7be04f2e74c122433a53fa2b8eac20
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.5/com.82flex.singlemute_1.5_iphoneos-arm64.deb
+Size: 24664
+MD5sum: e8b039f92193b4d93c480b7267b35ab9
+SHA1: 3632614f544037b06ac2a40915402590a5a33b01
+SHA256: 0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a
+SHA512: f43674760d95dfbbdcf63f19e042c1cd6983fae8b0f8324ce08bbceaa50966346616ed2965ee24c2254fe3457b743385cf7dc9fc6f54b3ebabbd0c45046ca92e
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.5
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.5/com.82flex.singlemute_1.5_iphoneos-arm64e.deb
+Size: 24606
+MD5sum: 253c3aabcf18e2c4ef0ad46a08c1aecd
+SHA1: 72b2ff995113cfea61641a4aeabe7b98223086f8
+SHA256: f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5
+SHA512: c37db657603e3d137793860881c3c1347b273212cf89599384e6fdfab00fa7d9a49e38c2ae199763a4111cd153d15d8263c30b7e71f5aa3048bd92d664361045
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.7/com.82flex.singlemute_1.7_iphoneos-arm.deb
+Size: 27532
+MD5sum: d356d3c75bc7ab952d81e62af664818b
+SHA1: 23865092be62b867989241bcbb12678e759f2949
+SHA256: 535f3a5eabf77e99339ec86209173e342849da684ae5fea402c366485f67ebf1
+SHA512: 2a82d52584f17f573fe6df6d099a6c7a838862422bb0f40b6dfa4194eb324a2e94aa1c603663b78dfa09e27a8d45f584188181e6db6e56eee9a5d4f44bfdea29
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.7/com.82flex.singlemute_1.7_iphoneos-arm64.deb
+Size: 27604
+MD5sum: f090597f646cc89bb831f4ef46a6d0f1
+SHA1: 87d61f42ec64f5e0c318347c02d54c91e5c6bf5b
+SHA256: 7b0e514d79e5e52ece7155f4e5642b3eeb3b967ef2a7e9a2df50e820eb28b31c
+SHA512: 316599f8f7a97d45c97849f047bb76a683229b6f9d192f0d9df623a885cef5cc79d593fcbc43803cbb4d176b32cb54fb5e785775ea2b55409dc8678c1d8abd11
+
+Package: com.82flex.singlemute
+Name: Single Mute
+Description: Just a single mute icon on the status bar of iOS.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.7
+Installed-Size: 388
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://apt.82flex.com/icons/670040a6cadff093998f20a6.png
+Filename: https://github.com/owngoal-dev/SingleMute/releases/download/v1.7/com.82flex.singlemute_1.7_iphoneos-arm64e.deb
+Size: 27554
+MD5sum: d18024d01c954cbf77f36daa9e717804
+SHA1: 4dcc25061cd281315fcef8fbb3c8533d0f19d310
+SHA256: 1f2fb99c0ecb6503c7fc10c73f14ff5b14c1a34b4f3240056a79ce21715d5560
+SHA512: 8a98da08536b8b81ab2511e0a3d91e5678ac1576030a8de177d2bfa9414db37cbb8f33e87f7f61a9eece8c761073fbee34c5512739e737b028aa2271cb89244d
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v1.6/com.82flex.singlevpn_1.6_iphoneos-arm.deb
+Size: 28738
+MD5sum: 2edb96d3dc340f83749349cacd57c70d
+SHA1: 58f709f91d4c648747b16c3163e1453f0f59bac9
+SHA256: fc8d976da2c53ff1fff2f27ea37ad024a18eadf5ff31a20aee6dcbf463bddbe3
+SHA512: 11f9b433b68d5045993934cfc77fc813e97ed98582d851ac31c16ae1cccd71a1125e856f24c77b0a3490f99fa0b0dd6aa4a6faaa9fc8e4e1ea2b74af7bd4a6af
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v1.6/com.82flex.singlevpn_1.6_iphoneos-arm64.deb
+Size: 28816
+MD5sum: aecc5941625974a3658e4a8f065d62e1
+SHA1: b815f36880d514edb026d3024b079dc8954b5c28
+SHA256: d2ba9847db8bec6be65d952251e902ebc40d51627add3ef42d7fcc669e4a34b1
+SHA512: 7cb4b8a7ea726d528ec6dcc4da3e57d7a94b6af512fe790e634aa1c882bbae33a989397ef0d72f49674b47016caed8c90fa5c9001083c8565cc88e8f1995465b
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.6
+Installed-Size: 384
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v1.6/com.82flex.singlevpn_1.6_iphoneos-arm64e.deb
+Size: 28764
+MD5sum: 9e58bbd74a5e3934dd7d00663534337e
+SHA1: 7eaa2a57a0e164e3ec409976c738526c24580eae
+SHA256: b27ffdfb472decf2be75a4db9f44f7d742dc80186ad6ea9b03c85bc5ec24139c
+SHA512: e31d32cf0d41a342d111a6b5a3e667774648d4d3c52e8844de355feec3880b1501eaa99e576a01a192931d5551b091c71ec2ef151ea702d4bd5d16ec38aec941
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.0/com.82flex.singlevpn_2.0_iphoneos-arm.deb
+Size: 32348
+MD5sum: d0fb9cae9f2b5b3197cb6c15d5495e8d
+SHA1: 1520944a5f8880ff3466d46feb2d071b6cf39b62
+SHA256: a582164c4a99707b81af6203453bce9a1b58135d82cf9eafa9f13e1e9dbc81c3
+SHA512: 742f8228ecceb12e702c0fc5215b2270eb1b8a8f0d2ce7fb723fac15e0f6f04816db63e3e67942dd1c6128af57cadbfee15f465114c61f2480f82e819b8320ab
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.0/com.82flex.singlevpn_2.0_iphoneos-arm64.deb
+Size: 32476
+MD5sum: f10038576d6dc4cbbede9dafa444b0f7
+SHA1: 76933cdab6ae5f62e53195b1ec72bb9c18b93515
+SHA256: 28a174403162dd630c31e7df65c5300125852709f0c4ff1da652983d2f5ebbd3
+SHA512: 30597003e57dba6203cc9fab96ec89558cf4c6b6a940dd6058ae3c0cde17e14e2ed7fda85a445964f2f62e52cda6a91f08d3f9174e01a550fa9baf53acf92d07
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.0
+Installed-Size: 404
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.0/com.82flex.singlevpn_2.0_iphoneos-arm64e.deb
+Size: 32366
+MD5sum: 6121de59b8bd5b949aec8f113107d696
+SHA1: 70f350bcde14b5edaf5e68eb303f4779481bc0fc
+SHA256: de68e4a58f999db89a7c9e29099ed26fe4042ed7fa4a17c040fec59eec7cd3c9
+SHA512: 88d48ba0bb53f2780b08eb0531ba161af03a7094ab6e793217d30db2790d13dae517a4228d668d7ea475959bd5701b57e6ab53a810b1d3b1590ffd1bf7b22afe
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.1-2/com.82flex.singlevpn_2.1-2_iphoneos-arm.deb
+Size: 35158
+MD5sum: 9c44442f50918e32f0d6650016c53f7d
+SHA1: 53f3dadf1dd2a633e3bf9cb4e525f3609acc1e44
+SHA256: 4a20c265e9ae49f37c7f66e7385de2944fcc67f07c9d659122154a099380424a
+SHA512: ac6dd894b43e8cf1258d4a1c125c0ed8e31548d71e218d2836a9d5390556fad1d568b20f2c4b0b23b8b03c3bc9270eca5176323b7685bc5e9fe767da12370fda
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.1-2/com.82flex.singlevpn_2.1-2_iphoneos-arm64.deb
+Size: 35270
+MD5sum: b7b92c3759b9e13fe368b99035eb792f
+SHA1: 414e9811a14433bbc41af269726f1c5aa845699f
+SHA256: 5678e5d12d089bebf9137636fa6f9e9e2c2873eae00bf714814b1158136b370c
+SHA512: 0b35e6fcd583548862f5334e3ef1639aeed3f75fb510f4073473e93cee46916d2f6eb44e1c23d8bb6b7faf989fb243346341cd7862248778061257d521d56d72
+
+Package: com.82flex.singlevpn
+Name: Single VPN
+Description: Combine VPN state and wireless state into one icon.
+Maintainer: 82Flex <82flex@gmail.com>
+Author: 82Flex <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.1-2
+Installed-Size: 420
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://apt.82flex.com/icons/67025b058a3bc4a08c4aba76.png
+Filename: https://github.com/owngoal-dev/SingleVPN/releases/download/v2.1-2/com.82flex.singlevpn_2.1-2_iphoneos-arm64e.deb
+Size: 35130
+MD5sum: 41e444ef2536d257b15b418a17a83014
+SHA1: d73ece7e3dcb75cd4e8f4d4ca970eadd2ee5d7ae
+SHA256: a8c3d0a45b9ff5296986b74b83c9dddaeff0962b215ff7a06a27e6f772b38c34
+SHA512: b54f0c8503c931f730efc309466b438ec465dd08742cf0be590439b7a1752fd2924d301109a6db6eff49e91c1046e078a3156d6044429e279631c41e93278a51
+
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Utilities
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 76
+Filename: https://github.com/Lessica/socpowerbud/releases/download/v1.0/com.82flex.socpwrbud_1.0_iphoneos-arm.deb
+Size: 9614
+MD5sum: 9ebba1546d9691d88d758a9018097217
+SHA1: 0b6876e992db95a14cf57964d02b187f620e822d
+SHA256: d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34
+SHA512: 09256c6cab2935aecfeabb191600f7f21f2402602abad1a1e5b5a229cfb92b2fca1a93e8eb99177176214fa8471b15121b7276a6029b03f0a06be4a0bb9eb332
+
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Utilities
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 76
+Filename: https://github.com/Lessica/socpowerbud/releases/download/v1.0/com.82flex.socpwrbud_1.0_iphoneos-arm64.deb
+Size: 9710
+MD5sum: f97b329deb6fc1915ebd2cc596789533
+SHA1: 11e6ce86745a4d17a09719ba38622acdbb861e0b
+SHA256: 82edd03a43cc978baf3fb16c60a5a401592737982e67cfec7aba5f3c94502bf2
+SHA512: 1e42c18523432b5b46afcf47fd5a74c6acf756f2114fde22ae5720e01601fa7aa94fdfb13b749bd4964cbb4ef56a25256a7ac7cac16597179325383585a8f395
+
+Package: com.82flex.socpwrbud
+Name: SoC Power Buddy
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Utilities
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 76
+Filename: https://github.com/Lessica/socpowerbud/releases/download/v1.0/com.82flex.socpwrbud_1.0_iphoneos-arm64e.deb
+Size: 9630
+MD5sum: 472c48a941d2446beaec0efd6d0d560e
+SHA1: bee7c381b86650cfaa713f38013ccedf7ea26559
+SHA256: 5287b2ed8939c227c539a267198bef24002bd36591665c03a57c9041a1673f9b
+SHA512: 73af498cf367a2c7d51fe106ea51d5cf608173d88e6817e22bf12373c8d9b5b3baaab87e7a8b29eabc2edc708d91aa4302da1ae60817f5f48ad88c39a0ba2815
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 4.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1/com.82flex.touchvis_4.1_iphoneos-arm.deb
+Size: 939984
+MD5sum: 3cb42fefd935471edc78807ad54d1862
+SHA1: ed98b7d4b3861f667d79ada283251d65d1c16b61
+SHA256: 9c5b734a485643ff27633aa50946d5708edfafebe5ff106fa0a53c65e15b67b7
+SHA512: 2d196666f4709267b4fe255d30681c34241d30ec78b01a0a0741f672e83ca91b581d0eadd84d5d899d693ccebf89729a9e4e35422019dd0569e3dc941402a7a5
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1/com.82flex.touchvis_4.1_iphoneos-arm64.deb
+Size: 938820
+MD5sum: 8cd1167b640a1448881fb2f4be663cd9
+SHA1: bcfe12752bd08f98c5f0bd77558f8d3687c52eea
+SHA256: e5bc556f870a0ac80af457d327fbd40a30d530f253540ad058c2d2fe4197e0b2
+SHA512: aeaeff218a64b7d9a00dc561769c68f9d7f816af1cf365e35cf486548e15c3be29e273d067a27ae8dd225f259ae5c34513f4296076b9acd24487bfd4d02df049
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1/com.82flex.touchvis_4.1_iphoneos-arm64e.deb
+Size: 939680
+MD5sum: 20d998332056fee1aa76badcf6e93448
+SHA1: 678abb7b9bea3b36c59552173de1d43170d48116
+SHA256: d1500a44d6b97ec9357defd52718817d4251bbbc52431a792f06f6e7cc92bae0
+SHA512: 4f55819a3c9ff189ebb8b8b27569c508d56cacd9c862a8d3fd480e25f284c33e2b49f0e97161dad7061884db894f84116e2db148004db979161d18ced4cf9f03
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 4.1.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1.1/com.82flex.touchvis_4.1.1_iphoneos-arm.deb
+Size: 939210
+MD5sum: 758c7fcc75adfec45bc72af01f5b3804
+SHA1: 1d67ed96ee18cef4f6f674f1671528e7f17355cb
+SHA256: 44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58
+SHA512: 3314f4abc7b859752cde2527780a606acb996d5391f4ae8ddcb8fbdeb5e37f3c209086e55904bfb2c294d3a4fbfd571aff977962c28e2289f8af70da263c5a1f
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.1.1
+Installed-Size: 4400
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1.1/com.82flex.touchvis_4.1.1_iphoneos-arm64.deb
+Size: 939648
+MD5sum: cd4b06988e1f23c257bed0dcebb3832f
+SHA1: 0f69fe91c776a6168b60019281d3f0db2b23dfdc
+SHA256: a017ae0cf7e4dd4b0bd25ddd7f55be16ab3b584e763a94bddc3d38b0b30fda78
+SHA512: 2a6a136e54971a0679a5edd4528344de42c306e0a09ac97106dfa25442c18e9c55ad9219d3ee3bde71f3a6f2740961f4e7313a159aebf4302301f27e20cec20c
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.1.1
+Installed-Size: 4416
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.1.1/com.82flex.touchvis_4.1.1_iphoneos-arm64e.deb
+Size: 939388
+MD5sum: 25038374a104dfb5117cc68eac491dae
+SHA1: c7a3b5dcbd5372d5eeaf5d2645fe6269c2eb0ca6
+SHA256: 28cd52b6d9eca9006041f6a9762e4f75d18871fe34c2e6b5c098cf562bd05dfa
+SHA512: 64750ab530f40fd2fdc07bfdf9cdd1dd02c501befea2d6942efd80096121e890f16a08692697cf09cdb12ae4c49c5571e86c0a1c462e0c434512c0edcca9f772
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 4.2
+Installed-Size: 3644
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.2/com.82flex.touchvis_4.2_iphoneos-arm.deb
+Size: 728442
+MD5sum: 65b8c41584b9cc77cc6e019f106a15e7
+SHA1: 812c2eafaa25c4b9dda2d131487f0624fd40dec3
+SHA256: 647ae9295e9ae3e44db516b4f22484435b72ddc54dd6fc7fd6be13e367deca5b
+SHA512: 08da9b33eb037c8a4a33deed48578fa1e4774cfbaadb51f90341808dbb717f4e1573ca727a0978af0d716b2b848c01c18a401082b26e03adf73928fe5cf37192
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 4.2
+Installed-Size: 3644
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.2/com.82flex.touchvis_4.2_iphoneos-arm64.deb
+Size: 729358
+MD5sum: 4ae937680595c18a17e205aa36b2dfd3
+SHA1: f80be4036565dda5f39c8d19713c12a6190e4a3c
+SHA256: d8446ae9362f912a02f653f12907049b7fa2670afe0a5c44c2e3c9194d5e7513
+SHA512: 3d85276d843c9eabb805dcaf1bde55fd8e4a705e7b4258d5a0374126aeae366511e1bf988f6b38c8c00f2caebc0e681c97c0149f3bf4adc67787b16338711e85
+
+Package: com.82flex.touchvis
+Name: Touch-Viz
+Description: Display your touch interactions!
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 4.2
+Installed-Size: 3644
+Depiction: https://havoc.app/depiction/touchvis
+SileoDepiction: https://havoc.app/package/touchvis/depiction.json
+Icon: https://apt.82flex.com/icons/66b862c5328ec2048b895110.png
+Filename: https://github.com/owngoal-dev/Touch-Viz/releases/download/v4.2/com.82flex.touchvis_4.2_iphoneos-arm64e.deb
+Size: 729794
+MD5sum: 61a99aed4ac50889348a90f5344973cf
+SHA1: 94eaf2fac2c57846354202bc9152eebd2f1bc78d
+SHA256: 1eafc4f1393d624ea7cd685fc749c7b7fd95dc81292433ac523f695e0ea78b44
+SHA512: 65c6ba794b20d0f25b96e0af4acf7f2a4aa631184df463ce3a2d3d9c5c81804b9e8641c19b35fca071ea133f3d1a65697167a7945427fac668a2e215e0355391
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1/com.82flex.trollvnc_3.1_iphoneos-arm.deb
+Size: 1489728
+MD5sum: 167f062910c1759ac2e5429cbe728a48
+SHA1: ec2c63c85ef63a8f68eac2f856388bed7aeeb537
+SHA256: 77ed4a1dda7b02e48a99a1073e8e7a1915f54d7df8b1fa22a9c310568afa591b
+SHA512: 733ccbf1338d178c0e48436cfe36378df1f676100f6c978449657c90066c0bf693f38bc3363b2a202b703bcac752cc8a468115d9923ac4994f04363e5156cf63
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1/com.82flex.trollvnc_3.1_iphoneos-arm64.deb
+Size: 1489200
+MD5sum: ebb2e8840f17fe9a03c6befb6c68a16d
+SHA1: 313d54a61c98627344086924192025b2b9195c2b
+SHA256: 6dd3c62e1fe7a0d6683238046cf9ddb15293d859fc4e6147b5fb08527a967ee3
+SHA512: ffb3bf0a274be2fc3ad950b813e9bb0b56f0059afccb615927136eea8a1b58548f102b6d481558bb92d2cdf82f639753cc68b5a916fa6a7c92a25ecccbce50e1
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 3.1
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1/com.82flex.trollvnc_3.1_iphoneos-arm64e.deb
+Size: 1488668
+MD5sum: c6207150d69cd5e040562cf3421ef6b9
+SHA1: 60d450b28e2f4b07d356790e5fcab05728698f71
+SHA256: 900938db05141df5174b5114449a76d025a295d071eccbbb249050459a34eaef
+SHA512: 0e888fb6e83b07f73504bb9c7a0585e8c919490c5072138e4ea577cd5081c6d656d960a8b39b6191b98c43a9d7172865bc827931e9b6000a0e49a0039033fe46
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 3.1-2
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1-2/com.82flex.trollvnc_3.1-2_iphoneos-arm.deb
+Size: 1489658
+MD5sum: b5502807ed2d757cb5454460bbf43371
+SHA1: 884969d00e025c89e88df5d373d74e480fe72483
+SHA256: 9b81c1205efe0ae3a9e54dc3c0060e856c594dd94e66f6e7d5fbb5163d8ca259
+SHA512: dfd7ce0b5ee4c4995242b054dcef4fa886e3b7fbf033f69ffd67fc755c3bf932d6ccf5969efc461d12df11a68e387b633a707fd35346defeb0f6999968d0973b
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 3.1-2
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1-2/com.82flex.trollvnc_3.1-2_iphoneos-arm64.deb
+Size: 1489622
+MD5sum: 5f3d2d4a354688e51abe0d2fe571fa5a
+SHA1: 88ddc13175c4e10ea1f758f87f26251e5cc79e84
+SHA256: d9fa06f1bde8381a123bf2666634b91ab32cf1d21b84d4a8f136b1596d91edb5
+SHA512: 138f65e70d3a9f28fd79e5b612a7afc29ae17cfe352379d1cbb97c2a4c81d85f2db2cdc3659d8bd55746962cbb43c42152250d39cc0808a53e05c74949c10f79
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 3.1-2
+Installed-Size: 5684
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.1-2/com.82flex.trollvnc_3.1-2_iphoneos-arm64e.deb
+Size: 1489366
+MD5sum: 68b2f61fbd2fceaf778ae498c96f78ae
+SHA1: b4528952c7e4649d3eb5c1d1372fca434d9b0597
+SHA256: 9e5c1f35338e35c12cec91f08255aee78f9f563782a95dada9be38302988aeca
+SHA512: 074611e932efab9a014505f6a0267b64b4d0ee284adc23f00b1c71c5b972a55d3947b2699616749119cc33cb66ab767f022d279ae526574da5e4adea299d9432
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm
+Version: 3.2-272
+Installed-Size: 5688
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.2-272/com.82flex.trollvnc_3.2-272_iphoneos-arm.deb
+Size: 1491668
+MD5sum: 37023788b25fc40a1e1960ceee61ae3e
+SHA1: 7d7adf6ddff905bd43f0030b41a68766b2374aac
+SHA256: 6e19c0e3df87ba1e83e6ebf2208c3480ce7defb858c2835ac50cef611d385028
+SHA512: 8d90b3e74c9660e019e96c512bc06cecb727669fe9e09f8cb1d9a4dd4a48ba6c2e9f608fdbece70a44174eb934a1eec48023ee08495374f5475c0e88befb1ce0
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64
+Version: 3.2-272
+Installed-Size: 5688
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.2-272/com.82flex.trollvnc_3.2-272_iphoneos-arm64.deb
+Size: 1490508
+MD5sum: 11cf7913044f86da923a52be444d6576
+SHA1: 302c60857c9929f32851c9f3071b7307f2d7b60f
+SHA256: eff873a15d6b5a2afb287111f04a8a89532cb4bf7acbf63b5e3160c8a27753df
+SHA512: a0b04b8183eb5f72c5f17d335c7e2983045126377c5aa2275055e28c7e4cb8f3b2d27a2b800de7db8aab924fe8d853037b9771c097edad99a1aa64f4825ebea5
+
+Package: com.82flex.trollvnc
+Name: TrollVNC
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Author: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex <82flex@gmail.com>
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Architecture: iphoneos-arm64e
+Version: 3.2-272
+Installed-Size: 5688
+Depiction: https://havoc.app/depiction/trollvncjb
+SileoDepiction: https://havoc.app/package/trollvncjb/depiction.json
+Icon: https://apt.82flex.com/icons/68b5c442ee3a688bd20c85d5.png
+Filename: https://github.com/owngoal-dev/TrollVNC/releases/download/v3.2-272/com.82flex.trollvnc_3.2-272_iphoneos-arm64e.deb
+Size: 1491520
+MD5sum: 1fdc2b1a45bae1963bfc9f739eb22ace
+SHA1: 64ebd0444b3ebb8a082b5b91c9c683159f5874e6
+SHA256: 11e70ac68919285b82450c16008c788d28636edb65538ecfccea12d8642db4a2
+SHA512: ab587620b71b54d87f59c425da583ea2f0af8b0647994d46bf6d2a641a552a24ac5d13b5ab2b54b2a7cf2b9f1cbd66bd313773241a71bcdf7f853cb1c2723993
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.3
+Installed-Size: 484
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.3/com.82flex.unseen_0.0.3_iphoneos-arm.deb
+Size: 44170
+MD5sum: 12ddef79a4e1c1ec40349f8d9ec36508
+SHA1: e8318a8ded59e1fa6dc412aa081d976e1b12b13f
+SHA256: 9b20b74abc06e24bffc21e9d1c3e677de464125bc5c66f9adec0d5fe4f9448e5
+SHA512: 261c7902d8881fa5ed7c8dfc2d863957ff81b8ebb662164d08410a19fb6f2b41df4d6cb3c86a4b15683ffc3ac7c419d60e1ea9daf4c6ee7676f3f8853ab2d6b4
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 484
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.3/com.82flex.unseen_0.0.3_iphoneos-arm64.deb
+Size: 44278
+MD5sum: 81afb0bb7de168166148487a001f602b
+SHA1: 7ec3c8596baaa83737f11a4a303b8c091e49c141
+SHA256: dcfb950e9af707b9aa884193042b891dfb82e802d0c0406ab8c132b2adff393a
+SHA512: 9ae167ea79ad75c22d9b6e3297a27ec3f3d06e163ce4b6395186354ccf57c84faec511306c548320ec530e2a1705b87b5ef0bf20eaad50fc1b12bfc028befb11
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 484
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.3/com.82flex.unseen_0.0.3_iphoneos-arm64e.deb
+Size: 44182
+MD5sum: f270516aa4e8553ab795b3f96c357367
+SHA1: 170cf2b1dab28da395be12945ecfb966a4854e32
+SHA256: a8b5c55e837e57d9f29ed894fc5ac96d0972943049cedfd5ebf6c833a82fbfcb
+SHA512: 843d540f089468e3b08f4d1a300612b04e692df54abd76f2866921521bf65bb255590036769ff5d801dbcf6e87e9cfbdb85d431d3ff051aeb7cf02dce73024ca
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.4
+Installed-Size: 512
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.4/com.82flex.unseen_0.0.4_iphoneos-arm.deb
+Size: 52266
+MD5sum: c065d5610671205ead1e1a3dbc224bab
+SHA1: 2310da6393bc5fd4343ed79dc3c8e0f210300033
+SHA256: 845d58a8de3455bb717196cd7385fab9fe10f75d57cb175af0540375944ce52a
+SHA512: afd27beca758bbabcba4a8fc2cc16f362e96f0875da0142b1937c628d997678a6ab55585f136ffcf001d97c1d2fa1da11d10cb02a9842474a16e8fde281ad62e
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Installed-Size: 528
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.4/com.82flex.unseen_0.0.4_iphoneos-arm64.deb
+Size: 52128
+MD5sum: 1aa7bb748df61e91e6ddef445c749923
+SHA1: 3bf911988a820d010444bd68ef6cc875509dcf4d
+SHA256: efa30b91b8831540dd88bfc618404331d6035915d56325060c79b66938a3c47b
+SHA512: 6134ab1280ff745888162b14e4ae9334fc7ab7508bc7e1d6c88528ecec8eb1f66aa12467533f2c6f35d2dbe1e957ffefc5ccccd2abb9a26bd214098e331a39c9
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Installed-Size: 512
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.4/com.82flex.unseen_0.0.4_iphoneos-arm64e.deb
+Size: 52314
+MD5sum: 59896424c111191eb3a61b128830394a
+SHA1: 380f7f67fbf8e3e45b6d2a2cb0368f687fe792d5
+SHA256: 052b8cb9d75665db6f8de5475a3d2412adc0a16bb0629294c7cd1c0fadc77979
+SHA512: 47f4b2cf9c3f925a3c00599e56ceebbd73abcdd1feafe38c09df13e967d12cda0e527f72a142bb3ba30c53c13566958c4f49300c2dd4108767c6e46f38c0b93a
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm
+Version: 0.0.5
+Installed-Size: 492
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.5/com.82flex.unseen_0.0.5_iphoneos-arm.deb
+Size: 49816
+MD5sum: 3e726f31ca67f0571b341612e7ae9137
+SHA1: 7dc48057c5a0b445727a56f5f77aa86f13698f4c
+SHA256: 6c4aa0ca5a6f44a5ccc1c41d303f604edee80e1bf860abd8a06e95049a10c57d
+SHA512: f9fcdd6fcc88154d726274af53a01d656b03fb42b3c7796e9b79024b09b057e60e073d996ee5ae19c4b27fdcf78d6fac99d28b577638f2c462efd40ff5f8c6e5
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Installed-Size: 492
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.5/com.82flex.unseen_0.0.5_iphoneos-arm64.deb
+Size: 49876
+MD5sum: 2905eaa7b25d9dbad0fd7b4b6e301405
+SHA1: ded053762c6d76ce461ca87f448620faa8c65587
+SHA256: 74f8a1df69bf25ef3a733d4b783ceeb657b61aed9872790f5e2af72f17139ebb
+SHA512: 9a95099bc75e64de1ecba1f826bb9e589b65c6bc331082bc9e06f470c2ce248fea6a83e20d9c54f32dd9297be73f801c4f9865c4a94fce38d7f970a65cf78cc1
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 14.0), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Installed-Size: 492
+Filename: https://github.com/owngoal-dev/Unseen/releases/download/v0.0.5/com.82flex.unseen_0.0.5_iphoneos-arm64e.deb
+Size: 49798
+MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
+SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
+SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
+SHA512: 60351b7c48100aa4b127ef75374018fa9b164e78abbdb621df5d6130ef4ffa9aac2d187fdf4d435c598bcf0e5a07cc14f3dfd56ce55a3f33c9813b5f695a2e4d
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 400
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.0/com.82flex.wtvrbglauncher_1.0_iphoneos-arm.deb
+Size: 22756
+MD5sum: 34443cef36f852257d094de290fdb1b6
+SHA1: 94565e212c325f78a15c14b5654eed245b8837df
+SHA256: 93fd4ff2e40d4a76c7ee40eb13eb11226efaa6b2f7096035c99dd1dcbdf7b728
+SHA512: a0b36dc7076dbca6d35b7524287b0a74b7e50481fd04800d88dcdaeecbf4c2cee99ea899bd352658fd1653318f2c2a15b2104f042f0d39a839801e6528c38481
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 400
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.0/com.82flex.wtvrbglauncher_1.0_iphoneos-arm64.deb
+Size: 22806
+MD5sum: 9dd40ee3a1f38d0309c5521c20427ee1
+SHA1: 6b1babb05c0d09eb0661921cd5a5ceac87bb70a6
+SHA256: 43a4b878940a5f986d26559b71d6e11d5c485e73836218082ea446622cdb1c04
+SHA512: c2cc142c0880c7279d5127553866ccf22fda45f29cb6f1322cac34ad37d7a0123207596929ee937c9a9fc7dfaa5ed66476b08804ccc7caeba14d95a2d3cda641
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.1/com.82flex.wtvrbglauncher_1.1_iphoneos-arm.deb
+Size: 22928
+MD5sum: bfcdce23f19e6b989efd1f73b49093aa
+SHA1: 636e6ddf9f1db1dde63cb9d3ab4e65b568998284
+SHA256: d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e
+SHA512: ef8863d18e82c3e715aef7829ccff62249b4bffc1f5db39c9b3b2e7171c3fe7b995421bce6eacc5c21551b545caa81c184f2fa795c380b6a7d8970b618c97adb
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.1/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
+Size: 22988
+MD5sum: c46edad471229dc36a2a33bfcf2534cc
+SHA1: de63152ae9e99c958e17d4c550974791d2ff7d40
+SHA256: 67dca4ec95e6a0e25a9b2f726ce8ef5db53599e28c05592ae5e30899ba6cef11
+SHA512: af09bfc823731cb9ba803f7768068fa58e48c4a98138737a7cce76474c2305e500dd016f8917f490315ff74474c65bd8c82aa6c5af9c3e602274e2d2a2d1dce6
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.1/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64e.deb
+Size: 22952
+MD5sum: 8ef0fd3611d4b26b4e9376e9617bffa3
+SHA1: bc5c2d3146e45780df111c757c000da072af7f33
+SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
+SHA512: 66f07636e39f6c50f9bc9ea7c1e69bb1225f23ef4c59bd02ef9781a7c6bd797bfa75c6de35d3dd94cd8c1f3ed29d62c0b36b1d6a7e335d0a1fabc5bcaaa7bcdb
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.2/com.82flex.wtvrbglauncher_1.2_iphoneos-arm.deb
+Size: 23124
+MD5sum: 16d4ec705fa2c9d15dc69eaceb7acb27
+SHA1: 385041c40810b3d96e4d7ed457002f9b33ba6270
+SHA256: 115f51a1f523efc086a87ad6a1d237dd925f12e5ebbde784d24b4e9de1e1703b
+SHA512: b19414f52ed48d3e06b9cccb8a8bffdaa94a0aecacc5ef77cf2579a25ffa18ae06eceb5b9d7792ee28b39344e704675df3b7f466a6393c99a934e557b5b29e3f
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.2/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64.deb
+Size: 23218
+MD5sum: 6881fb90689fb2fc0a427890389e67ee
+SHA1: ef10c4cad9b6c365e2e87a93b7365c95de930558
+SHA256: eeccd14baf5afa224202f49f2e7bd3accc6c710c80d411e7f1ef6f2529330257
+SHA512: 0b6dba9a74abbcd6e87b7689d565e860b57732e408b48d1fc794ff4b1cd8477b08b8a3b64edd5312eca4b2ac732e034cc26e6558272efb37484da4beb0dfaf51
+
+Package: com.82flex.wtvrbglauncher
+Name: 语音转文字免跳转
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 372
+Filename: https://github.com/owngoal-dev/WTVRBGLauncher/releases/download/v1.2/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64e.deb
+Size: 23160
+MD5sum: b096d82dddf2b137bb040048d24814d3
+SHA1: 87097a46e8bc4073628f33f1d83c8436b0db862f
+SHA256: d0e793dc822842b9c0d32d4bb00f33c9e1e9ac80c11833380f2a2b24d844bc5f
+SHA512: ed429ef53208c966191908af65f9a078f239b2eace0bf6f514a8aa429283dcfd8fa26bc047897e7d9a9c28cf5a9ba7b7ba598c1f054d87f885096a0fff6b03d1
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v0.0.1/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm.deb
+Size: 59308
+MD5sum: 37c4ca9a3c40d4cd9b593e46ffe7433c
+SHA1: e6df921e84f964a40df3c75b8176a2b1adb506e1
+SHA256: d648e9346819a47aa73d0e0c2881736102009156597d214f3380708f5f1d201f
+SHA512: 8231a2ff75b3bc72eb73d8141f8ee4f8aafa8a6e6c11640a65513c9b3310d7312515ad22678db994282f87d8e86ace23aa9f4daaaadae6515882c18d579e9b80
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v0.0.1/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm64.deb
+Size: 59376
+MD5sum: a917e5235f05246c9139146cf13fd45e
+SHA1: dd60054e45cc22b902487276d01b73552160d44f
+SHA256: 5ad7bde92b4c0c2a816036b233b98b38d91bb24b8a79657bef7e95b5bfac23e2
+SHA512: a9b98544b7e13c356e1e9b9aa8357d95ce0b504701e6839a13faa7f5af43c69aec7b40315c42cb957416281ff524f01f92ee86498eb9417aba0c145bba41438a
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v0.0.1/com.82flex.xcodeanytroll_0.0.1_iphoneos-arm64e.deb
+Size: 59284
+MD5sum: 595c42b0fe1267316136b86b2fc6887c
+SHA1: e199cf1e5b32674bf0a4831baa2e50b0786ef065
+SHA256: 0b78ff535b13a38b40b708863feac56a0cc7d1512ddc178466b7aa428b4503b2
+SHA512: 941a6aaf820cf6702ef769eb3763d08cc49d9da8b04c11dd556b81bcaa05af59ad199397b2b11e20f013c8fc57cfad64d23ee8ee85cd218acdd10a29d612e90f
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm
+Version: 1.1.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.1/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm.deb
+Size: 59574
+MD5sum: 42ddc7af3fe2ce27457c0926d66daf9d
+SHA1: 1e949f8efb641b5134e92e1c7aa84842c81c0219
+SHA256: cf47df229a705e3928cdec752f5587985b8064a43ad3e0a6b033de25c8a277d6
+SHA512: 7bc77a6fa6bd19d5fc1977844ff9a65d930357da45e4d7b85b6fe5813d7474b0d7120c70ca34d7859576617322b46a013fed76ca82a53939c51e01daf9f3627e
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.1/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm64.deb
+Size: 59522
+MD5sum: 896338ced44b7c8c104222d7be070f85
+SHA1: f9822c5b0b7289d13537919b784aa9fd582d56a7
+SHA256: e17ec612653f188c59eb558932e90ea54f77753bb42a69adab9d0511c2a1c8d0
+SHA512: 6d90ff9728c0f667730cd37ec0d76c3353ba0881c945c42d610ceb5d340f309903e3d3d937dc2052508e53e4e9e383ffeb484973a67223a76f39992409c3dca8
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Installed-Size: 436
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.1/com.82flex.xcodeanytroll_1.1.1_iphoneos-arm64e.deb
+Size: 59446
+MD5sum: 2d7cf2696ade09f46725c412171491f4
+SHA1: 7d1b1f75611a76a9867f81038cddc484a954003e
+SHA256: 7e461a9de5c19d946b29c33d09acdf25d1f735074b31ba19798e63083ed1f77b
+SHA512: 4a6a744aa37f09ff7b789446f7a6fbcfc1311e4c819d05aba70b1e8a2ecb052ffe1e367bbbce175e88b679cd2d6950c90d0ceeccdf35f6606519a127006e4d9b
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm
+Version: 1.1.2
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.2/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm.deb
+Size: 60198
+MD5sum: 11816fe59bb1739b52ef108757571259
+SHA1: 4e8cab4d4d7c0bf52c48edcd929897d756fd57d7
+SHA256: 5275e41d744cd5d6a6718f1892d5299e6ede53a673b9b5da57d724b9bd6b411a
+SHA512: 6a8469c86110e37d083919f76d7f6b3cca19f5d62332af3b161bfeff3f71ae038c82296341f25e9fbba3d5c48abb413d6c9b0e13f397242bd1df6510519af3af
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.2/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm64.deb
+Size: 60254
+MD5sum: 90070b06bec7447cffe07851fd54380e
+SHA1: 411948cdd6739e3b1e633babbb3f3faab511e0ef
+SHA256: c6f5614d281c407d724bff9120d658a648b6ce6c3803cd7dbeff9ac78cc9fd7c
+SHA512: 1ec201d3a513dc5e42905fcf4d1c735a8ad6554617339890778b091c929d1cbac99cfa5284f04b7c1c8e989aed5dbac0abb3d5d5c5565b60af0a981c68b5a052
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.2/com.82flex.xcodeanytroll_1.1.2_iphoneos-arm64e.deb
+Size: 60162
+MD5sum: c386dee37cdbb6274d7a4e0608c3e823
+SHA1: 13c03862e2871c764c8197f35b1827a01dad2d17
+SHA256: 89df5e771ce1efea01f9be52d088befc5965a1ed1a0e7a32d8bc0a0bc5e83513
+SHA512: 4c78de7107c63187546bf4137a28b71225274ea7355d523cbf51f60cf54e2e3349ad6e7bffeafeaaba0e8e11664bae28d9942160ff04e7b67d88531515ee5960
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm
+Version: 1.1.3
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.3/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm.deb
+Size: 60222
+MD5sum: 3edaf0be3c6a273610e4ef45fa5474eb
+SHA1: 099d2f786c9d24c381b30cb73e6014eb1c811a96
+SHA256: 17106b1f3de6d50dcd6305fa8e463490211e1aa829aa6619c34fc62f09b3fc5f
+SHA512: 06569d05ce4c1216529a4057ba005c790ae51aa4cf41d9f2bf94c3c88df69f155305593bd0e4e208d5d2d7deb5b0007bffbea8d4fe0163c81546af5801588a71
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.3/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64.deb
+Size: 60372
+MD5sum: 74549694a8e01bd6b8d36ad58f314c83
+SHA1: 6ac46b34bcfaedb348c9b289204fd4e32c499505
+SHA256: 6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128
+SHA512: 0fa3b7acf932f655db9522f5655332189eb857fd123f9b3567a61b71c5584b7b1b448c292b7f66eeeb203d7f9cc8886405d98707c5449ab92d1e8eb427fb3a49
+
+Package: com.82flex.xcodeanytroll
+Name: XcodeAnyTroll
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Lessica
+Author: Lessica
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Installed-Size: 468
+Filename: https://github.com/Lessica/XcodeAnyTroll/releases/download/v1.1.3/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64e.deb
+Size: 60302
+MD5sum: 4e6a87ec0a9bcb52d01224da4d653bc6
+SHA1: 0a91bb948bd11ab365d3a65057806e58efd8144c
+SHA256: 3861c1a474e75a42b657f93ea5427493d1601041dc14bd0bc87e4818befaa307
+SHA512: 253d9fa7f7880235455c47e7b7519788d302f2cf70e99bb0647114cb957bf89a79527e2d8c919192e32bae9863edd9fe7ffc129b8b6edcf574303b7746963622
+
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 368
+Filename: https://github.com/Lessica/XcodeRootDebug/releases/download/v0.0.2/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm.deb
+Size: 27092
+MD5sum: 763252e09fcdcb066e7c5728e9034e26
+SHA1: 1132edc177d9824320a2c1bb5a819c930b99ccac
+SHA256: 82531c61768c76f25bc288c9ab582e61980f15c25a1bcfe5506cc7eadee32ef4
+SHA512: f2cc7bfd24ac7a6f4c469784b82d0d13edc4acd397159dedbfea7f48c78e2e13752fd22d1bae91a66c421031774c6f96aa2223882ebf0cfa6a7835757372088a
+
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 368
+Filename: https://github.com/Lessica/XcodeRootDebug/releases/download/v0.0.2/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64.deb
+Size: 28440
+MD5sum: bd3fad061566342dd6764df322b7755f
+SHA1: 641ed37cb5e6380a2ba84a9f1995b519469edd02
+SHA256: f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e
+SHA512: a9004c2ec9d6fdbe0a2a07d33597ddbb45fef4bce82deb7ba8b5c98325c476763fb0e227c3d60c660018c145fd0574b9e29c7a2693fefa077bac7cb403db5bbb
+
+Package: com.byteage.xcoderootdebug
+Name: XcodeRootDebug
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Author: h4ck1n <luanpao2014@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 368
+Filename: https://github.com/Lessica/XcodeRootDebug/releases/download/v0.0.2/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e.deb
+Size: 27148
+MD5sum: f01f05ded5397ca0e0d060c4d000d706
+SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
+SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
+SHA512: 4ddcc6a22758a5837c440fbe4fca2243443d273f90e5686b8d5a7c06a9017067b755eb38a1925714cdccdec7f62442e0d8100c8b9d5b467a9f46635d6b94c8b2
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.1/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm.deb
+Size: 595032
+MD5sum: b30fa6d73c417975a8514df986af886c
+SHA1: 1cecfced1e647abe5cd328b433a1787fa35138df
+SHA256: ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8
+SHA512: 3edffd756277b70fccc7d09d0610791477d4b559b1dac777ae71010fd2c9b451587f31774d3909cb927d7f01049a377f961a1d0dcbd03ecab4f4194c5696cf04
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.1/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm64.deb
+Size: 595416
+MD5sum: bdd2d347818d059e9bed3d4ad13791f2
+SHA1: 74aace509364b0918b3d28252810685273d5a7b2
+SHA256: e5d8894ad558098d427a76bd1aa64551b357eb01a0ee25dc5f216412128793f2
+SHA512: 5903d3a0aefdad44ff8f1c22b1d8b23cf7b536ddb5e86b6a9591d42e593ef92bb8f4ec48bb1303a5ab80355cd52b9a59e6f5b662b8cb25f29613031146fccac3
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.1/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm64e.deb
+Size: 594684
+MD5sum: bbcf152c24e61cbcfd14adfc1b709b12
+SHA1: 3f5788037167d37e0d16ad6f189fcfc57f349c86
+SHA256: 7f801f25dbfd5d3c412f0b62ea16c661265d605e08bb0f6cf2985cbdeda17d5d
+SHA512: 2ddcc51a957d617e192254bdf7def9a65fe7d703dcb5b11f08f2f20e8864461fc004d7196c095213ae3b3b4ed084fd2597a8147016fba7a96f1a0e46806cb44f
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 0.0.2
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.2/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm.deb
+Size: 594784
+MD5sum: f8bf400348d2fa79a02efc3ff85f4856
+SHA1: 9bedc34d8a5515e4c6aa349a3b4aaf78b20f154c
+SHA256: 7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec
+SHA512: 731ad6a051cd77307b93b13329c56dacc5d92e929478bcc44d981a396d84754648784a08d5959c5eb17847cf0188800d92b29e734853114e49c729d804553124
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.2/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm64.deb
+Size: 595062
+MD5sum: ef8c25af32961ad908f079540faa1c6a
+SHA1: 312cd869eca8e180b0db1e36b732c2f05f606d68
+SHA256: 080bda30980c4bf932fa375eff047d9f689bcd30f7aa547302f22412bd501dfc
+SHA512: fe13828e1f3ad6f270e884fe5e1825cbf0d9ff20973edd70746c5b91431a43d81fceecdd1589fae6a5e4299d1f80e0ed14d217f838c50874432fc2f6fc33f3eb
+
+Package: com.ethanarbuckle.objsee-framework
+Name: objsee
+Depends: firmware (>= 16.1)
+Description: objc_msgSend tracing framework
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Installed-Size: 4196
+Filename: https://github.com/Lessica/objsee-ios/releases/download/v0.0.2/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm64e.deb
+Size: 596148
+MD5sum: 2aa4fbf7c1ab3e5b7750bd53be2b1aba
+SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
+SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
+SHA512: 0aaa646b46e5799cdde3272981cdf8c4e5cbeffd948a0267656188f2b3694e328bc43c678283b15fc55fd1ed652f4233c6403b20bee0cde7bdf504a740076e7b
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0/com.evilpenguin.networksniffer_1.0_iphoneos-arm.deb
+Size: 14590
+MD5sum: bdada16dde40c08fccc511c857b58999
+SHA1: 40f7ba7fce32236c1116c7d25febeb284d4f064b
+SHA256: dcb5f459a2602e0c181688e201fa10cc7bf7ac3b98545ac10d6dadde1eb2d80e
+SHA512: d21948d778c4fd058abcca72574214cf9c0cab1266a4b5dd4e6c641f676688589fa348eceee80ba5e7025da6f3395e01bb187ec1911a2c134ea1be70d87ce009
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0/com.evilpenguin.networksniffer_1.0_iphoneos-arm64.deb
+Size: 14680
+MD5sum: 0a2a2e9c9d023d567e30436ec017ffb2
+SHA1: 3eeb23d15884eeead8d8337741b3febed735f803
+SHA256: 832e0a516aef94b50b8940e56de0a7bcbc8ddaeaedd94049b02f1c7cf5afca98
+SHA512: 1ca0b415b21dea2a85b727e56d566172af1d1b2e4a1fb16e17cf9839e7e1a0c08e873525b02354197764737691b577c4e9aa5b723826bdc48ac69664ce8e3f1d
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0/com.evilpenguin.networksniffer_1.0_iphoneos-arm64e.deb
+Size: 14614
+MD5sum: ccae17d76b7c187579a86a8b9a22b8c4
+SHA1: 271a1f7c9791ab29557b99c4a206130d86c4a6fa
+SHA256: 05e923674f35be98bcecb0b8015c0f4c68430a329de846479458f261b22893f1
+SHA512: a5a5e8a80ee458b404c51a1fdca6d5e8d4e5fb60c29396dd1a331eb162db1a57c106e874ec0e404dfa83891a45ad68bd8191a3be5a81f6db7cca9212488660d1
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0-2
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0-2/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm.deb
+Size: 14976
+MD5sum: 8deda8726fed3e2247dd05131bc6ec80
+SHA1: 8e653b2d4b296ee4f7114ea6e2765e64dcca6853
+SHA256: 7fd36ad6c0ab5883f7876728198b028069cfddcd2e54e9f6260ff65649a3409e
+SHA512: 6f8efec59fed2df287fd8903f96932a458d0bfcff11176a6e5ec4b1a904e9c1f98c43e94775069df56f976ffc45b9ff92ed4a3c000458359fc94cb583a953a23
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0-2/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm64.deb
+Size: 15084
+MD5sum: c5b1054d47e5aa8b692c9390bc297d8f
+SHA1: a705d34a395b00709064ebaf583d99f22b3a0fe1
+SHA256: da67ed0cf9c9e8aff76ca05f02cbaed2498918b2932935028d2568ae65035b6d
+SHA512: 98e600f3de980eba9389fcd1887b46344b21d5f0362254b967a0e5b80d4c1d73c34da8bb9d15379041d2626ab0cd16cc0d6d892aa741e88a5a7defe4563a2608
+
+Package: com.evilpenguin.networksniffer
+Name: NetworkSniffer
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: iOS network sniffer
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Installed-Size: 352
+Filename: https://github.com/Lessica/NetworkSniffer/releases/download/v1.0-2/com.evilpenguin.networksniffer_1.0-2_iphoneos-arm64e.deb
+Size: 15038
+MD5sum: da5b60d022c882dc4b6d19b74fb6e75a
+SHA1: 47f6ec22eab5286cb68e14abb6ceeeee2ff2a4bc
+SHA256: 4fb7aca311110b47cda17bf7b87c36aa8439c1dea2537cbd5a646591ecff6804
+SHA512: c7e9fd76593f7a262477493dab8349f5a98e14f5f9b3a0f5bef880805a0369c446126b15400f4ececbb40c55b72d7c6a3ef49ec653e9c9057b53b94878c9b39d
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm
+Version: 2.3.1
+Installed-Size: 17812
+Filename: https://github.com/Lessica/YTMusicUltimate/releases/download/v2.3.1/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm.deb
+Size: 6483776
+MD5sum: 42ef6d4251ca88da8d53c53dd9f31383
+SHA1: 9ba3b709b50db31de9e8adb591f4137af2206777
+SHA256: ca833cbd358250e83e0b63015d66be735e3951b694b7f7264df54b2351660bc9
+SHA512: 952668542f05680701e5748723742336fbcc6635aca9d686a6114f9d58f975e878a6a2b112290bc1806061e0d0b3616e6f0a91a3502381db8e0682fdc6c23e00
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm64
+Version: 2.3.1
+Installed-Size: 17812
+Filename: https://github.com/Lessica/YTMusicUltimate/releases/download/v2.3.1/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64.deb
+Size: 6485848
+MD5sum: 7ca0bba528aaa1fd8ed76cc219dd6977
+SHA1: 816496412067515b29ebfd3a59f6a07e5915ccc2
+SHA256: 57aa82b18b5fc5ba7b8dc976db893774586d284d9e380904078e077869652700
+SHA512: 61459a9bf80b98d18dfb9a47903a1f03bd928d777c42a2cf008188bab230da91d7bf7b28780810a0e62982da26cb91bbdbfc11543d20dc04dcf5901b8ad85b88
+
+Package: com.ginsu.ytmusicultimate
+Name: YTMusicUltimate (Lessica Fork)
+Description: YouTube Music Premium
+Maintainer: Lessica <82flex@gmail.com>
+Author: dayanch96 & ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Installed-Size: 17812
+Filename: https://github.com/Lessica/YTMusicUltimate/releases/download/v2.3.1/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e.deb
+Size: 6482952
+MD5sum: c461271b6df7342d518d6cc133edf8a0
+SHA1: 4396245f0b34e8e4789b8717eaf56cedc90a9346
+SHA256: 969ff979217e9ed16f4d76ee551dfbb013c46d7615d3f9f168d2a4e7223fc4b6
+SHA512: ae375d49379c84946b0f4b30216217bf698e770d38068763da5d1803038a710617ffac39ea757f365ffa66558a67e019cbb9e4f0c821d19fb157bc43e16474e8
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 3844
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.0/com.joshua.volumeflex_1.0_iphoneos-arm.deb
+Size: 866278
+MD5sum: 66c52db8a74b2c26a757f9c7a288f2b2
+SHA1: 7d93a93b7b037dfe0b84c4acdf38999f9a5a1250
+SHA256: 42b7c2dc384ced118a02198151b5581b8647ddee2c8fef3abfbf83d94109c097
+SHA512: 477230cdbb031fb05e6f51ee867062812dd353a2784ce39099b33355cae86dc948250660b575589549464a11dc08de724cb5590bd94530cb72c239913b508e2d
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 3240
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.0/com.joshua.volumeflex_1.0_iphoneos-arm64.deb
+Size: 653100
+MD5sum: 815a710654d221093beaae5c8c40ef00
+SHA1: 79947416b983c537e7093d2edce6d2b13377b985
+SHA256: 507c7b0fbe5a31e804811707541f96ae0e32fcee044a04a54bf14373ac515920
+SHA512: 69a5b29cf665fe2f505ade490bb06c87da6726ab7e1e309278ac9f4f48ae7bfa71785dea213dc790c088e5bfa85592b401a7e1e82d443010407aad66334f2ac5
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 3240
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.0/com.joshua.volumeflex_1.0_iphoneos-arm64e.deb
+Size: 649912
+MD5sum: f942e8b76467397e1355ec3753bcc738
+SHA1: 0b750c3f614e0b672beca478124818d37dfda881
+SHA256: 8935b5c7b49957500372f36f630b34017b13ac49c89d4bd6bfbc9263b37871c3
+SHA512: 7a6d99901337424ad5be907f68936522c2846f2552a114b8294223bda4280b0abe97c7be3d527420dd7437848661b910c838b5ac92576baab07a734a0a2241de
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 5136
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.1/com.joshua.volumeflex_1.1_iphoneos-arm.deb
+Size: 1111034
+MD5sum: 3e20968e4fef0727674427f2c2329528
+SHA1: 1b0a30cd4ace25110dea08315ac30076201f2125
+SHA256: 2442a5c7e20382b5a59209ec00860eefa98088fefc91b18efcf7fdbcbc79eaa8
+SHA512: 7a2ed9d8fb455107c2f930786dce212bf329095e3e46c9eac16b1d97357e6404f6e6aacaf197de8a7acdeb1ed3e8f54b05c96d00155365b152b99b3a4da38428
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 4328
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.1/com.joshua.volumeflex_1.1_iphoneos-arm64.deb
+Size: 829406
+MD5sum: e08b3bf5452b67b680ef4433371ae971
+SHA1: d758ae797a01710df78ef790c3d9bd06e7fda3f4
+SHA256: b1e95d171aeb21fb018e7258ad40fd4ee6d5e7de6d557dd96b1da4ff5b66b0e5
+SHA512: ad65c8baa88454fc51001a7a72e6898f8d08c04d2c0edaf0bfe3ab0217161dd84e111065277a3e78b82a0b26ce24ae3ef2663926d0188db00270c332f95ad0be
+
+Package: com.joshua.volumeflex
+Name: VolumeFLEX
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Maintainer: Joshua Wheeler
+Author: Joshua Wheeler
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 4328
+Filename: https://github.com/Lessica/VolumeFLEX/releases/download/v1.1/com.joshua.volumeflex_1.1_iphoneos-arm64e.deb
+Size: 826582
+MD5sum: afc203436ab3673127319089268790f5
+SHA1: 329b26e14af265a3b4e41cbbacfd538197eb1c0f
+SHA256: bb1309f49a6013c88a9e93182ee2e5a4ff00953770fae4f35dbfe39a4096901d
+SHA512: b4bdd0141c66fb3e7bed93d01b3dbcb58a0f05480101b9fb644beb94a58c7c84d0623d8a53cab4951074861e0ecc6ad4b094504b2b8551f3345585fbe4101618
+
+Package: com.rpetrich.rocketbootstrap
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Name: RocketBootstrap
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Architecture: iphoneos-arm
+Version: 1.0.10~beta5
+Installed-Size: 552
+Filename: https://github.com/Lessica/RocketBootstrap/releases/download/v1.0.10beta5/com.rpetrich.rocketbootstrap_1.0.10.beta5_iphoneos-arm.deb
+Size: 22300
+MD5sum: e6379929c7417946b7ffff68c3e26e4c
+SHA1: f5810a936a50aa6c3721570ddb92a789f9520984
+SHA256: e2ff5a71fab5eb5ee3387d5bbdd18931a4a7657f536f37dbb4660a9055b889f4
+SHA512: 4c6f8ed3d7156a8919453acef0e06a0bc31e52c73d197be92ed080e25e2b13bcbe007751a74268f3f31b3da748a035469104a5dbb5e60f0a6606643c0bdf25d3
+
+Package: com.rpetrich.rocketbootstrap
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Name: RocketBootstrap
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Architecture: iphoneos-arm64
+Version: 1.0.10~beta5
+Installed-Size: 532
+Filename: https://github.com/Lessica/RocketBootstrap/releases/download/v1.0.10beta5/com.rpetrich.rocketbootstrap_1.0.10.beta5_iphoneos-arm64.deb
+Size: 19156
+MD5sum: ba72e0bd298d5e5a785f026a01030191
+SHA1: 54389cef0dacd2f1794330ce6a3f4e815f440933
+SHA256: 75d134cfdb0e7e74d7f7b19f4aadc5f81baeb453724e774c0d6ec8308c669b08
+SHA512: 3a5dc165c75dcb7cebfd6051f2c9ce91919765c2a0adea603fe330f212976c758a0d7cb96426dba569740e8b3bbe7d48b7a633c8761989b7a307f5b2b9d42634
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.1/de.finngaida.daynightswitch_1.1_iphoneos-arm.deb
+Size: 68512
+MD5sum: e480362829dd4779cc8c3f4cd7bac0e9
+SHA1: d1d1bd7310958f1b2cf108974443881dea343e46
+SHA256: 37a9e9f192d427cc139a8e51c50f3bb7d9d01dab0efae9204a5b9af5524704be
+SHA512: 1d08ce4131080408870ccbd4f9b5057d53b46d59ca83b7e21e4d41fb373d74081f0dbe2f8b55c33014a4c39c68caad5fc8f094d92851e639fc26576ac2867511
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.1/de.finngaida.daynightswitch_1.1_iphoneos-arm64.deb
+Size: 68320
+MD5sum: 091a8982ac2d798d7a7859e278c6279c
+SHA1: 05d861de56c2d98e9a7aaa2665bde7a50f81a1ec
+SHA256: b4975bf47302a14fdc0347d6c6c7c312ca80e3c2c7a66d0c77452c36c55a58d2
+SHA512: ed1e23d92fa2303664dea14b40f149abaa91115cb2e2ed79b38445e8c1bdf7bb8b20bc835db3c7f6c18219c23b53b1fdf7d15b9927607066f027284a39f72988
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.1/de.finngaida.daynightswitch_1.1_iphoneos-arm64e.deb
+Size: 66768
+MD5sum: 711ed6149a496bb58ebc74611318d328
+SHA1: bae11db4d55a7dfe7451a36b4af2983ba65a600b
+SHA256: daf49ca3d62a475c95ac3ae6c9997cd7ba0dfae4b5715ea7d73972634fbfd5b4
+SHA512: e769772a38e5cc520f21e63add34ca602fcf2bfdb5fd27a3bc1dfe72641f3812097a32933a91d43652761e7065af139933115de078a15558ea3e8d268a1e61c7
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.2
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.2/de.finngaida.daynightswitch_1.2_iphoneos-arm.deb
+Size: 69204
+MD5sum: 0eb8add2298c5c2dabfd6948aad40ef6
+SHA1: 1d9e497f7972d4eff1972390db78599ec3000c24
+SHA256: 29f80e968d88bd53f78e5c2745fb96859cd0298f481b57d1740637b2e5fb08e5
+SHA512: 3b0b33fad9c7a5b3092a0b5ae8c16a82d829a6f5d6e71d3d1962013083bbd3d820dfab250f7522ef3752c42d951d0b5ac8873c14d526b33630ea1035e56cd403
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.2/de.finngaida.daynightswitch_1.2_iphoneos-arm64.deb
+Size: 69080
+MD5sum: ce08acda2087dfaf347467fafa71d7e6
+SHA1: 045cd5c3a8a068f263badde7caaca382fc6dd8b1
+SHA256: 30f05e49c5195928d9480191b56dd8e4df5523889ae90ae6af63e5bd26c53bbd
+SHA512: f9e77d877dade8e482e44f6cdf624f8860946df6373ce3f6cc0b77e96a3968a7d696634b39f017168ee88c89cb86bb87a26ea2a8c7e80ba8a98d08d17e92ab39
+
+Package: de.finngaida.daynightswitch
+Name: DayNightSwitch
+Depends: firmware (>= 14.0), mobilesubstrate
+Description: Add some style to your switches
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Maintainer: Finn Gaida
+Author: Finn Gaida
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2
+Installed-Size: 584
+Filename: https://github.com/owngoal-dev/DayNightSwitch/releases/download/v1.2/de.finngaida.daynightswitch_1.2_iphoneos-arm64e.deb
+Size: 67228
+MD5sum: c5522813273d8813359ae0fded5bb127
+SHA1: 71558c7475395f0aa6f729a31c508b2c0d6c0f15
+SHA256: 33cf59de50a56197f6a4ba54ccba7011379395e3d641191a862e6333a8e14134
+SHA512: aa976bb3d35d3c2388f95e8d676e54b786b647a9a6b817f64d26307626e39197b0e18a9b0c29b7019f8da19ca9af2b5bc19b8016cbb54ada7f708925ca585ee5
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 2868
+Filename: https://github.com/owngoal-dev/Rose/releases/download/v1.1.0/love.litten.rose_1.1.0_iphoneos-arm.deb
+Size: 432460
+MD5sum: b3a2760273480eadf7d455d941e2f929
+SHA1: c5f89be7cea8dc32eb604e9b9888aba6efe8b235
+SHA256: 1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7
+SHA512: aa1ab64aa7c4cfc30713b4f0e338bce836d41b9a33fc61591a8c9cd7d100e330aac71b3856f852a01d8f2db08df0ec5da1424bc158a7f48ca4c3e735ca5a523a
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 2832
+Filename: https://github.com/owngoal-dev/Rose/releases/download/v1.1.0/love.litten.rose_1.1.0_iphoneos-arm64.deb
+Size: 430810
+MD5sum: db63f7cc63e870de158058d9605a6eea
+SHA1: f27d7c003417f92ef369c06589c523d45a25bb4a
+SHA256: 3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f
+SHA512: 731a15e29d0dc8b8d53994813dcdd5ffc61a9e76dd058a54fae293557c26856c374b23427633b9303283bfeba3179c807d9b4869e4ed4c9d3e2147fb74924d74
+
+Package: love.litten.rose
+Name: Rose 🌹
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 2816
+Filename: https://github.com/owngoal-dev/Rose/releases/download/v1.1.0/love.litten.rose_1.1.0_iphoneos-arm64e.deb
+Size: 429488
+MD5sum: 1408f43be7171677a9c27c6e9c46c5f9
+SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
+SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
+SHA512: e55a2249d056778446a94b48728f360e0d9343e0c63d07db16c17ab12d219213e72115dd0f1bf02d518af9a8769840cfde41f9cb9b727afb08a5b4ae6a5a5e73
+
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.4
+Installed-Size: 168
+Filename: https://github.com/Lessica/GlobalWebInspect/releases/download/v0.4/me.chichou.webinspect-global_0.4_iphoneos-arm.deb
+Size: 4572
+MD5sum: f0fb55bc50fa2282bf5f2565cfa8676f
+SHA1: 1610d2cfc55576c1abc88217130dd0061cc430c5
+SHA256: 0363b7baec23eed73a5098147694c2becc3d79d9c6e494c07d35497830e027d0
+SHA512: d001df1f53fd36110d5e376f30b5c5e86f346ae63ac48a88f28c0c711b4eaf866413ba4338e97f29f9c08fa4bb69b5e2239c58eb43abd6e73098f380970ce26a
+
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.4
+Installed-Size: 168
+Filename: https://github.com/Lessica/GlobalWebInspect/releases/download/v0.4/me.chichou.webinspect-global_0.4_iphoneos-arm64.deb
+Size: 4648
+MD5sum: 82c9d1903e5d47017b1a8a6685eb0df6
+SHA1: 70166959955a20ae77199ecafef442406b457326
+SHA256: 66820c6e3f77e9327377cc7b6c25104d2da2aed51ca751d33fcfe30e5a6442c4
+SHA512: 50ed788c10256c5b41c5c28a2c38b07bf62fd2d33bb7e429cead753fc9397c9bf0abd602a1b7605ad3ce1e0538532cba42f19fffe249bfb8c69199956e57ec4c
+
+Package: me.chichou.webinspect-global
+Name: webinspect
+Depends: mobilesubstrate
+Description: Enable webview remote inspect for every app
+Maintainer: codecolorist
+Author: codecolorist
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 0.4
+Installed-Size: 168
+Filename: https://github.com/Lessica/GlobalWebInspect/releases/download/v0.4/me.chichou.webinspect-global_0.4_iphoneos-arm64e.deb
+Size: 4580
+MD5sum: 43c41199e6548f5beafd3b9eb7ffbbf8
+SHA1: cf223bcd5e47f3fde7ace9734caaefa2cfedb232
+SHA256: ef11958eba2a867ddbaad1260939187c5ec3ed5cb29d3bdc02ca1557333338e1
+SHA512: 2ae34c76518993dbe1b2c2741dc9ead0fcab656e49928c61de21d0e73b8e49f2db6671dd34b3a8c661c9a1bd997f7acc5f98526d0a82e39df4acb62c0b296d7e
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.4-2
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-2/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm.deb
+Size: 17308
+MD5sum: edf2229152b47d7cfef34a397006b78d
+SHA1: 20fe33e1d36a2a9b3e23f8a79a7a98e84ffcdff5
+SHA256: a0713bfc60be1fad75a10d43d21b344b1e44ea3f2ecd3a8cb4f814ed34fbb14d
+SHA512: a0b3bb72a71b915209c5274bf745806ad571960d06b46cc758086c0690519bb7a3ce1a4f77b7a77048680a32f07be8ff16173159a4f2650c0e75b1e36f65d388
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4-2
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-2/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm64.deb
+Size: 17402
+MD5sum: fae172ac2545d5586f74181c827c2ec1
+SHA1: 982be53f99be8d28741c842e72538c86788c5536
+SHA256: ca623f38678fdad976b969cbce1fcacc2820d83a2a5111e568a89b4f637ea4b7
+SHA512: 9ee02fe8107c8dcc269f3466d4d9923204423ffa3fbbe7726b7367daaf15d16caf187d7d08b21ccc37f69096e4d9012a51271626cb4edaa067db65a0d8cadb38
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4-2
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-2/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm64e.deb
+Size: 17346
+MD5sum: 6437067f8a676eb8b648d7e5c61cd5cb
+SHA1: f15f434d82056e9dd343621b728995d1bbfbe0f1
+SHA256: 982f9faca8e991e69186991132d1c25c536a72c40fa8f769db03cbc9dc3ca7a9
+SHA512: 563dc05f04e0a593d022a832cebc2e85bc43d736011955aa0441fabefd1f6c72b3b7e5d41afb0412df469e8d2abc908bfa033c78b92471a7983b486d8dc1d724
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.4-3
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-3/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm.deb
+Size: 17736
+MD5sum: a0a416eb5717de48c5ba36c513d53e18
+SHA1: a61e0bf8da795bcbddc494d33fbcf2daa29dc82b
+SHA256: 0fbadbf29b27ff2bd9c221436de08f4ca989aa63fa7a41356159d3aa644cc282
+SHA512: 8048fd48531eb8bf21f7aabf362cf6eadd4e0e00affb7e4c538e743bc42649e754c90517d369ffa054203f41680af7dd068376a446c315e422d51102610c48a8
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4-3
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-3/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm64.deb
+Size: 17814
+MD5sum: 2b17b18584549b9bd21d9aec72ff424e
+SHA1: a84b1c41420a00b7a6e99b2207a9d41edc23203f
+SHA256: 31001d1074cedba12c388db1b45aa770f0d3d66506fcaea85131162e0faf8ba9
+SHA512: 52e47032bec653361b7772d309116a26c8f4e8f208f066660e97e203296793b0d9f02fc92a5fef343095bf978f44c042725221a21f76c9a95005dfea56c19486
+
+Package: moe.misty.sslkillswitch3
+Name: SSL Kill Switch 3
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: NyaMisty <misty@misty.moe>
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4-3
+Installed-Size: 412
+Filename: https://github.com/Lessica/ssl-kill-switch3/releases/download/v1.4-3/moe.misty.sslkillswitch3_1.4-3_iphoneos-arm64e.deb
+Size: 17740
+MD5sum: dbd0b069a4cc2e60a0e53a89f0e71580
+SHA1: 401277153696c07530558bfec4eeb6bbf7e34719
+SHA256: 54694cc39c7a9fa355140c2de67957797cc84d1a3a393256827c2945be53bb9b
+SHA512: 9477fabc2ef272e96d1321f762916ea2d5f4f477585c8b902ba0d85ae029bfc58541fc24f39deb6e92314f4651b26e34a87acc5329d96a04b24bdd558cb174c5
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm
+Version: 1.29.0
+Installed-Size: 10116
+Filename: https://github.com/Lessica/swift-protobuf/releases/download/1.29.0/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm.deb
+Size: 1445068
+MD5sum: 017bf268428d904822b61d93f7f85082
+SHA1: c5a1eef55c691c5334e8af7bb4051edeeb54309f
+SHA256: 27811a97942c0fbc9b9859e69ed81178c86ac0785f087aa69c06c8048538c024
+SHA512: 8d63032a081b36e27e023bc4308f0536fa8b4e223ab67784a91bf93bd090cc5bfafc51fbdf06025a5e3eab458d84808683ab30925f80a30cf150191d5d4db641
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.29.0
+Installed-Size: 10116
+Filename: https://github.com/Lessica/swift-protobuf/releases/download/1.29.0/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Size: 1446522
+MD5sum: e37adaeb74bb428438d3f55862ebbbf7
+SHA1: 776528a70b3baab6e5b8bd4652ee8ed54f36e8ef
+SHA256: 01434a3786c9a7cc281cea72bcd8a91df4eccbbb860198fc5848fc152099fbfe
+SHA512: 1cba9c41e49e41f8f2fd94951c69860ab81268e447006e968f825714b5bc83aa1f8c995cfd691579a6d08106b6d154a3be19d89b1ee4e3d7079d3be71a52af89
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.29.0
+Installed-Size: 10116
+Filename: https://github.com/Lessica/swift-protobuf/releases/download/1.29.0/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64e.deb
+Size: 1444468
+MD5sum: a01fe41190fd66b29a9c970bab3e17ff
+SHA1: 98dac9cdfd8e49c1a229f10b30a45f07448c25d2
+SHA256: b219b5e08fbfe83aa2c302f4e7669217f2a671531ade7e26f23ac8209a2eeae6
+SHA512: 5ddefe2d9e5b2db85e4eca7c8ec5c084c456f6f0a3eaf9118922e71d1265af31f228e877751abe66fe1375dc7e1d017e013d01b01690029df1983cd70198cd18
+
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm
+Version: 880.120.1
+Installed-Size: 72
+Filename: https://github.com/Lessica/memory_pressure/releases/download/v880.120.1/system-cmds-memory-pressure_880.120.1_iphoneos-arm.deb
+Size: 8266
+MD5sum: 991b32f2ca9fec8810adf863a00964fd
+SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
+SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
+SHA512: 7b207d08de83b379605a8804acc6373c019b338cd8c8010d04d4dd97fd692df6c6bd11c8ccdc456670599abfc340670afd6b886578c7aec96685115537eff096
+
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm64
+Version: 880.120.1
+Installed-Size: 72
+Filename: https://github.com/Lessica/memory_pressure/releases/download/v880.120.1/system-cmds-memory-pressure_880.120.1_iphoneos-arm64.deb
+Size: 8346
+MD5sum: ccb630169a8ac36c5919ce89416b0185
+SHA1: 552666702f1406579f6decef460d799539190c55
+SHA256: 735a94b99902125702fa082d8f73a2cab26e5c801b54e494cf9ab2df5e17fe99
+SHA512: 2a9eb8c54ae94e25647b47b887e52d180c3a5b50b88df6255db22ac3e2f31b97b5ffb4217fb9f4c8b2ae14cc1c6e01f9b240dad848118609e1a6f46d9a860e48
+
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Section: Utilities
+Depends: firmware (>= 13.0)
+Author: Apple Inc.
+Maintainer: Lessica <82flex@gmail.com>
+Description: Tool to apply real or simulate memory pressure on the system.
+Architecture: iphoneos-arm64e
+Version: 880.120.1
+Installed-Size: 72
+Filename: https://github.com/Lessica/memory_pressure/releases/download/v880.120.1/system-cmds-memory-pressure_880.120.1_iphoneos-arm64e.deb
+Size: 8274
+MD5sum: 9e96e3db6589d827b35eb93c82096c28
+SHA1: aa26803626d44c8853ac719a998b3a0063ef26c7
+SHA256: 9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549
+SHA512: 193546bff5efc04e72bc579cd3fbd911c52ac68d919b6cc2629d3c52e3120d6b8ccdec417fdd1f20b03732c7ca4ad7aaea298ec8b9a3b9ff19dcc27ca19ddd53
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.7/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm.deb
+Size: 1476810
+MD5sum: 6663d8e373dade779cdefbb3f639aea7
+SHA1: ed26b92999e6b23af0becc3533f33fb3175ff3b2
+SHA256: 3f6a17f635e8a33a2ff49ad4233ab1b7b32ac527823846d97e47936b1123f794
+SHA512: 8cf33ae667934075ce27d3104a7da00ec2d33a7e473f641a572bc068db982b8727a95a2f3ff136936bfdebf3389b4834fe48d135fb8222f1f81adda94770d415
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.7/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm64.deb
+Size: 1474316
+MD5sum: 0711eb82738688edb819064532780b5b
+SHA1: 03b863495559e140f670eb7ac2d019cdfd3ccb65
+SHA256: ca90e4787452e8749135eebe3f23a86aa949cc8b6cd5d824e1d95a1c5dd91a03
+SHA512: 2fd6c0a05e8ea33a2c758c0d8056a2aed624d76e70f8538458bc86f6d8552b4c9bf50fc20b0658e60897704486779c0343735fc7e3c3f9d3c88a9cdaa55209d4
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.7
+Installed-Size: 6060
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.7/wiki.qaq.colorfulwallpaperx_5.7_iphoneos-arm64e.deb
+Size: 1477522
+MD5sum: 90f0d0cf0ac3bf25edcbffb2e91a319b
+SHA1: 425eb3303a277e0efe2b3f2daca0aaa2f5f955eb
+SHA256: a2880ac39829d2124c52df8a4e6ba0b74ae6220c3a2b5fed76f34bc13ca6b31b
+SHA512: 60ebd0fda1d656536d21f48f2c6b93ec0783f6422814d162c4639377e8fe7799b2bc0b2af9b9c0b0f5c8ed0267bedc8f6dff462335f810b7b74d2d8bcacb6de5
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm.deb
+Size: 1475982
+MD5sum: 35633a81857ed30cc84372be6b26b48a
+SHA1: fc9388e288a8577a7a275bcaa46f00bffe39d9fa
+SHA256: 077c00650d8b7a398c73a146656e7fed7e0d029bc8369a65a27126577547d843
+SHA512: 5f633e91ce283687c20f2f881039247ce33544cefc5ad3d0df2941f278f87c596c46f82f804219fdc7c746895040440c78695963064b056cdb13f5e56816fdea
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm64.deb
+Size: 1477500
+MD5sum: bef8458a2fbd8ec03bbd61cf6e40ca73
+SHA1: 9244fa506fa511432b31ab9f39e5f995f35ad7e6
+SHA256: 43c84985476c9cd98d733ef0367a29375b3538f79a300d011b94fb0ee8a80a45
+SHA512: 1494e57cdf4a76c8146d204a91d11dc8a4af878af1d55caadd833e800a3ab5e968aad0c210374a7242cc5d8279f62a927c00b7c4f60e9122b4561b1b04233651
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.8
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8/wiki.qaq.colorfulwallpaperx_5.8_iphoneos-arm64e.deb
+Size: 1473144
+MD5sum: ee8d3a5cbb5bbc52135c59046c48b061
+SHA1: 6af406242521cf6a4bacd7688f86f0d455635c81
+SHA256: 8a56626092337c69409db7736ab42edbb1d373c3196173838a7d961ea63fb7c0
+SHA512: 4288c251a893a2b1a655ad9fe8fc69087d9043f5d91893fb3dd270f4b8a14d9f3ddf6dc635a3a8ffda490d2eb6d64289c777f1d86edd6e75e598261e590c1386
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8.1/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm.deb
+Size: 1478502
+MD5sum: 06e183f465db2e3367a7d8dbf533c062
+SHA1: 33a06bf062e010a0c43e46613c60946ab491168e
+SHA256: d4a5ed9ce2b2bea33380a1d38ff6c13c9c3042913661f47bd4f980f042e8b4cd
+SHA512: 0471119b891c57855213369161fb564d819276b1e6f635dd6c26cdefcf5f48c77aeb196d712e8a56b1372e7828b8a49d2afb5773531f520ea3eeceabebfc50e2
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8.1/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64.deb
+Size: 1476324
+MD5sum: 13e4f125640e6d8cdfbbaf15a8274af6
+SHA1: e21d2f3ebad003990cbc19a2bf7eff8170564d45
+SHA256: dbd86a727024a58b109c62849146605c58c09aced187e310205a25a789852067
+SHA512: e0d5f187a168ec2a62c885bcbfae20cd71a623b2406b83d9024265bd32cfa878d1243c9955ad610f57abc14c2e98ce77cf17b88086d4b80750f1b90e9a92a75c
+
+Package: wiki.qaq.colorfulwallpaperx
+Name: Colorful Wallpaper X
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 5.8.1
+Installed-Size: 6064
+Depiction: https://havoc.app/depiction/colorfulx
+SileoDepiction: https://havoc.app/package/colorfulx/depiction.json
+Icon: https://apt.82flex.com/icons/66bce1b0debd6e7267e2beac.png
+Filename: https://github.com/owngoal-dev/ColorfulWallpaperX/releases/download/v5.8.1/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64e.deb
+Size: 1474108
+MD5sum: c9274755a91212da8ad81bd53bbec7ae
+SHA1: a120fc4c236089dada7715f83aed56ea01c05ce7
+SHA256: 0cdd747198e3256647ba7687ea7cbfa51ccb431e7c03a05214724b10254ec6da
+SHA512: 3bc7119e6db1f09cc7bf536e66ad879a17afae844e8171a2049aa2fa183a5cf98ff9a89fb6e4b816e79976425ec42e0dbadf2a98fdbf5f8bd19435c3a419b23b
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm.deb
+Size: 16825368
+MD5sum: 10d04294c9dd8b87118603fc76de54ae
+SHA1: 3478c854cebeaf772d6de4d1f621b7a0901011f8
+SHA256: f576a764abbf8e3ae2d298ab85e8a79c4729e450e109a88ed5be53a9bc9ca564
+SHA512: 3cec902256b5079617b658f348afe7ddd1d75174727f9a70c16fe4cc953921590cd0232d81ace9576638c2ff1e5511a49e9c89d3d03f27a989dad0b8c43f41ad
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64.deb
+Size: 16835110
+MD5sum: f4dd58bc7c98c53d2f86ff0d095278c0
+SHA1: 95df77e0c9c1739c776ec9af8dc7f96db976bab3
+SHA256: a5a4734fb5c1e449c2f8720bf9cac23af8c4a78227040d7b101655379927bb81
+SHA512: e387f690245b1a3bc3cb77dcd260c818d160bcb3c9f24a912b744ef988f9211918d2c7b38d8cf71af3063e69e60fb0471f15c5c6e2a716caac7fd49f5f7dcfa0
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.6-3654
+Installed-Size: 69116
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64e.deb
+Size: 16816214
+MD5sum: b40c458adb2b3374dfa48b3cc2ea5f7b
+SHA1: 942dfe955eb9c0f9d9ed41407ac85dcc32b1be19
+SHA256: 62421d4399e2ba42fa864573650d2f7a6e58d7f088d7976bf20b6cf4660dae0a
+SHA512: cdca10d06ebe760576f5aa93d39c6981967c68d6db3bfedf2320fdeaefb5b1c94fc4b16222fa407dd5a70cb90678adf72521f1c58a82c3732e8d77951118e15a
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.7-3658
+Installed-Size: 69268
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm.deb
+Size: 16857578
+MD5sum: 062f788584b931aa2b500825e74286f5
+SHA1: 99a164360799b69a62d26b7c3a75f9de124ce5c9
+SHA256: 0e9a4f42d3dcd04e71b54388c02a9495f96f7e672ee26859fcd32233e6ec6db1
+SHA512: aa3939b18cd38748509b91f69603a9ce1d8ee792ed3f0555f35c737b9841314e9115ce2791916a61467e8faff0e8b2e1bbd9a41e4dbc32b07f63f427db9e2660
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.7-3658
+Installed-Size: 69272
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64.deb
+Size: 16824972
+MD5sum: 98524231ae2261aafe0e83a001e7798c
+SHA1: 3585a2edfb50794d98fb9ce28861e137a6138789
+SHA256: 3f4892605cd29f495586adfa5539d7db91576df9cce293060ac4cae29367a253
+SHA512: e50d5b8510b0182ffd3224260873d2f40b90b1e810fbad7808d3aa88cf72752ed1ed2d9668ca3d8470bacc161f6cc2d4936a9a2a208a7f0b71bca77ef0f97f3d
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.7-3658
+Installed-Size: 69268
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64e.deb
+Size: 16839976
+MD5sum: fae203f2f41f67f71576a6bbfd2e99be
+SHA1: 8114bcc0459e0d7cade9afa0e35de3f07251b1dd
+SHA256: 0e1db6071521fb19cfd902d801963810a9f6473c4ecbbf1e6c0957f44b3fa511
+SHA512: 79071182afd00c3417433a15601258d4510140b27193c3d7a7678dd2c682c2afc34745e0c3834158e7334c774d87f989e0b1efea63c79c28c68eec5e46680928
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm
+Version: 4.7.5-3677
+Installed-Size: 65808
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm.deb
+Size: 16789470
+MD5sum: 9cd0858d38b4d8e3a9abab0bee1c63e0
+SHA1: 5f5bb59f032d4842829f5a696df551f24238f623
+SHA256: a3b9cd2aedb68812930ddcbdb04b36958f97ffef19c3af7e4988ef762fa4f12e
+SHA512: 3c25807fe94c2a6ccdbe2a87aef332c27b63e7bb4407052f247e12673a1bcd1a0aa9cdb31cd214b1b3447e908327adfee72e59e7790d9824075a97826987ebdb
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64
+Version: 4.7.5-3677
+Installed-Size: 65808
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64.deb
+Size: 16781792
+MD5sum: d726bf3b8b363fb229e4f8e705f1ed23
+SHA1: 6078f5783b0038be81ae65a99fe2bdb9de1c7c59
+SHA256: 66f1c31902f9c699f555bbf202c72618e492fda864b13bed3780a8cf28cc2d3e
+SHA512: da97b1b42e8e0150451e8a4f83bae67c37edeb15ff610e9d19f13cf4d4b0ecfbb76a6156d31e61d46c69734f5d82d9cac2bfd2dc3c6336698e8fb15f0e084417
+
+Package: wiki.qaq.trapp.jb
+Name: TrollRecorder JB
+Section: Applications
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Author: Lessica <82flex@gmail.com>
+Maintainer: Lessica <82flex@gmail.com>
+Description: Record your phone calls like never before.
+Architecture: iphoneos-arm64e
+Version: 4.7.5-3677
+Installed-Size: 65808
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
+Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64e.deb
+Size: 16782310
+MD5sum: bf8c6784470d2cf7bac07f36c95897b2
+SHA1: 54c72c9c36854cb0126ac8144b55a1b2fa27291f
+SHA256: d96f8d0c510a6f66099780c7d8853fff70756a75aaaf719df21203fc38c50c3e
+SHA512: 1b97a8b51b5b3c48ffeaa29db7be43e7465631f16810fa63c2e4f215a55d6fdade76599ba7c1beeb55b9eb2282d7e035f8748d63a2055e569af43d48b8d884fd
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2
+Installed-Size: 15276
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.2/wiki.qaq.writenow_2.2_iphoneos-arm.deb
+Size: 3321610
+MD5sum: 5f893eb407fd332fbd7218b5f7413698
+SHA1: 70327ad932accfa77020fa57a968ff0c4bd630d6
+SHA256: a647da9f50bfd793e6152cf90bede4825960eacbe7facf0f2af0212408fec4e5
+SHA512: 43c8e440ee102aa4dedd34f050d95033082b594e5f35e4c0ecc0c79eac6d51af846c4326dd57f05f295d655baece497a4f49aac3b0bd2603b1ddad204c082122
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.2
+Installed-Size: 15276
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.2/wiki.qaq.writenow_2.2_iphoneos-arm64.deb
+Size: 3320736
+MD5sum: b28ce1cf449ddad3d895ae1b0fb0453d
+SHA1: baee4410b3a39f6cb2ce15455c3319bdb63ad88c
+SHA256: eaa6365046a2b1daba84a2b597162dbc6bb75f0c830f929667f63d7fb3645d30
+SHA512: c87df1591a905ac669f21d83e9d17bb33f5db55461064e9c7aa8536d674cb663dcfff8e9848c5b5daed26a92002159037de7dc03e55cbaab8882ea6a4ab2d381
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.2
+Installed-Size: 15276
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.2/wiki.qaq.writenow_2.2_iphoneos-arm64e.deb
+Size: 3316218
+MD5sum: 573e2ec3f4a8711a40eb47f9acb0eec9
+SHA1: 6a2b9adbae7ac51d1a105c13be26843fbd85b1f7
+SHA256: 95e7d1636b6c262317dac734829a945c3caf8e8d4820a72d407d42f1bf578652
+SHA512: 690bc60d602f2178bcdb80f276b69814df8929b7656df14d2d2ebd5638244ddfaedbe63025bca2c65a8e360e0ac0293bbcb17d2a41c3f5bb2b96f6263426663a
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 2.3
+Installed-Size: 15288
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.3/wiki.qaq.writenow_2.3_iphoneos-arm.deb
+Size: 3321216
+MD5sum: 558145ba2eff383c908fcd4e0dc7ce50
+SHA1: 01d73af8d276ee480d1fdc5dee54f09572727b66
+SHA256: e4d3779a12daa83e13d483a523413940364f4a114579abf1824a4c3e8b5f0db2
+SHA512: 642db2abe12922c165f40e9f9dd7c2484d4151f77d0eacc32d51b9634ef559bbccf6c85585d995b600938762077a767b57171a4d80de45bb7a95fa2ca3b59836
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.3
+Installed-Size: 15288
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.3/wiki.qaq.writenow_2.3_iphoneos-arm64.deb
+Size: 3322382
+MD5sum: 7f5957709fc71bd2bc1eb6a2bdd3f72a
+SHA1: c3ac0a8499a14dca46e700d4f84021b09180537b
+SHA256: e2a395f1f3ae785715de9faf714c2b93039a605c77d853a94b8843472c133f9d
+SHA512: 77a0ad7dc29096d3b2ed0130d9d68ad21eb81b97eab451bf18d96974f747e01e4264c996beed1501429f852970a3288afc9b728bfc9dd3ccbdf132e142dd0293
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.3
+Installed-Size: 15288
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.3/wiki.qaq.writenow_2.3_iphoneos-arm64e.deb
+Size: 3317954
+MD5sum: 04c09454972d215b452ccaf511aad29f
+SHA1: 205d14ea991ae48054bbb2dd8656d8cb9406ce21
+SHA256: 34b7ef58308675d38c9d941548b795a7107b29b2a65d07f47e88cf0fbc626abb
+SHA512: 25cce3c2bda965cfcf45983faae56a25fbd630e507ddf1aff4d989d65aa320a3a2b0b7034ac10bc8a865d475b85a2179585d0836c746c9f2dd82020e09e25626
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 2.4
+Installed-Size: 11060
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.4/wiki.qaq.writenow_2.4_iphoneos-arm.deb
+Size: 2574554
+MD5sum: 6dc8db742341c22107f2dd8f32fc08e7
+SHA1: fd947e1420219e1610bd9bd97273a5d76c77db26
+SHA256: c03a31bcec8c49d2d56cd7cd323317f8f321a9163a39b3a499962712fd080007
+SHA512: e6beb37bfaabb7a7b3bfac80d51880e59743ed059897346446a0789b22909ee6ea580090df3729f4660f3a09a6b21eb292a7a616818a38eaca1113af80eea8ea
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.4
+Installed-Size: 11060
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.4/wiki.qaq.writenow_2.4_iphoneos-arm64.deb
+Size: 2574454
+MD5sum: fef9f8ac34581710824673b30cf67afa
+SHA1: cdb7c74881064830a3de4bbdc3421a90e030d8cd
+SHA256: f34874c5656a954e05d206f4119377fd472d52b17badaadc7d14adb7b7aabb3a
+SHA512: 00eba828dc1c605f7448b2caf55e8baf9f4bc49b3ca03072e0b0851bb2af2655abb2a2a07db5a22f8392544ec6715e4a8a6c88c168bcfddfe23dec38e8362c42
+
+Package: wiki.qaq.writenow
+Name: Write Now
+Description: AI tool within your hands.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.4
+Installed-Size: 11076
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://apt.82flex.com/icons/68c57e59a25de63e9b02e964.png
+Filename: https://github.com/owngoal-dev/WriteNow/releases/download/v2.4/wiki.qaq.writenow_2.4_iphoneos-arm64e.deb
+Size: 2572380
+MD5sum: fefc988a4b26562f1975294728a4a5db
+SHA1: 4ddb4d4b8dcfd312b1c9b21a7c508ccdd221bd54
+SHA256: 6aac278ee54996693c8bb42be4c1b9eb60e20a74b04812e521c24e8aa0e71389
+SHA512: e5646f6eb1c5598fe6c56d1fbf15a3ce655e70662b2d2c543bc6b78051b03023b187d6734dc5189a8f099219d4ba930fdbecb9c8b5c0741039323d806bacf11f
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.3
+Installed-Size: 172
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v0.0.3/xcode-any-debug_0.0.3_iphoneos-arm.deb
+Size: 5918
+MD5sum: 3e6e1eb8fc35483f1f75c5f42240f948
+SHA1: 349ea73e840051202b9ba0bce6590e909eb22af6
+SHA256: 350cda042d45bad44f8293120f407688bdb2beb43598b48fbb230efd44ea46ad
+SHA512: 77a7f5ce9eda46121852995b5f33442ce4ec34083ec470433c3baecaf22dafcec6bd3644da0643942de16d7319c98e8bd4578c59e64d1b28f922fe538eb47f4c
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 172
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v0.0.3/xcode-any-debug_0.0.3_iphoneos-arm64.deb
+Size: 5862
+MD5sum: dff7791ad007a5382221b2d483cb033e
+SHA1: 28fc0fab71759f5bdbab3af819f8c1f2d4bcf6cc
+SHA256: 8cb7555857470fee5dc52f43b4c587383b9901a31645ad80298a2345530d34cf
+SHA512: a029227961e82abac477c970218fd4f178db6d6446666637b6ff41a485ea13271afb7a5f9a24c6e42d16e0dab988fd797db49de841e8b76f9bb992ecbe557c93
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 172
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v0.0.3/xcode-any-debug_0.0.3_iphoneos-arm64e.deb
+Size: 4468
+MD5sum: 0abeb305c95ccf3b44b716bcf7fe5500
+SHA1: e773745257b754e1f9e9e0ef3dba30cb5f55ac4b
+SHA256: 53cfc3c7270d126fb00cb959608ab37e6d6260754c94ed20ae15cc73fd0f79d1
+SHA512: 361fe62da4cd0dd5e3956a411dc3f8809957d31311748f3accdeb67f06e5db0fba2ea1f30fb1ff53e29317db985ea225faf74c2b176d905018c9fc1f5c6e558f
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0
+Installed-Size: 184
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v1.0/xcode-any-debug_1.0_iphoneos-arm.deb
+Size: 6938
+MD5sum: 23787cd725182cabd929670f72f1ac42
+SHA1: a1cbcb2cb387a57ad80c1b87b7751f8af9d2ef37
+SHA256: 08528522bf6371c7cf29fc6d167a0b80e9f9997efdd414063f1ae47bf80b2460
+SHA512: 2f522a0355bda9bd8a0e4df2fe0fc5230ed8078c2af0748f3398eb9353aff2d24e8157b40aaa5a79633f9692b638fd7f8452e613762a62e9e2ba87f51c346ebe
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 184
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v1.0/xcode-any-debug_1.0_iphoneos-arm64.deb
+Size: 6908
+MD5sum: 7964040631585b14e5cb54d411de41ce
+SHA1: 1e2f4a352d7c887a3ec77a098a7605c52962ef29
+SHA256: ab23ca646af28a6b3528124c4199cf03e18b4a4d8408344c70a71ca6d7eb38b0
+SHA512: 7bb5e62b5364e159dad619b420d127e279e01ec11d592aa7966cb21af36d945dcf9db9a0395c4b4d5e0e6e32c74408056b94077423f76b983b184fb0db3b2b9a
+
+Package: xcode-any-debug
+Name: Xcode Any Debug
+Description: debug any process with xcode (jailbroken required)
+Maintainer: roothide
+Author: roothide
+Section: Tweaks
+Depends: ldid, plutil, mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 184
+Filename: https://github.com/Lessica/XcodeAnyDebug/releases/download/v1.0/xcode-any-debug_1.0_iphoneos-arm64e.deb
+Size: 5748
+MD5sum: ec2f3ba7ca2aa04de1baf009ae0e9f04
+SHA1: cdfe20b86fbeefd49a8e7c40b4b30764b387bd74
+SHA256: 12ca73ca40f87e62800257b3f6d177bc916065e3f9e96b183436bb5364ea6a2f
+SHA512: d6401b51b88ea2c6c3e0a365b819082066246c9c72705cade09527ec52b854a4928ce8eefdf5ff545d37a949d5874ce7b87e7b6d7f22c521d17b3ca934da9f81

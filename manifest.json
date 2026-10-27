@@ -1,0 +1,161 @@
+{
+  "baseUrl": "https://apt.82flex.com",
+  "keepVersions": 3,
+  "packages": [
+    {
+      "repository": "https://github.com/Lessica/TrollRecorder",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/TrollSpeed",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/WriteNow",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/Kayoko",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/NoRedirect",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/RemoveWidgetBackground",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/IconRestore",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/ColorfulWallpaperX",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/Touch-Viz",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/WTVRBGLauncher",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/SingleVPN",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/SingleMute",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/XcodeRootDebug",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/XXTouchElite",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/Rose",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/OhMyInsets",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/ArtworkSpinner",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/DayNightSwitch",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/XcodeAnyTroll",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/XcodeAnyDebug",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/TrollVNC",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/VolumeFLEX",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/Unseen",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/AMLyrics",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/SandyXpc",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/socpowerbud",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/memory_pressure",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/objsee-ios",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/RocketBootstrap",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/swift-protobuf",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/YTMusicUltimate",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/ssl-kill-switch3",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/GlobalWebInspect",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/Lessica/NetworkSniffer",
+      "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
+    }
+  ],
+  "havocMappings": {
+    "wiki.qaq.trapp.jb": "trollrecorderjb",
+    "ch.xxtou.hudapp.jb": "trollspeedjb",
+    "com.82flex.iconrestore": "iconrestore",
+    "com.82flex.noredirect": "noredirect",
+    "com.82flex.removewidgetbg": "removewidgetbg",
+    "com.82flex.singlemute": "singlemute",
+    "com.82flex.singlevpn": "singlevpn",
+    "com.82flex.touchvis": "touchvis",
+    "wiki.qaq.colorfulwallpaperx": "colorfulx",
+    "wiki.qaq.writenow": "writenow",
+    "ch.xxtou.xxtouch": "xxtouchelite",
+    "com.82flex.trollvnc": "trollvncjb",
+    "com.82flex.kayoko": "kayoko"
+  },
+  "packageTitleMappings": {
+    "wiki.qaq.colorfulwallpaperx": "Colorful Wallpaper X"
+  },
+  "hiddenPackages": ["ch.xxtou.hudapp"]
+}
