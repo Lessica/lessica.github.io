@@ -71,9 +71,10 @@ jobs:
       - name: Push changes
         run: |
           git add Packages Packages.gz Packages.bz2 Packages.xz Packages.zst Release icons
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -sS -m "update dists"
-            git push
+          if git diff --cached --quiet -- Packages Packages.gz Packages.bz2 Packages.xz Packages.zst icons; then
+            echo "No package or icon changes."
+            git reset --hard HEAD
+            exit 0
           fi
+          git commit -sS -m "update dists"
+          git push
