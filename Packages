@@ -2793,6 +2793,44 @@ SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
 SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
 SHA512: 0aaa646b46e5799cdde3272981cdf8c4e5cbeffd948a0267656188f2b3694e328bc43c678283b15fc55fd1ed652f4233c6403b20bee0cde7bdf504a740076e7b
 
+Package: com.fizz.ripple
+Name: Fizz
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Description: Two-finger spread gesture for the home screen: the icons ripple outwards, every app badge grows out and fades away and is kept cleared, and one system tap marks the moment they are gone.
+Depiction: https://havoc.app/depiction/fizz
+SileoDepiction: https://havoc.app/package/fizz/depiction.json
+Icon: https://apt.82flex.com/icons/6af5b1cd43a1d93431049c68.png
+Filename: https://github.com/owngoal-dev/Fizz/releases/download/v0.1.2/com.fizz.ripple_0.1.2_iphoneos-arm64.deb
+Size: 114076
+MD5sum: 2363f990cf080799fcffe9842edf8033
+SHA1: cf6863f2413a8eefa78119d129389a09e66e2c5a
+SHA256: 5ef11371a6715c873379606da84e36d1f2ee14c088eda4858721ccf76c89d04d
+SHA512: f4bd975ad8ab91779f15e5bcb73476321f0728460777005cbb3da5f015c9babd7211d859adb80ad9e0847f2542272acc09d65fe9cd7a1341afd3b4c210813f22
+
+Package: com.fizz.ripple
+Name: Fizz
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Description: Two-finger spread gesture for the home screen: the icons ripple outwards, every app badge grows out and fades away and is kept cleared, and one system tap marks the moment they are gone.
+Depiction: https://havoc.app/depiction/fizz
+SileoDepiction: https://havoc.app/package/fizz/depiction.json
+Icon: https://apt.82flex.com/icons/6af5b1cd43a1d93431049c68.png
+Filename: https://github.com/owngoal-dev/Fizz/releases/download/v0.1.2/com.fizz.ripple_0.1.2_iphoneos-arm64e.deb
+Size: 100648
+MD5sum: 108b80ffd8c5493857f2adf33f411b40
+SHA1: 5588c01e542a9190c9d2c6be19bbed9149a10a27
+SHA256: b6a0205d7c20135d20385bddf363fb35e52f8bcc978c7806f6d33d3986a0ada5
+SHA512: 5df73c6296cac14714c387159b374b136b11a22a796fa317d7f5d716286862c1cb5f547acfef04f2a7309191403eccc9db8e62e510822315547fa2b404065136
+
 Package: com.joshua.volumeflex
 Name: VolumeFLEX
 Description: The world does not need another FLEX loader but people with fat fingers do.
