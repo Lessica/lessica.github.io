@@ -129,6 +129,10 @@
     {
       "repository": "https://github.com/Lessica/CranePKDServerFix",
       "architectures": ["iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/Fizz",
+      "architectures": ["iphoneos-arm64", "iphoneos-arm64e"]
     }
   ],
   "havocMappings": {
@@ -144,7 +148,8 @@
     "wiki.qaq.writenow": "writenow",
     "ch.xxtou.xxtouch": "xxtouchelite",
     "com.82flex.trollvnc": "trollvncjb",
-    "com.82flex.kayoko": "kayoko"
+    "com.82flex.kayoko": "kayoko",
+    "com.fizz.ripple": "fizz"
   },
   "packageTitleMappings": {
     "wiki.qaq.colorfulwallpaperx": "Colorful Wallpaper X"
