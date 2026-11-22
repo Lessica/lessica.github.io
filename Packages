@@ -1253,6 +1253,86 @@ SHA1: f3679acaddd38a1775a48ade83603d4f39294c1b
 SHA256: e11225cd476e4bb03bfe6434fb3093bc5aa3b911b9a98bdc81c3c4f7e0d24ee0
 SHA512: 57e668ee995ed49bb4c8e9e63a2b279413ea9ba408239a97f2932f16be1c454c7db2077cdb4489b78051506c3f6d9d78f371c5650ddc3eaf8814c15d07d20686
 
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.15
+Installed-Size: 3760
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.0.15/com.82flex.panoramicview_1.0.15_iphoneos-arm64.deb
+Size: 718628
+MD5sum: 255882d57b947c08451e2606249840bd
+SHA1: 1a36a4dcf888c8c0afff64045cf4b8badd48f8f2
+SHA256: 23d8c660965176190d945713b72883aa325e1185f4f7c32f118907a361606f08
+SHA512: 4286258ff2835551fda8d3cac94952cabd4f2bae9628d8fd7fa768f822b699c1db59cab16c32e2630b82ff9fa18df6c86b7e5eba0df907f490eee156641525d0
+
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.0.15
+Installed-Size: 3760
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.0.15/com.82flex.panoramicview_1.0.15_iphoneos-arm64e.deb
+Size: 717528
+MD5sum: b865cf447810ecb0e11e452bf1b5cc64
+SHA1: 40258980c10c702c6caa969c870fcf3f5e8f5c1d
+SHA256: 58f721e099225075de1617037f2c9bd6989f19238e526518a9e1721e19dc2511
+SHA512: 5b81b13ec53c337c946287db82eb5536763048aac31299aee19b02b2d7518eb4de486031c71ddee7182882b7ac7fd4e15285f01bdf4c5817aa09b875f57a2118
+
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.16
+Installed-Size: 3716
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.0.16/com.82flex.panoramicview_1.0.16_iphoneos-arm64.deb
+Size: 720596
+MD5sum: f96bfbe9d3d6cc368fa9c8ff86c7429d
+SHA1: 924166f85d6c8c211883aa14df37aeef47925e49
+SHA256: 0471b645bf1a2366232038a03c14c729153ed054504358480b5f56b75cb3c416
+SHA512: 15b0d4636680c2ba95ad1667c9920b8b840812742d17350c0390fdaf4ecd0779a71d2092cc8616366a53b430e9038a07b5fc7dfb4295e33583245295e7c4c2f8
+
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.0.16
+Installed-Size: 3716
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.0.16/com.82flex.panoramicview_1.0.16_iphoneos-arm64e.deb
+Size: 718580
+MD5sum: fdc72e88e1b2831702ac56544a66582e
+SHA1: 7d33e1dfc358155d41decda0ee9cfd508ea2f6b5
+SHA256: 28f100c7d8383f74e170d1e0e926dce5902fa47716f09381187e5caa204fe341
+SHA512: b9e7fff03caa5b22c3be30d3a860074046b6dd45377b2398d8e5a709b338bc7fe287b88db6994d2ac8267a81b6fbc550525eee77a91de8600e91ccea2fed5427
+
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
 Description: Remove the background of the widgets on the home screen.
@@ -3539,7 +3619,7 @@ Installed-Size: 69116
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm.deb
 Size: 16825368
 MD5sum: 10d04294c9dd8b87118603fc76de54ae
 SHA1: 3478c854cebeaf772d6de4d1f621b7a0901011f8
@@ -3559,7 +3639,7 @@ Installed-Size: 69116
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64.deb
 Size: 16835110
 MD5sum: f4dd58bc7c98c53d2f86ff0d095278c0
 SHA1: 95df77e0c9c1739c776ec9af8dc7f96db976bab3
@@ -3579,7 +3659,7 @@ Installed-Size: 69116
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64e.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.6-3654/wiki.qaq.trapp.jb_4.6-3654_iphoneos-arm64e.deb
 Size: 16816214
 MD5sum: b40c458adb2b3374dfa48b3cc2ea5f7b
 SHA1: 942dfe955eb9c0f9d9ed41407ac85dcc32b1be19
@@ -3599,7 +3679,7 @@ Installed-Size: 69268
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm.deb
 Size: 16857578
 MD5sum: 062f788584b931aa2b500825e74286f5
 SHA1: 99a164360799b69a62d26b7c3a75f9de124ce5c9
@@ -3619,7 +3699,7 @@ Installed-Size: 69272
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64.deb
 Size: 16824972
 MD5sum: 98524231ae2261aafe0e83a001e7798c
 SHA1: 3585a2edfb50794d98fb9ce28861e137a6138789
@@ -3639,7 +3719,7 @@ Installed-Size: 69268
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64e.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7-3658/wiki.qaq.trapp.jb_4.7-3658_iphoneos-arm64e.deb
 Size: 16839976
 MD5sum: fae203f2f41f67f71576a6bbfd2e99be
 SHA1: 8114bcc0459e0d7cade9afa0e35de3f07251b1dd
@@ -3659,7 +3739,7 @@ Installed-Size: 65808
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm.deb
 Size: 16789470
 MD5sum: 9cd0858d38b4d8e3a9abab0bee1c63e0
 SHA1: 5f5bb59f032d4842829f5a696df551f24238f623
@@ -3679,7 +3759,7 @@ Installed-Size: 65808
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64.deb
 Size: 16781792
 MD5sum: d726bf3b8b363fb229e4f8e705f1ed23
 SHA1: 6078f5783b0038be81ae65a99fe2bdb9de1c7c59
@@ -3699,7 +3779,7 @@ Installed-Size: 65808
 Depiction: https://havoc.app/depiction/trollrecorderjb
 SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
 Icon: https://apt.82flex.com/icons/6669b3d5f0419252d3535a28.png
-Filename: https://github.com/Lessica/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64e.deb
+Filename: https://github.com/owngoal-dev/TrollRecorder/releases/download/v4.7.5-3677/wiki.qaq.trapp.jb_4.7.5-3677_iphoneos-arm64e.deb
 Size: 16782310
 MD5sum: bf8c6784470d2cf7bac07f36c95897b2
 SHA1: 54c72c9c36854cb0126ac8144b55a1b2fa27291f
