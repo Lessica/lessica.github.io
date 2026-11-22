@@ -133,6 +133,10 @@
     {
       "repository": "https://github.com/owngoal-dev/Fizz",
       "architectures": ["iphoneos-arm64", "iphoneos-arm64e"]
+    },
+    {
+      "repository": "https://github.com/owngoal-dev/PanoramicView",
+      "architectures": ["iphoneos-arm64", "iphoneos-arm64e"]
     }
   ],
   "havocMappings": {
@@ -149,7 +153,8 @@
     "ch.xxtou.xxtouch": "xxtouchelite",
     "com.82flex.trollvnc": "trollvncjb",
     "com.82flex.kayoko": "kayoko",
-    "com.fizz.ripple": "fizz"
+    "com.fizz.ripple": "fizz",
+    "com.82flex.panoramicview": "panoramic"
   },
   "packageTitleMappings": {
     "wiki.qaq.colorfulwallpaperx": "Colorful Wallpaper X"
