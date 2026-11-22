@@ -3,7 +3,7 @@
   "keepVersions": 3,
   "packages": [
     {
-      "repository": "https://github.com/Lessica/TrollRecorder",
+      "repository": "https://github.com/owngoal-dev/TrollRecorder",
       "architectures": ["iphoneos-arm", "iphoneos-arm64", "iphoneos-arm64e"]
     },
     {
