@@ -1333,6 +1333,46 @@ SHA1: 7d33e1dfc358155d41decda0ee9cfd508ea2f6b5
 SHA256: 28f100c7d8383f74e170d1e0e926dce5902fa47716f09381187e5caa204fe341
 SHA512: b9e7fff03caa5b22c3be30d3a860074046b6dd45377b2398d8e5a709b338bc7fe287b88db6994d2ac8267a81b6fbc550525eee77a91de8600e91ccea2fed5427
 
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Installed-Size: 3868
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.1.2/com.82flex.panoramicview_1.1.2_iphoneos-arm64.deb
+Size: 744144
+MD5sum: 22b1840565c677bb92d7998c6cb11b72
+SHA1: 34bb4d455a9eb700f9810902d3addc1e255182f4
+SHA256: 908bffce003c99b270169a3f9416a0000a5e3220dede38ac9d0299d7d864c82d
+SHA512: 36b8b983deac0a001459079208d1513ffef0a698af8b41df86231a7c746ac5d8d2d73dcbf71067e47613b7c7727df43d92596a03eb58412355d6628f4156df71
+
+Package: com.82flex.panoramicview
+Name: PanoramicView
+Description: Two apps, full size, one swipe apart.
+Maintainer: 82Flex
+Author: 82Flex
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Installed-Size: 3868
+Depiction: https://havoc.app/depiction/panoramic
+SileoDepiction: https://havoc.app/package/panoramic/depiction.json
+Icon: https://apt.82flex.com/icons/6af95d6263c35564626b7271.png
+Filename: https://github.com/owngoal-dev/PanoramicView/releases/download/v1.1.2/com.82flex.panoramicview_1.1.2_iphoneos-arm64e.deb
+Size: 743304
+MD5sum: c3fe0e3185ee4f952a72b176ada85732
+SHA1: 2ccfafc510da550bd2444323b055c40da9003c0f
+SHA256: cfcac252ba19ec90a430ccb6bf8aba94a9053ce2463279634ce3d31948293e52
+SHA512: 08d43d18b585250500eb1f6b530ac59c6bfeb19a65ed5689a2054427c3bd6209a07536a15c672cc0ce2311d87f60567f38f2b965eb06563bdbb6ae898be8096e
+
 Package: com.82flex.removewidgetbg
 Name: Remove Widget Background
 Description: Remove the background of the widgets on the home screen.
